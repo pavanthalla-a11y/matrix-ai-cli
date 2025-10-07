@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+matrix_ai/cli.py
+matrix_ai/core/ai.py
+matrix_ai/core/analytics.py
+matrix_ai/core/cache.py
+matrix_ai/core/config.py
+matrix_ai/core/google_auth.py
+matrix_ai/core/notifications.py
+matrix_ai/core/schemas.py
+matrix_ai/core/sdv.py
+matrix_ai_cli.egg-info/PKG-INFO
+matrix_ai_cli.egg-info/SOURCES.txt
+matrix_ai_cli.egg-info/dependency_links.txt
+matrix_ai_cli.egg-info/entry_points.txt
+matrix_ai_cli.egg-info/requires.txt
+matrix_ai_cli.egg-info/top_level.txt
