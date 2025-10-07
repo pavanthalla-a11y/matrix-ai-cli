@@ -9,7 +9,7 @@ Matrix AI CLI provides a simple yet powerful way to create high-fidelity synthet
 ## ✨ Key Features
 
 * **High-Fidelity Synthetic Data**: Leverages the Synthetic Data Vault (SDV) libraries to create statistically accurate data.
-* **AI-Powered Schemas**: Uses AI to automatically infer schemas and relationships from your data sources.
+* **AI-Powered Schemas**: Uses AI to automatically infer schemas and relationships.
 * **Simple Command-Line Interface**: Easy to integrate into your existing scripts and data workflows.
 * **Secure Authentication**: Integrates with Google Cloud for secure access to your cloud resources.
 
