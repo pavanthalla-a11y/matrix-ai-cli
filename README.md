@@ -29,3 +29,7 @@ pip install -r requirements.txt
 
 # Install the CLI tool
 pip install .
+
+#Sample command
+matrix-ai --description "A multi table database with tables customers and transactions" --records 100 --output ./bank_data/
+(The csv files will be stored in the same directory folder named /bank_data)
