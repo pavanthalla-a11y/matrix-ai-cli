@@ -711,7 +711,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
     OPTIMIZED: Uses batch processing and faster synthesizers with AI-driven constraint validation.
     """
     try:
-                if progress_callback: progress_callback("processing", "AI-based constraint validation", 3)
+        if progress_callback: progress_callback("processing", "AI-based constraint validation", 3)
 
         # STEP 1: AI validates seed data for constraint violations
         from .ai import validate_seed_data_with_ai, fix_seed_data_with_ai
@@ -725,7 +725,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
                 logger.info(f"Violations: {validation_result.get('violations', [])}")
 
                 # Let AI fix the violations
-                                if progress_callback: progress_callback("processing", "AI fixing constraint violations", 4)
+                if progress_callback: progress_callback("processing", "AI fixing constraint violations", 4)
                 seed_tables_dict = fix_seed_data_with_ai(
                     data_description,
                     seed_tables_dict,
@@ -736,22 +736,22 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
             else:
                 logger.info("✅ No constraint violations detected by AI")
 
-                if progress_callback: progress_callback("processing", "Cleaning seed data", 5)
+        if progress_callback: progress_callback("processing", "Cleaning seed data", 5)
 
         # STEP 2: Clean the seed data (basic sanitization only)
         cleaned_seed_tables_dict = clean_seed_data(seed_tables_dict, metadata_dict)
         
         # STEP 3: Fix primary key uniqueness
-                if progress_callback: progress_callback("processing", "Fixing primary key uniqueness", 6)
+        if progress_callback: progress_callback("processing", "Fixing primary key uniqueness", 6)
         pk_fixed_seed_tables_dict = fix_primary_key_uniqueness(cleaned_seed_tables_dict, metadata_dict)
 
         # STEP 4: Validate referential integrity (only basic checks, let SDV handle relationships)
-                if progress_callback: progress_callback("processing", "Validating referential integrity", 7)
+        if progress_callback: progress_callback("processing", "Validating referential integrity", 7)
         integrity_report = validate_referential_integrity(pk_fixed_seed_tables_dict, metadata_dict)
 
         if not integrity_report["is_valid"]:
             logger.warning(f"Referential integrity issues detected: {len(integrity_report['violations'])} violations")
-                        if progress_callback: progress_callback("processing", "Fixing referential integrity", 8)
+            if progress_callback: progress_callback("processing", "Fixing referential integrity", 8)
             cleaned_seed_tables_dict = fix_referential_integrity(cleaned_seed_tables_dict, metadata_dict)
         else:
             logger.info("✅ Referential integrity validation passed")
@@ -781,7 +781,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
             # DEMO FIX: Repair metadata before validation
             repaired_metadata_dict = repair_metadata_structure(metadata_dict)
             metadata = Metadata.load_from_dict(repaired_metadata_dict)
-                        if progress_callback: progress_callback("processing", "Validating metadata", 10)
+            if progress_callback: progress_callback("processing", "Validating metadata", 10)
             metadata.validate()
             logger.info("Metadata is valid. Proceeding to optimized synthesis.")
         except Exception as e:
@@ -824,11 +824,11 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
                     # DEMO-SAFE: Always use GaussianCopula for reliability
                     synthesizer = GaussianCopulaSynthesizer(single_metadata)
                     
-                                        if progress_callback: progress_callback("processing", f"Training {table_name}", 30)
+                    if progress_callback: progress_callback("processing", f"Training {table_name}", 30)
                     synthesizer.fit(table_df)
                     
                     # Generate data in batches to manage memory while ensuring exact record count
-                                        if progress_callback: progress_callback("processing", f"Generating {table_name}", 50)
+                    if progress_callback: progress_callback("processing", f"Generating {table_name}", 50)
                     safe_batch_size = min(batch_size, 2000)
                     remaining_records = num_records
                     synthetic_parts = []
@@ -840,7 +840,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
                         remaining_records -= current_batch_size
                         
                         progress_percent = int(30 + (60 * (num_records - remaining_records) / num_records))
-                                                if progress_callback: progress_callback("processing", 
+                        if progress_callback: progress_callback("processing", 
                                        f"Generating {table_name} ({num_records - remaining_records}/{num_records} records)", 
                                        progress_percent)
                         
@@ -856,7 +856,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
             else:
                 # Multi-table with relationships - use HMA but with more error handling
                 logger.info("Using unified multi-table approach with HMA")
-                                if progress_callback: progress_callback("processing", "Preparing relational synthesis", 25)
+                if progress_callback: progress_callback("processing", "Preparing relational synthesis", 25)
                 
                 # DEMO-SAFE: Clean data more aggressively before HMA
                 try:
@@ -869,11 +869,11 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
                 # DEMO-SAFE: Use conservative HMA settings
                 synthesizer = HMASynthesizer(metadata)
                 
-                                if progress_callback: progress_callback("processing", "Training HMA synthesizer", 30)
+                if progress_callback: progress_callback("processing", "Training HMA synthesizer", 30)
                 synthesizer.fit(cleaned_tables)
                 
                 # Generate data in batches with proper scaling
-                                if progress_callback: progress_callback("processing", "Generating relational data", 60)
+                if progress_callback: progress_callback("processing", "Generating relational data", 60)
                 
                 # Calculate scale factor based on seed data size
                 max_seed_rows = max(len(df) for df in cleaned_tables.values())
@@ -899,7 +899,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
                             all_synthetic_data[table_name] = pd.concat([all_synthetic_data[table_name], df], ignore_index=True)
                     
                     progress_percent = int(60 + (30 * (batch_idx + 1) / num_batches))
-                                        if progress_callback: progress_callback("processing", 
+                    if progress_callback: progress_callback("processing", 
                                    f"Generated batch {batch_idx + 1}/{num_batches}", 
                                    progress_percent)
                     
@@ -940,7 +940,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
 
         # SIMPLIFIED: Only apply basic datetime constraint fixes
         # AI already validated constraints in seed data, SDV learned from clean seed data
-                if progress_callback: progress_callback("processing", "Applying basic datetime fixes", 85)
+        if progress_callback: progress_callback("processing", "Applying basic datetime fixes", 85)
 
         datetime_constraints = identify_datetime_constraints(metadata_dict)
 
@@ -958,7 +958,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
             logger.info("No datetime constraints - skipping")
 
         # NEW: AI-driven precise constraint enforcement for row-level conditional logic
-                if progress_callback: progress_callback("processing", "Enforcing precise row-level constraints with AI", 88)
+        if progress_callback: progress_callback("processing", "Enforcing precise row-level constraints with AI", 88)
 
         if data_description:
             from .ai import enforce_precise_constraints_with_ai
@@ -970,7 +970,7 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
             )
             logger.info("✅ Precise constraint enforcement complete")
 
-                if progress_callback: progress_callback("processing", "Finalizing data", 90)
+        if progress_callback: progress_callback("processing", "Finalizing data", 90)
         total_records = sum(len(df) for df in all_synthetic_data.values())
         logger.info(f"Successfully generated {total_records} total records")
         
@@ -983,5 +983,5 @@ def generate_sdv_data_optimized(num_records: int, metadata_dict: Dict[str, Any],
         error_msg = f"Error in generate_sdv_data_optimized: {str(e)}"
         logger.error(error_msg)
         logger.error(f"Full traceback: {traceback.format_exc()}")
-                if progress_callback: progress_callback("error", f"Synthesis failed: {str(e)}", 0, error=str(e))
+        if progress_callback: progress_callback("error", f"Synthesis failed: {str(e)}", 0, error=str(e))
         raise e

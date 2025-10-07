@@ -1,6 +1,8 @@
 README.md
 pyproject.toml
+matrix_ai/__init__.py
 matrix_ai/cli.py
+matrix_ai/core/__init__.py
 matrix_ai/core/ai.py
 matrix_ai/core/analytics.py
 matrix_ai/core/cache.py

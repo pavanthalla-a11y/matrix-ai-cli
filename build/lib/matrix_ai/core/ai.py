@@ -1,15 +1,21 @@
 import json
 import re
 import numpy as np
-from fastapi import HTTPException
 import vertexai
 from vertexai.generative_models import GenerativeModel
 import logging
 from .config import GCP_PROJECT_ID, GCP_LOCATION, GEMINI_MODEL
 from .google_auth import setup_google_auth
-from typing import Dict, Any
+from typing import Dict, Any, List
 
 logger = logging.getLogger(__name__)
+
+class HTTPException(Exception):
+    def __init__(self, status_code, detail):
+        self.status_code = status_code
+        self.detail = detail
+        super().__init__(f"HTTP {status_code}: {detail}")
+
 
 def sanitize_for_json(obj):
     """Recursively sanitize data to remove NaN, inf, and other non-JSON compliant values"""
@@ -142,10 +148,7 @@ def validate_and_fix_json_response(response_text: str) -> Dict[str, Any]:
                     return fallback_response
         
         # This should never be reached, but just in case
-        raise HTTPException(
-            status_code=500, 
-            detail=f"AI generated invalid JSON that could not be fixed. Parse error: {str(e)}"
-        )
+        raise HTTPException(500, f"AI generated invalid JSON that could not be fixed. Parse error: {str(e)}")
 
 def validate_ai_response_structure(ai_output: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -530,7 +533,7 @@ def call_ai_agent(data_description: str, num_records: int, existing_metadata_jso
             generation_config={"response_mime_type": "application/json"}
         )
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to initialize Vertex AI: {e}")
+        raise HTTPException(500, f"Failed to initialize Vertex AI: {e}")
 
     prompt = f'''
     You are a professional data architect creating realistic datasets for AI/ML model training.
@@ -649,10 +652,10 @@ def call_ai_agent(data_description: str, num_records: int, existing_metadata_jso
     except json.JSONDecodeError as json_error:
         logger.error(f"JSON parsing error in AI response: {json_error}")
         logger.error(f"Problematic JSON around position {json_error.pos}: {response.text[max(0, json_error.pos-100):json_error.pos+100]}")
-        raise HTTPException(status_code=500, detail=f"AI generated invalid JSON: {json_error}")
+        raise HTTPException(500, f"AI generated invalid JSON: {json_error}")
     except Exception as e:
         logger.error(f"ERROR during AI call: {e}")
         # Assuming traceback is available, otherwise remove this line
         import traceback
         logger.error(f"Full traceback: {traceback.format_exc()}")
-        raise HTTPException(status_code=500, detail=f"AI agent failed to generate a valid schema: {e}")
+        raise HTTPException(500, f"AI agent failed to generate a valid schema: {e}")

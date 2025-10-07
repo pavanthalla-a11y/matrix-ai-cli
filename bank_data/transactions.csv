@@ -1,0 +1,101 @@
+transaction_id,customer_id,transaction_date,amount,payment_method,product_category
+sdv-id-ahlLJK,sdv-id-ncYLyh,2023-09-07 01:43:11,495.13,PayPal,Clothing
+sdv-id-eBfOpa,sdv-id-DIzaEr,2023-08-03 05:37:30,716.31,PayPal,Home Goods
+sdv-id-EehAgS,sdv-id-CahSGF,2022-09-29 12:19:32,157.07,Credit Card,Home Goods
+sdv-id-MIthxj,sdv-id-YODkoW,2023-01-23 13:56:27,118.02,Credit Card,Automotive
+sdv-id-AUgYGI,sdv-id-SMijbD,2023-06-30 18:01:37,158.4,Credit Card,Books
+sdv-id-GTCbtr,sdv-id-qLRzud,2023-06-25 21:23:33,564.08,Bank Transfer,Groceries
+sdv-id-PIeyTK,sdv-id-qaumMs,2022-12-01 01:14:33,178.62,Credit Card,Books
+sdv-id-bDnXfO,sdv-id-qaumMs,2022-12-08 10:50:09,155.02,Credit Card,Books
+sdv-id-czstlt,sdv-id-OgNNpF,2023-09-18 16:10:39,277.55,Credit Card,Automotive
+sdv-id-WGVMEk,sdv-id-OgNNpF,2023-09-04 19:00:42,255.77,Credit Card,Automotive
+sdv-id-sVJima,sdv-id-BHIHhZ,2023-04-24 00:36:37,256.26,Debit Card,Home Goods
+sdv-id-sNBLDz,sdv-id-BHIHhZ,2023-05-15 13:05:23,250.74,Debit Card,Home Goods
+sdv-id-NNlfbN,sdv-id-XKmOZc,2023-11-11 11:11:00,706.17,PayPal,Clothing
+sdv-id-GLPCKZ,sdv-id-bsRIRL,2023-10-13 23:49:09,555.49,Credit Card,Books
+sdv-id-mKkYNk,sdv-id-bsRIRL,2023-08-11 07:59:33,566.52,Credit Card,Books
+sdv-id-ZSwhMq,sdv-id-mwSjaR,2022-09-22 10:15:01,72.22,Credit Card,Automotive
+sdv-id-FHbEFk,sdv-id-mwSjaR,2022-12-09 10:40:47,65.53,Credit Card,Automotive
+sdv-id-JIioNh,sdv-id-FOEXxU,2023-11-11 11:11:00,459.74,PayPal,Clothing
+sdv-id-JzZKLY,sdv-id-FOEXxU,2023-11-11 11:11:00,449.76,PayPal,Clothing
+sdv-id-ABgpcy,sdv-id-KOwTBT,2023-02-22 13:37:06,374.99,Credit Card,Books
+sdv-id-NrdCiy,sdv-id-KOwTBT,2023-03-07 18:16:47,408.6,Credit Card,Books
+sdv-id-MbQWcR,sdv-id-bonvFE,2023-11-11 11:11:00,465.63,PayPal,Automotive
+sdv-id-UJrktD,sdv-id-XLMEbe,2022-09-06 08:11:12,283.58,Credit Card,Clothing
+sdv-id-stZpso,sdv-id-XLMEbe,2022-09-18 06:10:27,290.11,Credit Card,Clothing
+sdv-id-IyODag,sdv-id-QdILpo,2023-07-25 23:25:44,736.79,Bank Transfer,Books
+sdv-id-jzrjYy,sdv-id-KgBNWY,2023-11-11 11:11:00,584.89,Bank Transfer,Clothing
+sdv-id-VMxOFw,sdv-id-vfANlk,2023-05-01 18:09:16,301.22,Credit Card,Books
+sdv-id-TvnsuR,sdv-id-vfANlk,2023-05-08 17:13:25,288.92,Credit Card,Books
+sdv-id-EMlxjQ,sdv-id-QQGMNn,2023-10-08 00:53:57,291.66,Debit Card,Clothing
+sdv-id-pdAeiE,sdv-id-wrljrg,2023-08-07 07:53:16,199.4,Credit Card,Automotive
+sdv-id-zMMdmJ,sdv-id-wrljrg,2023-08-13 22:35:18,206.87,Credit Card,Automotive
+sdv-id-qjTFmE,sdv-id-ymqPhz,2023-09-05 23:44:01,247.29,Debit Card,Automotive
+sdv-id-kmFmXZ,sdv-id-ymqPhz,2023-09-14 00:57:43,241.24,Debit Card,Automotive
+sdv-id-KxwGgK,sdv-id-ZXeamp,2023-07-06 01:49:16,679.96,PayPal,Clothing
+sdv-id-beEDzE,sdv-id-cDNfQD,2023-07-27 06:02:06,275.93,Debit Card,Books
+sdv-id-eIDLZj,sdv-id-jAaBYv,2022-08-04 03:46:06,138.31,PayPal,Clothing
+sdv-id-vnNNXi,sdv-id-jAaBYv,2022-09-26 10:54:10,152.62,PayPal,Clothing
+sdv-id-NHXdcv,sdv-id-rROuRn,2023-05-15 18:51:11,109.82,Credit Card,Automotive
+sdv-id-ohFDCX,sdv-id-rROuRn,2023-05-30 20:34:05,114.58,Credit Card,Automotive
+sdv-id-fJMBPu,sdv-id-vZumMG,2023-09-30 10:03:53,423.62,Credit Card,Books
+sdv-id-WkEiOB,sdv-id-vZumMG,2023-10-06 17:18:13,428.66,Credit Card,Books
+sdv-id-UgNmJt,sdv-id-OAxbrg,2022-12-30 14:17:00,425.75,Debit Card,Groceries
+sdv-id-MMHoMb,sdv-id-OAxbrg,2023-03-02 19:26:38,448.34,Debit Card,Groceries
+sdv-id-NiSLkC,sdv-id-EutLbN,2022-05-26 08:46:59,595.02,Debit Card,Electronics
+sdv-id-kQzxUf,sdv-id-EutLbN,2022-05-31 18:11:32,613.6,Debit Card,Electronics
+sdv-id-hYCkhM,sdv-id-rapWTP,2023-01-30 02:38:28,169.88,Credit Card,Books
+sdv-id-SWXrSt,sdv-id-rapWTP,2023-02-07 15:31:58,173.09,Credit Card,Books
+sdv-id-LwFdjk,sdv-id-InnWMH,2023-03-15 21:10:46,130.31,Credit Card,Clothing
+sdv-id-JXqkxA,sdv-id-InnWMH,2023-03-14 07:22:24,132.35,Credit Card,Clothing
+sdv-id-EwSxOH,sdv-id-jxBqFC,2023-04-07 23:08:10,266.57,Credit Card,Clothing
+sdv-id-mjFZhb,sdv-id-jxBqFC,2023-04-10 02:34:35,277.99,Debit Card,Clothing
+sdv-id-CQeMzR,sdv-id-MWgwwn,2022-11-25 16:38:02,210.79,Debit Card,Automotive
+sdv-id-uWMiZl,sdv-id-jHGqLu,2022-09-12 20:25:26,373.43,Bank Transfer,Electronics
+sdv-id-CRPtQa,sdv-id-jHGqLu,2022-09-02 01:07:12,363.2,Bank Transfer,Electronics
+sdv-id-jtMKDe,sdv-id-eiiMxu,2023-06-18 07:51:27,328.11,PayPal,Books
+sdv-id-gBfGHn,sdv-id-hVJrRy,2023-11-11 11:11:00,349.88,Debit Card,Home Goods
+sdv-id-aVZkVG,sdv-id-UvshDJ,2023-06-10 10:09:08,521.35,Credit Card,Clothing
+sdv-id-crveZj,sdv-id-UvshDJ,2023-06-18 00:51:50,506.49,Credit Card,Groceries
+sdv-id-ZpfYfL,sdv-id-bVPtwu,2022-06-08 06:57:48,158.27,Credit Card,Groceries
+sdv-id-CaOuvB,sdv-id-bVPtwu,2022-06-06 12:33:55,174.7,Credit Card,Clothing
+sdv-id-rugOMv,sdv-id-DtwQLy,2022-06-24 00:24:15,54.55,Credit Card,Home Goods
+sdv-id-KoSLsA,sdv-id-DtwQLy,2022-06-28 03:39:28,55.93,Credit Card,Home Goods
+sdv-id-PSLXEJ,sdv-id-wdcEdC,2023-07-16 04:36:13,432.17,PayPal,Books
+sdv-id-DMAhIe,sdv-id-Jeaevs,2022-11-12 12:04:39,566.26,PayPal,Groceries
+sdv-id-LDnoXB,sdv-id-bJbxLk,2022-10-06 16:58:18,342.69,Credit Card,Clothing
+sdv-id-xixBfG,sdv-id-bJbxLk,2022-10-04 21:53:04,362.92,Credit Card,Clothing
+sdv-id-JtwBzk,sdv-id-OBDPhu,2022-06-29 15:31:43,244.42,Credit Card,Groceries
+sdv-id-JEcRoo,sdv-id-OBDPhu,2022-07-06 06:50:50,266.95,Debit Card,Groceries
+sdv-id-MeSlKG,sdv-id-rIgNDu,2023-11-03 00:11:07,339.3,Credit Card,Automotive
+sdv-id-URBMHx,sdv-id-rIgNDu,2023-11-11 11:11:00,342.22,Credit Card,Automotive
+sdv-id-LrEVKo,sdv-id-hGMkvu,2023-04-20 02:26:19,631.12,PayPal,Clothing
+sdv-id-XYPLtZ,sdv-id-hGMkvu,2023-04-20 15:49:26,642.84,PayPal,Clothing
+sdv-id-xZMnkS,sdv-id-HWjGil,2023-06-10 07:15:40,705.93,PayPal,Groceries
+sdv-id-QuKkvj,sdv-id-jgxXBt,2023-08-08 19:16:30,171.97,Credit Card,Automotive
+sdv-id-dRkTyC,sdv-id-jgxXBt,2023-08-16 06:57:04,175.2,Credit Card,Automotive
+sdv-id-ojBcNQ,sdv-id-eiCKgv,2022-06-11 11:42:15,164.32,Credit Card,Books
+sdv-id-EqahXd,sdv-id-eiCKgv,2022-07-02 11:36:34,138.33,Credit Card,Books
+sdv-id-JsACLH,sdv-id-nNvCpw,2023-11-11 11:11:00,279.96,Credit Card,Books
+sdv-id-rfUTTL,sdv-id-VLwFXB,2023-03-12 02:31:33,425.21,PayPal,Clothing
+sdv-id-CnTUrb,sdv-id-OalkYE,2022-11-08 22:37:06,376.86,PayPal,Electronics
+sdv-id-lymDMS,sdv-id-OalkYE,2022-11-14 09:56:55,350.62,PayPal,Electronics
+sdv-id-hEaVxr,sdv-id-nEOTXS,2023-10-20 18:06:09,335.98,Debit Card,Books
+sdv-id-MzVvcs,sdv-id-nQikzR,2023-07-19 04:43:57,881.88,PayPal,Groceries
+sdv-id-uUfqNv,sdv-id-EyiKWE,2023-05-22 17:53:11,285.19,Credit Card,Automotive
+sdv-id-tQPRCQ,sdv-id-zBNdyV,2022-08-03 02:44:37,139.89,Debit Card,Clothing
+sdv-id-NiHgpw,sdv-id-qLbCMl,2023-03-02 04:04:57,205.35,Credit Card,Home Goods
+sdv-id-jtibyc,sdv-id-qLbCMl,2023-03-13 17:34:14,197.16,Credit Card,Home Goods
+sdv-id-zCtzme,sdv-id-rToFpx,2022-09-03 23:54:14,404.94,Debit Card,Groceries
+sdv-id-ypxvde,sdv-id-IpRuSL,2023-10-02 00:35:56,325.02,Credit Card,Automotive
+sdv-id-DYsVeX,sdv-id-yWLydh,2023-03-07 02:55:28,710.19,Debit Card,Groceries
+sdv-id-hrLJyX,sdv-id-yWLydh,2023-05-03 07:25:30,697.22,Debit Card,Groceries
+sdv-id-XHBjUP,sdv-id-zQBXmn,2023-01-22 15:48:08,206.9,Bank Transfer,Groceries
+sdv-id-pEeaUD,sdv-id-JINQdO,2022-12-03 09:12:35,281.99,Debit Card,Home Goods
+sdv-id-ubsADu,sdv-id-vRJJJB,2023-03-22 20:40:04,194.75,Credit Card,Clothing
+sdv-id-RdbVnk,sdv-id-vRJJJB,2023-03-29 14:48:29,184.84,Credit Card,Clothing
+sdv-id-ynPdqr,sdv-id-DeixMV,2023-06-18 01:13:49,287.7,Credit Card,Automotive
+sdv-id-JZVasS,sdv-id-ytXVwx,2023-05-23 06:26:01,734.29,PayPal,Groceries
+sdv-id-zbFLwp,sdv-id-qThmVi,2023-05-18 04:23:09,145.1,Credit Card,Books
+sdv-id-whnhbn,sdv-id-jvqXsN,2022-12-29 20:05:38,119.11,Debit Card,Home Goods
+sdv-id-AxCezF,sdv-id-zhWyDZ,2023-07-04 20:34:36,545.51,Debit Card,Books

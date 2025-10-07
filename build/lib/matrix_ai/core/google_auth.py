@@ -1,9 +1,14 @@
 import google.auth
-from fastapi import HTTPException
 import logging
 from .config import GCP_PROJECT_ID
 
 logger = logging.getLogger(__name__)
+
+class HTTPException(Exception):
+    def __init__(self, status_code, detail):
+        self.status_code = status_code
+        self.detail = detail
+        super().__init__(f"HTTP {status_code}: {detail}")
 
 def setup_google_auth():
     """Setup Google Cloud authentication with proper error handling"""
@@ -18,4 +23,4 @@ def setup_google_auth():
         return credentials, project
     except Exception as e:
         logger.error(f"Authentication setup failed: {e}")
-        raise HTTPException(status_code=500, detail=f"Authentication failed: {e}")
+        raise HTTPException(500, f"Authentication failed: {e}")

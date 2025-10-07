@@ -1,0 +1,52 @@
+{
+  "tables": {
+    "customers": {
+      "columns": {
+        "customer_id": {
+          "sdtype": "id"
+        },
+        "first_name": {
+          "sdtype": "categorical"
+        },
+        "last_name": {
+          "sdtype": "categorical"
+        },
+        "email": {
+          "sdtype": "categorical"
+        },
+        "phone_number": {
+          "sdtype": "categorical"
+        },
+        "address": {
+          "sdtype": "categorical"
+        },
+        "date_of_birth": {
+          "sdtype": "datetime",
+          "datetime_format": "%Y-%m-%d %H:%M:%S"
+        },
+        "registration_date": {
+          "sdtype": "datetime",
+          "datetime_format": "%Y-%m-%d %H:%M:%S"
+        },
+        "last_login_date": {
+          "sdtype": "datetime",
+          "datetime_format": "%Y-%m-%d %H:%M:%S"
+        },
+        "customer_segment": {
+          "sdtype": "categorical"
+        },
+        "total_spent": {
+          "sdtype": "numerical"
+        },
+        "loyalty_points": {
+          "sdtype": "numerical"
+        },
+        "is_subscribed_to_newsletter": {
+          "sdtype": "boolean"
+        }
+      },
+      "primary_key": "customer_id"
+    }
+  },
+  "relationships": []
+}

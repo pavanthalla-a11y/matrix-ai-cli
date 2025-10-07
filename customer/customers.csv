@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone_number,address,date_of_birth,registration_date,last_login_date,customer_segment,total_spent,loyalty_points,is_subscribed_to_newsletter
+sdv-id-CPlKim,Travis,Wheeler,christopher97@example.org,439-796-9009,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1999-12-30 19:17:05,2022-10-11 08:44:06,2024-05-30 17:09:07,Standard,170.01,370,True
+sdv-id-wGJNfc,Crystal,Mayer,walkerdon@example.com,905.656.1847,"666 SW Broadway, Portland, OR 97205",1979-11-29 15:26:52,2019-04-29 03:08:17,2024-05-07 09:42:39,Premium,15535.42,8091,False
+sdv-id-jTeBgt,Lisa,Love,jacquelinewood@example.com,001-379-268-5983x749,"777 Redwood Pkwy, San Jose, CA 95101",1998-10-04 18:03:41,2021-01-21 00:08:31,2024-06-01 10:40:21,Standard,632.77,432,True
+sdv-id-IhpmGD,Kevin,Johnson,richlisa@example.com,(680)372-2855x472,"343 Monument Cir, Indianapolis, IN 46204",2002-12-27 12:55:19,2023-07-09 05:16:17,2024-06-02 11:11:10,Premium,111.32,191,True
+sdv-id-KzZrbB,Brian,King,fallen@example.net,(719)686-7656,"222 Beacon St, Boston, MA 02116",1998-10-10 00:23:50,2021-12-12 12:56:46,2024-06-01 12:39:48,VIP,111.47,924,False
+sdv-id-nwOACS,Donna,Smith,jacob85@example.com,529-704-9209,"777 Redwood Pkwy, San Jose, CA 95101",1992-12-07 13:39:00,2021-03-04 11:58:56,2024-05-23 03:25:01,Standard,203.27,3058,False
+sdv-id-PHvANI,Justin,White,daniel33@example.net,(371)862-1902,"121 Market St, San Francisco, CA 94102",1984-08-10 04:29:22,2020-01-30 23:59:24,2024-05-11 04:29:39,Standard,14574.29,4597,True
+sdv-id-xipRBj,Austin,Brady,deborahhernandez@example.org,963-301-7137x10047,"777 Redwood Pkwy, San Jose, CA 95101",1974-11-19 10:38:26,2018-10-13 13:27:14,2024-03-04 12:50:20,Premium,10139.89,3225,False
+sdv-id-kBEfRi,Andrew,Johnson,pbrown@example.net,693-233-4886x100,"212 Cedar Rd, Philadelphia, PA 19101",1972-10-31 07:32:52,2018-07-31 21:09:24,2024-03-15 04:25:08,Standard,21879.81,8958,True
+sdv-id-oqmDHZ,Melanie,Hernandez,larsenkyle@example.net,805-399-7141x64023,"101 Birch Blvd, Houston, TX 77001",1977-02-04 06:56:50,2020-11-18 17:37:10,2024-03-24 04:46:11,Premium,22665.46,17554,True
+sdv-id-BjudQa,Elizabeth,Smith,alanchoi@example.org,001-237-596-7318x3346,"222 Beacon St, Boston, MA 02116",2001-05-19 12:37:29,2021-08-12 11:54:04,2024-06-02 06:35:33,VIP,111.32,190,True
+sdv-id-gfWwAF,Daniel,Hampton,deborah38@example.com,+1-341-295-3983,"343 Monument Cir, Indianapolis, IN 46204",2000-01-18 23:30:48,2021-07-07 13:08:08,2024-05-30 11:22:50,Standard,129.08,2663,False
+sdv-id-hshFaC,Stuart,Hogan,carrollgail@example.org,607.221.3788,"212 Cedar Rd, Philadelphia, PA 19101",1988-07-23 03:58:08,2018-08-26 15:17:09,2024-05-19 17:18:47,Premium,2871.36,771,False
+sdv-id-llVhqv,Christina,Boyd,mmiller@example.net,001-764-444-8978,"444 Woodward Ave, Detroit, MI 48226",1990-04-01 09:47:08,2019-04-30 15:36:06,2024-05-05 22:04:25,Standard,16287.48,611,True
+sdv-id-vZQBcK,Hannah,Hall,desireewright@example.net,(433)246-9063x74475,"444 Woodward Ave, Detroit, MI 48226",2000-07-06 04:39:02,2021-04-21 01:52:02,2024-06-01 17:23:17,Standard,112.5,181,True
+sdv-id-ptkwXx,Louis,Mendoza,jessicastevenson@example.org,+1-515-766-7488x51903,Sample Data,1996-07-31 02:09:32,2020-03-06 05:09:16,2024-04-11 03:19:37,Standard,112.11,196,False
+sdv-id-rYclUm,Lauren,Tran,georgemendoza@example.org,860-208-4598x093,"777 E Pratt St, Baltimore, MD 21202",1998-03-23 08:49:35,2018-09-19 11:43:16,2024-05-30 04:34:04,Standard,123.9,413,True
+sdv-id-jiRHdP,Thomas,Murray,richard09@example.org,(692)275-3223x4743,"666 SW Broadway, Portland, OR 97205",1976-06-06 04:59:57,2020-04-18 20:44:33,2024-05-20 22:23:07,Standard,13666.97,13378,True
+sdv-id-ORjnne,Erin,Smith,christopherhill@example.org,320-491-0766x671,"777 E Pratt St, Baltimore, MD 21202",1990-08-30 13:25:28,2020-12-12 17:33:48,2024-05-24 16:31:33,VIP,222.39,2992,True
+sdv-id-DrqEuL,Lisa,Edwards,stefanie33@example.com,001-458-651-5276x4568,"333 Pennsylvania Ave NW, Washington, DC 20004",2001-02-14 02:18:25,2019-10-24 19:41:28,2024-06-02 11:08:55,Premium,127.29,259,True
+sdv-id-SgBfoN,Lance,Garza,dawn30@example.org,(351)905-9741,"444 Willow Way, San Antonio, TX 78201",2002-09-02 13:12:36,2023-11-05 19:26:45,2024-05-30 20:02:59,Premium,111.67,222,False
+sdv-id-WQteDI,David,Ellis,ashley64@example.org,896.632.1976x982,"555 Aspen Dr, San Diego, CA 92101",1990-05-24 21:40:30,2020-12-16 07:14:57,2024-05-29 06:32:15,Standard,6184.65,601,True
+sdv-id-CdSyTa,Patrick,Fuller,johnsonadam@example.org,734-796-0358x414,"565 High St, Columbus, OH 43215",1985-02-27 02:45:23,2022-12-19 18:50:31,2024-04-11 15:42:22,Premium,13845.14,9099,False
+sdv-id-iftWyq,David,Holmes,srobles@example.net,(689)825-9948x25897,"565 High St, Columbus, OH 43215",1976-05-15 16:55:56,2021-02-17 19:07:40,2024-04-05 09:49:19,Standard,11179.64,7960,True
+sdv-id-fZLfsH,Maurice,Hurley,manuelsmith@example.org,001-700-539-1388x4308,"101 Birch Blvd, Houston, TX 77001",1969-05-07 20:08:15,2018-05-30 06:01:14,2024-04-12 20:11:04,Standard,24670.19,15468,True
+sdv-id-JvdIia,Annette,Walker,brandon45@example.com,(803)670-6286,"909 Pike Pl, Seattle, WA 98101",2003-02-06 01:43:29,2024-01-01 01:01:01,2024-06-02 11:10:19,Premium,111.32,180,True
+sdv-id-tZVwUM,Julia,Martinez,gdavis@example.com,241.445.4211x96757,"789 Pine Ln, Los Angeles, CA 90001",1982-05-30 13:53:36,2018-04-09 14:13:37,2024-04-20 21:52:57,Premium,8657.0,13032,False
+sdv-id-sZKFOn,Kara,Davis,caldwelllatasha@example.com,001-633-325-9465x0147,"444 Willow Way, San Antonio, TX 78201",1996-02-01 01:54:55,2021-02-18 20:42:59,2024-05-31 07:56:14,Premium,125.22,3063,True
+sdv-id-wBlLfK,Victoria,Caldwell,jgarcia@example.com,4947615312,"101 Birch Blvd, Houston, TX 77001",1993-06-09 02:09:54,2020-10-06 14:56:42,2024-05-28 15:37:49,Premium,140.92,2752,True
+sdv-id-xSevYF,Shannon,Adkins,nlong@example.net,(857)924-9212x74222,"789 Pine Ln, Los Angeles, CA 90001",1994-11-13 17:50:47,2022-03-31 04:59:53,2024-05-31 15:04:50,Premium,590.99,407,True
+sdv-id-gplXRO,Patrick,Parker,karen84@example.com,209-267-5358x654,Sample Data,1981-05-02 20:20:54,2021-03-28 06:59:20,2024-04-22 03:24:10,Premium,5002.48,1997,True
+sdv-id-YbouxX,Courtney,Jones,herreravincent@example.org,646.510.6190x46181,"666 SW Broadway, Portland, OR 97205",1990-06-03 09:59:28,2020-01-05 02:55:43,2024-05-17 15:53:23,Premium,4229.36,4234,True
+sdv-id-zeCWgL,Tina,Petersen,bsmith@example.net,846-815-0067x651,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1984-12-21 11:43:37,2019-06-12 19:30:40,2024-05-23 15:51:22,Standard,6369.38,10344,False
+sdv-id-PThvUI,David,Robbins,vanessa17@example.net,(660)396-9090x2442,"666 SW Broadway, Portland, OR 97205",1998-05-18 10:42:54,2023-09-24 09:43:26,2024-06-02 10:54:42,Standard,602.51,596,False
+sdv-id-oUhvCC,Michael,Cain,powersalicia@example.net,001-994-932-2381,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1997-11-13 22:41:58,2022-03-21 18:10:22,2024-05-27 21:48:22,VIP,315.97,713,False
+sdv-id-TAJGwe,Michael,Mercado,joseph00@example.net,915.647.5233x078,"777 Redwood Pkwy, San Jose, CA 95101",1975-09-03 10:41:19,2020-04-01 11:36:06,2024-04-27 19:46:25,Standard,17666.93,7850,False
+sdv-id-UofCbM,Kimberly,Davidson,samuel70@example.com,+1-867-820-4867x0135,"666 SW Broadway, Portland, OR 97205",1998-05-19 13:45:11,2022-08-31 18:29:09,2024-06-02 02:35:25,Standard,149.23,1038,True
+sdv-id-iweXxN,Stephanie,King,natalie25@example.net,(407)637-5130,"212 Cedar Rd, Philadelphia, PA 19101",1983-09-23 15:41:33,2020-10-29 11:01:17,2024-05-18 01:07:04,Standard,16540.91,4768,True
+sdv-id-VnjYDQ,Thomas,Smith,williebuchanan@example.net,943.997.7389x15625,"444 Woodward Ave, Detroit, MI 48226",1993-11-26 22:56:51,2020-08-07 03:19:55,2024-05-29 16:13:05,Premium,197.86,1321,True
+sdv-id-eNFRio,Justin,Bennett,sdaniels@example.net,8138190772,"444 Willow Way, San Antonio, TX 78201",1989-07-22 05:43:51,2020-01-20 16:56:45,2024-05-29 23:52:31,VIP,6611.56,4229,True
+sdv-id-oHNffc,Roger,Miller,kennethtucker@example.com,216-812-8757,"777 Redwood Pkwy, San Jose, CA 95101",1978-10-12 04:55:58,2018-07-25 20:46:21,2024-04-20 09:46:13,VIP,293.21,13381,True
+sdv-id-mYASah,Justin,Grant,kaylatucker@example.net,307.456.0182,"111 16th St Mall, Denver, CO 80202",1967-01-28 14:23:39,2018-04-01 15:29:08,2023-10-31 05:45:00,Standard,23233.1,12701,True
+sdv-id-rNyRms,Douglas,Griffith,janetcaldwell@example.com,(700)558-2759x1840,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1977-08-27 19:05:07,2018-11-10 19:11:32,2024-04-21 20:21:58,Standard,16540.29,13087,True
+sdv-id-dcvAZq,Jeffrey,Edwards,hmaldonado@example.net,696-979-8109x663,"999 Riverfront Dr, Jacksonville, FL 32202",1978-10-05 02:33:16,2018-12-24 08:28:28,2024-04-14 13:00:18,Standard,2330.82,1732,True
+sdv-id-dvNeKk,Thomas,King,josephkelly@example.org,310-795-0235x731,"343 Monument Cir, Indianapolis, IN 46204",1972-08-13 13:51:26,2018-02-19 17:26:11,2024-04-12 04:43:21,Standard,16158.27,8338,True
+sdv-id-TVByaA,Paul,Coffey,kara22@example.com,001-446-714-3842x8074,"666 SW Broadway, Portland, OR 97205",1976-02-01 00:06:51,2019-05-14 17:52:26,2024-04-22 20:01:35,Standard,15602.2,12870,True
+sdv-id-fckMHr,Timothy,Burns,cynthiawallace@example.com,(314)391-5364x62660,"787 Trade St, Charlotte, NC 28202",1982-09-06 02:03:53,2018-12-20 20:51:55,2024-05-08 10:10:01,Standard,1400.55,6620,True
+sdv-id-VFDjbe,Kathy,Norman,crivers@example.com,327-956-0940,"456 Oak Ave, Chicago, IL 60601",1969-10-08 17:54:40,2018-08-22 14:04:14,2024-01-09 05:15:54,VIP,18204.76,17431,False
+sdv-id-nAumew,Ashley,Bell,wilsonmark@example.com,001-807-796-0155,"343 Monument Cir, Indianapolis, IN 46204",1996-05-15 13:21:52,2022-03-26 13:38:56,2024-05-25 04:53:40,Standard,847.82,1118,True
+sdv-id-qRrhgJ,Philip,Bennett,tpeterson@example.com,001-293-834-7995x96694,"212 Cedar Rd, Philadelphia, PA 19101",1993-06-10 05:58:44,2023-06-27 15:36:55,2024-05-12 07:53:25,Standard,5913.74,2247,True
+sdv-id-asTxXs,Brian,Smith,thomastaylor@example.net,9139065663,"777 E Pratt St, Baltimore, MD 21202",1987-11-29 07:51:08,2019-08-10 07:37:23,2024-05-13 18:20:16,Premium,1562.71,3155,True
+sdv-id-gJNtUA,Karen,Contreras,david95@example.org,(332)315-8999x8457,"666 Elm St, Dallas, TX 75201",1992-03-14 11:39:31,2019-06-20 03:20:06,2024-05-24 06:53:25,Premium,277.43,968,True
+sdv-id-rKRHMW,Sergio,Jenkins,dawnjenkins@example.org,001-422-382-0002,"456 Oak Ave, Chicago, IL 60601",1988-02-04 16:59:55,2019-12-18 14:16:34,2024-05-26 16:38:23,Standard,7996.67,7041,True
+sdv-id-MVXpzX,Jason,Dickson,michellemartinez@example.com,386-449-8228x04828,"666 SW Broadway, Portland, OR 97205",1998-12-20 20:45:53,2021-08-05 05:51:12,2024-06-02 11:10:51,Standard,117.35,1000,True
+sdv-id-iiILEQ,Robert,Shelton,wbrown@example.com,819-410-9612x6329,"333 Pennsylvania Ave NW, Washington, DC 20004",2003-02-20 07:19:09,2024-01-01 01:01:01,2024-06-02 11:08:03,Standard,111.32,181,True
+sdv-id-JGVqKl,James,Garcia,contrerasmatthew@example.org,001-834-997-1951,"789 Pine Ln, Los Angeles, CA 90001",1968-09-17 13:26:24,2018-04-20 17:45:19,2024-05-09 02:23:53,Standard,22121.64,25058,True
+sdv-id-pxTWZj,Samuel,Banks,ashleywilson@example.com,(844)300-0139x054,"999 Riverfront Dr, Jacksonville, FL 32202",2003-01-05 23:00:49,2022-12-02 06:19:57,2024-06-02 11:08:43,Standard,111.32,195,True
+sdv-id-OpTmRA,Joseph,Baker,fhill@example.org,6489445286,"555 Aspen Dr, San Diego, CA 92101",1996-01-19 09:12:45,2018-05-08 12:49:17,2024-06-02 02:13:31,VIP,189.91,728,True
+sdv-id-CSDrsU,William,Juarez,halldavid@example.org,(832)741-8780,"121 Market St, San Francisco, CA 94102",2003-03-02 22:45:41,2024-01-01 01:01:01,2024-06-02 11:11:10,Standard,111.32,180,False
+sdv-id-lcKnDW,Craig,Nash,simpsonchristina@example.com,+1-417-351-5549x8091,"555 Las Vegas Blvd S, Las Vegas, NV 89109",2002-05-20 00:47:07,2021-08-01 01:33:21,2024-06-01 16:52:51,Premium,111.32,271,True
+sdv-id-vENXWT,Andrea,Greene,geraldmckay@example.com,(950)686-6696,"789 Pine Ln, Los Angeles, CA 90001",1975-02-09 07:45:16,2019-09-11 05:42:21,2024-03-11 14:44:50,Premium,9330.09,11275,True
+sdv-id-WNNfhy,Mark,Bailey,tcoleman@example.org,+1-267-870-5983x39978,"787 Trade St, Charlotte, NC 28202",1971-05-09 11:04:41,2019-10-20 02:22:38,2024-04-07 23:39:00,VIP,23094.25,8694,True
+sdv-id-MOfILQ,Chad,Huang,dsosa@example.com,001-925-330-4771x7426,"909 Pike Pl, Seattle, WA 98101",1998-10-30 20:31:26,2023-06-19 00:59:48,2024-06-01 14:27:38,Standard,135.75,1226,True
+sdv-id-cCQYtm,Felicia,Lindsey,leonard24@example.net,+1-297-669-0653x56075,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1969-02-06 20:03:58,2018-02-16 14:50:52,2023-12-23 15:52:13,VIP,24647.32,12461,True
+sdv-id-fStkry,Joyce,Cameron,chavezjames@example.net,+1-884-660-1074x73385,"333 Spruce Ct, Phoenix, AZ 85001",2002-09-15 23:39:29,2023-07-30 23:15:37,2024-06-02 07:52:13,Standard,111.32,326,True
+sdv-id-gtSchz,Claudia,Golden,owillis@example.org,872.697.0060,"121 Market St, San Francisco, CA 94102",1984-08-18 02:54:07,2018-10-02 10:52:55,2024-05-26 05:19:13,Premium,1211.67,6216,True
+sdv-id-QYqmix,Andrew,Pearson,michael36@example.org,839-581-7551x20785,"789 Pine Ln, Los Angeles, CA 90001",1981-09-18 19:13:08,2022-10-06 14:50:22,2024-03-27 14:00:28,Standard,10737.6,8787,False
+sdv-id-jTddzH,Derrick,Martin,lmcintyre@example.net,370-283-7730x3638,"777 Redwood Pkwy, San Jose, CA 95101",1992-08-24 07:32:15,2022-10-04 09:14:09,2024-05-31 23:11:15,Standard,4475.01,3772,False
+sdv-id-WuEGEO,Edward,Shields,hschmitt@example.com,001-388-890-9203,"333 Pennsylvania Ave NW, Washington, DC 20004",2003-01-09 17:52:25,2023-12-06 08:37:58,2024-06-02 10:08:25,Premium,111.32,182,True
+sdv-id-iLmjRR,Michelle,Hart,smithjennifer@example.org,(346)426-9564,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1988-09-12 03:01:40,2020-02-28 21:06:49,2024-05-27 12:51:01,Standard,1627.2,2332,True
+sdv-id-xBzisd,Luis,Dixon,weaverkevin@example.net,+1-852-311-3147x2104,"666 SW Broadway, Portland, OR 97205",2002-07-17 14:31:02,2022-05-14 06:14:12,2024-06-02 11:08:44,Premium,111.32,216,True
+sdv-id-QgXGof,Ashley,Preston,osparks@example.net,001-426-937-2350x592,"565 High St, Columbus, OH 43215",1978-07-03 01:01:36,2021-04-22 00:44:20,2024-04-08 01:06:43,Standard,17261.18,4285,False
+sdv-id-CxrJcE,Jesse,Serrano,kristindavies@example.net,813-486-3066,"555 Aspen Dr, San Diego, CA 92101",1974-10-18 00:02:44,2019-04-23 13:15:01,2024-04-26 06:20:39,Premium,5425.19,10251,True
+sdv-id-CZYKZq,Robert,Barnett,cortezjulie@example.net,242-717-1267x766,"101 Birch Blvd, Houston, TX 77001",1981-08-12 18:24:02,2018-07-03 14:49:50,2024-05-08 16:51:19,Standard,3046.36,3035,True
+sdv-id-sSfUYJ,Philip,Lawson,meagan09@example.org,001-787-354-4220x3761,"909 Pike Pl, Seattle, WA 98101",2001-01-13 14:52:54,2022-09-16 18:22:33,2024-05-23 14:56:57,Standard,114.54,917,True
+sdv-id-DMpReP,Tiffany,Lewis,kimberlyhamilton@example.org,(963)741-4149,"333 Pennsylvania Ave NW, Washington, DC 20004",1969-04-14 17:54:42,2018-05-15 09:22:51,2024-03-18 23:18:35,Standard,24637.7,15175,True
+sdv-id-JpbeeP,Cheryl,Hill,michael31@example.com,770.714.1491,"222 Beacon St, Boston, MA 02116",1998-08-09 00:10:34,2021-06-16 03:33:41,2024-05-17 03:14:25,Standard,154.88,205,True
+sdv-id-kToGUZ,Amber,Craig,lisasimon@example.org,+1-343-986-4214,"999 Riverfront Dr, Jacksonville, FL 32202",1972-09-24 03:15:54,2018-06-15 20:42:06,2024-04-25 04:01:51,VIP,24105.0,25197,True
+sdv-id-vJTumG,Tristan,Garcia,mooreamy@example.com,4654910095,"456 Oak Ave, Chicago, IL 60601",1979-12-03 16:24:41,2021-11-07 18:27:56,2024-03-04 01:50:00,Premium,14801.22,8285,False
+sdv-id-WUJACH,Samuel,Austin,gmoore@example.com,620.661.4341x49489,"999 Riverfront Dr, Jacksonville, FL 32202",2001-01-16 09:23:26,2019-09-13 04:55:47,2024-06-02 10:33:36,Premium,111.38,972,True
+sdv-id-KxowsM,Jeffrey,Rodriguez,frios@example.com,978-346-0295,Sample Data,1995-05-30 05:21:28,2019-11-04 23:05:15,2024-05-30 19:17:31,Premium,290.12,3521,True
+sdv-id-PkLzrw,Eric,Hill,dharris@example.org,(737)512-8502x687,"222 Beacon St, Boston, MA 02116",1987-04-29 21:45:01,2019-05-21 00:26:37,2024-05-23 14:05:55,Premium,175.75,5702,True
+sdv-id-bTpVbc,Tyler,Frey,imaxwell@example.net,001-856-286-9988x31284,"555 Aspen Dr, San Diego, CA 92101",1967-06-01 17:18:56,2018-02-22 08:15:02,2024-02-16 21:03:59,Standard,18217.79,19272,True
+sdv-id-mOuHSs,Carolyn,Garcia,victoria08@example.com,2853490830,"777 E Pratt St, Baltimore, MD 21202",1990-02-13 23:37:31,2020-10-16 08:21:43,2024-05-17 06:19:10,Standard,911.64,1292,True
+sdv-id-ocyLgM,Katie,Webb,mitchellleslie@example.net,451-687-7927x391,"565 High St, Columbus, OH 43215",1994-01-16 17:14:53,2021-03-17 10:28:52,2024-06-01 21:01:01,Premium,4705.11,1989,True
+sdv-id-jIiLoP,Nicholas,Stephens,david95@example.net,234.254.1700x4302,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1978-12-27 00:05:43,2018-12-28 00:11:26,2024-04-09 07:33:36,Standard,3158.32,6939,True
+sdv-id-BBdvcu,Michelle,Gomez,greenjose@example.org,+1-986-359-0108x5875,"565 High St, Columbus, OH 43215",1996-01-27 22:24:32,2021-08-24 07:10:48,2024-05-25 09:26:15,Standard,18523.78,804,True
+sdv-id-BAFOpC,Jessica,Dougherty,mcbridenicole@example.com,666-657-6239x77955,"777 E Pratt St, Baltimore, MD 21202",1999-07-01 12:09:04,2021-04-22 01:56:43,2024-06-02 09:07:39,Premium,132.26,967,False
+sdv-id-SuykXm,Aaron,Livingston,hbeltran@example.net,001-474-446-1681,"789 Pine Ln, Los Angeles, CA 90001",1999-04-17 05:37:51,2023-06-28 05:37:10,2024-05-28 18:02:51,Standard,305.03,219,True
+sdv-id-teWZgX,Ricky,Tyler,jennyperez@example.com,325.776.6365,"777 Redwood Pkwy, San Jose, CA 95101",1981-07-03 01:32:23,2019-01-12 21:41:38,2024-03-26 05:31:03,VIP,1203.92,2927,True
+sdv-id-aYbjmZ,Devin,Ewing,patrick33@example.org,256-426-1511x0606,"343 Monument Cir, Indianapolis, IN 46204",1994-11-16 18:46:53,2018-07-22 20:36:08,2024-05-18 09:09:15,Standard,274.47,2134,True
+sdv-id-cuuDOt,Daniel,Church,pottervictoria@example.net,524.688.6865,"999 Riverfront Dr, Jacksonville, FL 32202",1980-04-08 23:34:16,2020-02-05 06:15:47,2024-05-03 19:32:16,VIP,10519.75,2655,True
+sdv-id-rXjQuw,Leslie,Roberson,mary22@example.org,296.404.7794x59597,"666 SW Broadway, Portland, OR 97205",1983-08-13 00:39:33,2018-08-04 13:18:43,2024-05-10 18:51:12,VIP,908.53,2058,False
+sdv-id-iAUGCN,Nathan,Nguyen,tammy22@example.com,710.974.2598x42115,"666 SW Broadway, Portland, OR 97205",1970-11-01 01:52:42,2018-12-20 07:39:55,2024-04-17 11:12:49,Standard,21858.18,5530,True
+sdv-id-KOBYGd,Taylor,Perez,higginskristen@example.com,(762)898-2538,"565 High St, Columbus, OH 43215",2000-09-29 05:52:26,2023-07-29 15:47:37,2024-06-02 00:45:14,Standard,233.22,1515,True
+sdv-id-KEBRsr,Amy,Hayes,martineztamara@example.com,570-690-1403,"789 Pine Ln, Los Angeles, CA 90001",1966-03-06 19:49:29,2018-10-28 09:39:31,2023-12-25 01:09:17,Premium,24948.51,24864,False
+sdv-id-mGKlOi,Regina,Donovan,jacob91@example.com,001-452-432-8030x6673,"787 Trade St, Charlotte, NC 28202",1981-09-10 12:47:16,2018-11-17 14:01:25,2024-03-17 04:07:08,Standard,8870.08,12370,False
+sdv-id-sPWAGd,Jessica,Owens,choiedwin@example.com,9194761512,"777 Redwood Pkwy, San Jose, CA 95101",1995-11-16 11:06:42,2022-03-07 09:08:44,2024-05-11 00:23:27,Standard,112.0,272,True
+sdv-id-vxDJGV,Melissa,Garza,robertholden@example.org,(835)553-2043x068,"909 Pike Pl, Seattle, WA 98101",1995-06-18 16:46:17,2020-06-07 19:55:59,2024-05-31 17:17:21,Premium,166.69,1625,False
+sdv-id-xEYClM,Christina,Todd,reevesrobin@example.net,629-942-9699,"555 Aspen Dr, San Diego, CA 92101",2000-01-02 05:08:14,2022-01-19 10:05:22,2024-06-02 06:45:39,Standard,197.37,864,True
+sdv-id-DITxfP,Katherine,Lloyd,frankbarr@example.net,+1-703-904-8559x784,"333 Pennsylvania Ave NW, Washington, DC 20004",1982-02-18 14:04:13,2018-04-01 19:15:15,2024-05-31 05:05:45,Standard,7705.7,10992,True
+sdv-id-nCEXLa,Virginia,Lee,smithkristin@example.com,6699020363,"909 Pike Pl, Seattle, WA 98101",1973-08-06 18:52:07,2019-11-27 08:19:17,2024-04-16 17:11:11,VIP,17350.05,12436,True
+sdv-id-FjOCSq,Kimberly,Martinez,deborahjuarez@example.net,001-877-962-2661,"565 High St, Columbus, OH 43215",2002-09-19 06:26:03,2023-08-23 05:23:21,2024-05-31 11:53:36,VIP,111.32,184,True
+sdv-id-QuvXdD,Brian,Dean,cassandra34@example.org,(305)506-4577x693,"777 Redwood Pkwy, San Jose, CA 95101",2002-07-15 05:02:34,2022-04-25 06:31:48,2024-06-02 11:02:26,Standard,111.32,230,True
+sdv-id-tTaAjj,Megan,Carr,ibates@example.org,001-889-588-0609x11710,"333 Pennsylvania Ave NW, Washington, DC 20004",1988-05-31 16:14:23,2019-08-06 05:12:16,2024-05-26 18:28:05,Standard,3235.38,8662,True
+sdv-id-ivSDRG,Timothy,Delacruz,meganpowell@example.net,803.780.3678,"787 Trade St, Charlotte, NC 28202",1992-01-06 15:57:38,2021-11-13 03:55:25,2024-05-30 00:40:00,Standard,147.16,1512,False
+sdv-id-pyAMxC,Jeffery,Mcdonald,cguerra@example.com,001-842-979-9070,"101 Birch Blvd, Houston, TX 77001",1968-06-06 22:02:48,2018-06-13 10:25:54,2024-01-22 09:58:47,Premium,22679.79,6451,False
+sdv-id-HRbVgT,Anthony,Cunningham,hchoi@example.com,363-854-6082,"787 Trade St, Charlotte, NC 28202",1985-08-06 18:34:33,2020-11-01 03:14:06,2024-03-12 10:14:30,Standard,1567.61,3617,False
+sdv-id-mkJgmc,Bradley,Lang,qwilliams@example.net,522.328.4723,"789 Pine Ln, Los Angeles, CA 90001",1979-10-31 09:52:57,2020-09-26 04:24:58,2024-03-20 00:49:40,VIP,9768.33,3521,False
+sdv-id-YGOqtA,Robert,Watson,jaclyn54@example.net,528-248-0792,"111 16th St Mall, Denver, CO 80202",1982-09-24 00:50:10,2019-02-16 20:51:19,2024-05-16 15:56:04,VIP,620.18,8111,True
+sdv-id-rOsROq,Nicole,Dalton,danielle11@example.com,221.245.3112,"666 SW Broadway, Portland, OR 97205",1996-03-31 18:08:32,2022-09-12 22:41:26,2024-05-28 18:24:05,VIP,125.94,1004,False
+sdv-id-ZfPvEr,Cody,Black,butlerdavid@example.com,001-469-632-3050x69668,"666 Elm St, Dallas, TX 75201",1991-10-28 01:27:19,2019-11-21 22:27:14,2024-05-19 14:56:46,Standard,117.75,274,True
+sdv-id-dptvBc,Nicole,Stafford,contrerassherri@example.net,(974)937-8688,"787 Trade St, Charlotte, NC 28202",1965-10-10 19:38:29,2019-04-02 07:18:57,2023-11-10 20:14:55,VIP,25194.0,22636,True
+sdv-id-CyQpIw,Mary,Baker,stucker@example.com,230-313-9593,"343 Monument Cir, Indianapolis, IN 46204",1992-11-08 03:44:12,2020-07-08 14:57:58,2024-05-26 23:12:57,Standard,6765.06,2437,True
+sdv-id-dOMOdH,Alec,Jones,bward@example.org,269.832.5887x489,"999 Riverfront Dr, Jacksonville, FL 32202",1979-04-28 18:12:20,2019-02-28 07:23:18,2024-05-06 19:15:28,VIP,2886.85,1908,True
+sdv-id-yJvqXR,Andrea,Clark,vincent48@example.com,956-307-4009,"555 Las Vegas Blvd S, Las Vegas, NV 89109",2002-09-15 08:38:56,2023-08-30 13:05:40,2024-06-02 09:59:33,Standard,111.47,182,True
+sdv-id-jiePjE,Bradley,Price,michaelcarpenter@example.net,630-700-2692x7703,"777 E Pratt St, Baltimore, MD 21202",1979-08-23 03:14:46,2018-07-08 16:21:41,2024-05-18 14:28:00,Standard,4687.64,9924,False
+sdv-id-MIfgYe,James,Shaw,cjohnson@example.com,(746)819-8379x8852,"101 Birch Blvd, Houston, TX 77001",1983-01-22 08:12:36,2020-08-29 12:44:52,2024-05-13 02:38:37,Premium,15136.88,5086,True
+sdv-id-UewyGW,Andrew,Rogers,sabrinasmith@example.com,4512202075,"909 Pike Pl, Seattle, WA 98101",1986-10-22 16:06:37,2018-04-07 09:28:19,2024-05-20 03:19:27,Premium,484.51,1554,True
+sdv-id-tmDlED,Stephanie,Rodriguez,gonzalezmelanie@example.net,3826271989,"565 High St, Columbus, OH 43215",1976-12-03 14:43:52,2018-08-06 23:51:52,2024-03-12 04:20:39,Premium,16088.54,3945,True
+sdv-id-LbjZmX,Ricardo,Rodriguez,omcconnell@example.net,001-615-807-5758x5240,"222 Beacon St, Boston, MA 02116",1992-04-14 15:09:55,2019-11-27 11:19:09,2024-05-07 12:35:21,Premium,2791.88,3019,True
+sdv-id-ZTSvTa,Charles,Mueller,josephrichard@example.org,753-591-8399,"121 Market St, San Francisco, CA 94102",1979-05-21 03:08:34,2020-02-28 15:07:29,2024-05-15 14:06:41,Standard,8665.11,8248,True
+sdv-id-GjRnkR,Susan,Lee,delgadokara@example.org,(595)433-8233,"333 Spruce Ct, Phoenix, AZ 85001",1996-04-13 04:37:02,2021-03-03 02:56:36,2024-05-03 07:05:27,VIP,656.64,691,True
+sdv-id-COPiRb,Ashley,Bryant,mooreamy@example.org,(783)945-5257,"666 SW Broadway, Portland, OR 97205",1991-11-28 16:02:50,2020-05-19 03:07:13,2024-05-23 18:19:48,Standard,1005.97,2704,True
+sdv-id-DOoyfQ,Anthony,Lamb,ericlee@example.com,001-407-358-8119x94350,Sample Data,1985-09-15 18:48:25,2020-06-28 19:18:41,2024-04-04 17:31:33,Premium,540.84,3893,True
+sdv-id-jLJwWk,Chelsey,Barnes,dshea@example.org,001-599-916-2162x82507,Sample Data,1980-07-09 02:46:54,2019-05-03 20:50:24,2024-05-10 03:43:03,Standard,16593.36,4857,True
+sdv-id-RbPNQH,Beth,Navarro,rachelpadilla@example.net,365-475-0327,"666 Elm St, Dallas, TX 75201",2001-11-24 02:35:07,2022-12-18 12:24:08,2024-05-31 19:03:23,VIP,111.43,237,True
+sdv-id-dKyutj,Rebecca,Davis,gallen@example.net,445-215-1921x8977,"444 Willow Way, San Antonio, TX 78201",2001-07-24 17:54:24,2023-11-22 00:30:02,2024-06-02 05:04:06,Premium,120.66,360,True
+sdv-id-SmWwzF,Nicole,Miller,jessicahall@example.net,+1-362-767-6692,"789 Pine Ln, Los Angeles, CA 90001",1993-08-01 23:48:34,2019-12-15 11:54:29,2024-05-26 19:21:21,Premium,1105.1,1925,False
+sdv-id-rgrYnC,Kelly,Harris,sgross@example.com,4529477476,"999 Riverfront Dr, Jacksonville, FL 32202",1986-09-27 12:14:16,2019-07-06 19:00:39,2024-05-12 10:50:02,Premium,974.83,4744,True
+sdv-id-KieuXw,Pamela,Williams,angela35@example.net,(241)764-9771,"999 Riverfront Dr, Jacksonville, FL 32202",1995-12-17 23:51:46,2021-02-20 21:27:37,2024-06-02 04:33:04,VIP,183.61,2310,True
+sdv-id-nUJISq,Darin,Smith,chambersnicholas@example.org,3312212984,"456 Oak Ave, Chicago, IL 60601",1996-04-05 10:24:30,2023-06-25 09:00:03,2024-06-01 18:52:32,Premium,1112.51,4105,True
+sdv-id-JQkIsT,Jason,Lee,kelsey92@example.com,623.979.5337x3036,"787 Trade St, Charlotte, NC 28202",1985-12-14 23:45:05,2022-10-21 15:28:28,2024-03-08 23:57:57,Premium,4892.33,3198,False
+sdv-id-IHWYOq,Stephanie,Foster,andrewbryant@example.com,001-586-425-8606x221,"555 Aspen Dr, San Diego, CA 92101",1990-04-19 06:58:33,2020-09-19 11:54:55,2024-06-01 01:52:46,Standard,269.95,1729,False
+sdv-id-XNupNV,Amanda,Brown,laurapope@example.net,853-584-2476,"333 Pennsylvania Ave NW, Washington, DC 20004",1983-08-24 03:09:44,2019-06-28 05:25:58,2024-04-15 10:39:12,Standard,12812.96,1339,True
+sdv-id-icrPAu,Tammy,Reynolds,gabrielmason@example.net,459-993-1469,"101 Birch Blvd, Houston, TX 77001",2000-10-13 02:14:46,2023-06-03 13:39:00,2024-05-25 01:32:02,Standard,603.17,529,True
+sdv-id-JVUcDv,Daniel,Lopez,michellestark@example.org,719.470.7961x42155,"456 Oak Ave, Chicago, IL 60601",2002-08-14 19:46:15,2023-02-12 20:58:47,2024-06-02 01:04:54,Premium,111.86,213,True
+sdv-id-sMNDXf,Paula,Walls,joyceconner@example.net,473.481.1150,"999 Riverfront Dr, Jacksonville, FL 32202",1972-06-25 08:39:11,2018-03-17 17:47:50,2023-11-21 04:33:19,VIP,1931.52,15816,False
+sdv-id-JGHdPL,Dawn,Williams,josephking@example.net,673.765.6379x649,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1989-04-08 22:01:02,2020-08-15 14:21:35,2024-05-06 21:47:30,Standard,17453.59,3257,True
+sdv-id-qUGRSU,Maria,Goodman,roberthuber@example.net,+1-636-909-3063x761,"333 Spruce Ct, Phoenix, AZ 85001",1990-02-17 01:38:16,2022-03-01 06:10:25,2024-05-16 19:48:05,VIP,1004.31,2602,True
+sdv-id-OmBakF,Susan,Johnson,hornekaylee@example.org,203-200-3540,"777 Redwood Pkwy, San Jose, CA 95101",1999-04-07 19:39:48,2021-03-14 04:07:00,2024-05-10 12:39:22,Standard,154.19,528,True
+sdv-id-jSyZsH,Bob,Mclaughlin,amanda86@example.com,+1-917-698-1954x94268,"456 Oak Ave, Chicago, IL 60601",2002-08-29 08:13:43,2023-04-05 16:23:24,2024-06-02 00:31:47,Premium,112.81,276,False
+sdv-id-GtXGrW,Angel,Morton,beardbrandon@example.org,(678)902-9616x360,"999 Riverfront Dr, Jacksonville, FL 32202",1992-09-11 13:27:59,2020-12-13 16:20:43,2024-05-28 08:38:45,Standard,3162.03,3639,True
+sdv-id-yVvDqD,Heather,Chandler,johnolsen@example.com,(500)669-4911x971,Sample Data,2000-06-17 23:30:07,2019-12-14 01:34:16,2024-06-02 08:43:07,Premium,111.34,211,True
+sdv-id-lTiyPJ,Rachel,Davis,drakejoseph@example.org,676-560-2446,"101 Birch Blvd, Houston, TX 77001",1982-03-04 22:34:05,2019-06-14 23:49:55,2024-04-11 06:05:38,VIP,2811.21,3092,True
+sdv-id-PuyNxu,Angela,Thomas,loribailey@example.net,221.798.9948x047,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1974-01-26 04:18:06,2018-04-11 15:35:13,2024-04-25 21:04:43,Premium,5650.72,16207,False
+sdv-id-PFzzYe,Adam,Ho,guy56@example.org,952-755-6228,"111 16th St Mall, Denver, CO 80202",1977-01-13 03:16:24,2019-01-15 10:36:29,2024-04-19 13:18:18,Standard,17840.21,6873,True
+sdv-id-aQqMGL,Robin,Avery,thompsonbrandon@example.org,8014896364,"555 Aspen Dr, San Diego, CA 92101",1987-09-16 21:20:21,2018-11-14 19:19:10,2024-05-14 20:57:16,Standard,241.39,1719,True
+sdv-id-RZCjyn,Gregory,Thompson,jill25@example.com,+1-830-286-3520x405,"909 Pike Pl, Seattle, WA 98101",1969-09-15 02:46:35,2018-09-07 01:36:45,2024-03-01 16:08:46,Premium,14506.4,12757,False
+sdv-id-SAcoVV,John,Taylor,robert09@example.org,4532473012,Sample Data,2001-04-04 10:43:06,2022-02-25 03:40:56,2024-06-02 09:45:40,Standard,111.32,189,True
+sdv-id-IAzFlA,Donna,Juarez,zross@example.net,577-208-5007x901,"444 Willow Way, San Antonio, TX 78201",1990-09-11 04:30:22,2021-08-31 03:52:44,2024-04-14 19:24:31,VIP,2755.21,5164,True
+sdv-id-EyVsGV,Samantha,Hodge,ljohnson@example.com,(577)406-7625,"777 Redwood Pkwy, San Jose, CA 95101",2003-01-30 00:29:16,2023-06-09 04:19:55,2024-06-02 11:11:10,Premium,111.32,186,True
+sdv-id-yJmhuW,Sara,Newton,cookeemily@example.com,588.968.6022,"101 Birch Blvd, Houston, TX 77001",1980-03-24 07:04:03,2019-06-06 15:51:17,2024-03-28 04:34:29,Premium,22622.26,2580,True
+sdv-id-GZNzzE,Brianna,Goodman,hayleytorres@example.org,(335)659-3586x9658,"111 16th St Mall, Denver, CO 80202",1979-07-22 06:04:32,2018-09-01 02:27:12,2024-03-09 04:39:06,VIP,21381.67,5003,True
+sdv-id-izVHXU,Elizabeth,Rowe,justinburns@example.net,805-601-3750x833,"333 Spruce Ct, Phoenix, AZ 85001",1994-12-02 03:45:31,2022-11-09 13:58:57,2024-05-26 14:22:37,VIP,460.85,467,False
+sdv-id-kCZEgA,Isaiah,Lynch,bjones@example.com,(740)614-9179,"111 16th St Mall, Denver, CO 80202",1996-03-26 10:20:32,2020-06-17 13:13:00,2024-05-30 18:20:58,VIP,324.04,4725,False
+sdv-id-hxYrJt,Gary,Rodriguez,ndaniel@example.org,+1-636-685-4018x68100,"444 Willow Way, San Antonio, TX 78201",2002-05-01 19:48:56,2022-04-08 09:08:37,2024-06-01 12:14:45,Standard,111.36,183,False
+sdv-id-Ptcyoc,Sara,Smith,shannon80@example.org,932-665-3041x6643,"999 Riverfront Dr, Jacksonville, FL 32202",1988-12-18 11:11:25,2021-03-18 02:06:22,2024-05-19 12:52:34,Standard,1925.9,7048,False
+sdv-id-ADXegS,Anthony,Evans,sarahhiggins@example.org,541-778-0836,"555 Aspen Dr, San Diego, CA 92101",1995-10-27 04:30:19,2021-08-13 17:42:08,2024-06-01 11:46:26,Premium,890.0,1829,False
+sdv-id-GZWnVj,Ann,Singh,brittanyvelasquez@example.net,391.805.7887,"101 Birch Blvd, Houston, TX 77001",1970-05-13 16:07:53,2018-07-09 08:49:28,2023-12-06 09:01:58,Standard,13499.89,11961,False
+sdv-id-YOgYEI,Joel,Bowers,anthonyhansen@example.net,(982)578-7492,"101 Birch Blvd, Houston, TX 77001",1976-09-29 21:29:11,2021-02-03 16:22:26,2024-03-11 07:01:25,VIP,15384.04,12534,False
+sdv-id-sTxLDn,Timothy,Monroe,sarahnguyen@example.net,001-384-883-4606,"333 Pennsylvania Ave NW, Washington, DC 20004",1993-04-12 04:37:00,2020-09-19 17:53:05,2024-04-24 04:04:16,Standard,139.35,1393,True
+sdv-id-wFNqMw,Karen,Ramos,helen77@example.org,+1-264-568-9681x2181,"565 High St, Columbus, OH 43215",1986-06-30 07:27:19,2020-05-30 21:22:55,2024-05-20 23:53:54,Premium,1570.51,2586,True
+sdv-id-xuyTxA,Lee,Foster,jacksonrichard@example.com,478-384-3701x61409,"666 Elm St, Dallas, TX 75201",1978-05-16 00:15:28,2019-07-11 04:06:35,2024-04-20 09:32:57,Standard,9025.74,7686,False
+sdv-id-jyuHul,Mark,Reyes,pagelynn@example.net,001-716-682-3344,"999 Riverfront Dr, Jacksonville, FL 32202",1976-03-28 02:53:15,2019-07-10 14:29:32,2024-04-29 23:13:35,Standard,6450.76,9504,True
+sdv-id-qLFXzA,Michael,Simpson,guerrajames@example.net,001-340-261-3113,"555 Las Vegas Blvd S, Las Vegas, NV 89109",2001-06-28 01:59:48,2022-03-20 00:28:44,2024-06-02 04:59:33,Premium,116.32,292,True
+sdv-id-MYIcim,Natasha,Robinson,valerie52@example.org,923-980-7862,"666 SW Broadway, Portland, OR 97205",1967-07-22 07:36:55,2018-03-20 20:32:27,2023-12-17 14:57:34,Premium,23757.71,22268,True
+sdv-id-MrROMb,Mitchell,Freeman,douglasbrown@example.com,(314)600-9904,"456 Oak Ave, Chicago, IL 60601",1969-02-24 12:12:05,2018-06-18 10:38:49,2023-10-31 05:45:00,Standard,21602.64,21099,True
+sdv-id-TKjHpk,Joshua,Odom,tracieryan@example.com,934-922-1366,"343 Monument Cir, Indianapolis, IN 46204",1972-01-15 00:49:25,2018-10-17 16:13:15,2024-03-09 09:56:35,Standard,16996.18,14608,False
+sdv-id-SwsCvf,Matthew,Porter,carlos22@example.com,7683284098,"777 Redwood Pkwy, San Jose, CA 95101",1993-09-04 04:38:11,2020-02-14 23:24:11,2024-05-23 06:29:17,Standard,186.81,1158,True
+sdv-id-UOyHHQ,Debra,Barnett,hannah96@example.com,402-849-2716,"666 SW Broadway, Portland, OR 97205",1977-02-22 04:23:51,2018-06-28 07:31:31,2024-05-28 02:08:52,Premium,12347.02,12850,True
+sdv-id-hSZUDP,Jessica,Bird,jeffrey23@example.com,676-939-9138,"999 Riverfront Dr, Jacksonville, FL 32202",1972-08-10 20:40:26,2019-01-31 00:12:36,2024-01-09 07:50:40,Premium,17311.86,30000,False
+sdv-id-CoBvCu,Julia,Morales,hayleynelson@example.org,562.869.1330,"787 Trade St, Charlotte, NC 28202",1984-08-22 03:33:16,2018-05-14 05:44:34,2024-05-27 09:32:02,Standard,153.41,2900,True
+sdv-id-cHEexj,Adam,Romero,kingnancy@example.net,+1-684-769-4119x4447,"666 Elm St, Dallas, TX 75201",1996-02-06 02:27:56,2022-09-13 04:27:44,2024-05-28 23:26:08,VIP,9275.18,2543,False
+sdv-id-UOyDoD,Edwin,Hayes,brittanymartin@example.org,+1-236-538-1680x183,"222 Beacon St, Boston, MA 02116",1971-06-08 18:06:03,2018-10-31 16:45:51,2024-03-08 01:53:05,Standard,25370.98,7629,True
+sdv-id-COPxiA,Eric,Leon,xdillon@example.com,640-240-0529x58159,"909 Pike Pl, Seattle, WA 98101",1987-06-28 22:40:33,2019-05-24 21:12:00,2024-05-08 16:41:40,VIP,7624.53,5543,True
+sdv-id-QUDdFj,Timothy,Jones,rossjohn@example.org,792-301-9804x0175,"111 16th St Mall, Denver, CO 80202",1993-05-26 20:25:57,2023-04-01 18:58:49,2024-06-01 23:55:19,Standard,1641.96,3339,False
+sdv-id-uknMic,Kelsey,Richard,desireenorman@example.org,607.388.1464x2835,"555 Las Vegas Blvd S, Las Vegas, NV 89109",2000-05-03 08:39:36,2021-10-15 17:11:18,2024-05-29 03:00:32,Standard,111.63,265,False
+sdv-id-ZFtMQK,John,Humphrey,hwall@example.org,(696)346-6973x326,"111 16th St Mall, Denver, CO 80202",1984-07-31 17:43:22,2018-12-29 21:52:30,2024-05-29 05:21:07,Premium,7534.89,4231,False
+sdv-id-KkdQjm,John,Gallegos,christopher10@example.com,(596)706-0822x43078,"333 Pennsylvania Ave NW, Washington, DC 20004",1981-03-20 05:40:49,2019-11-29 01:41:45,2024-05-23 04:37:44,Premium,3697.59,20398,True
+sdv-id-CnakrQ,Roger,Nichols,simpsoncourtney@example.net,(797)783-6711x15603,"909 Pike Pl, Seattle, WA 98101",2001-05-19 02:15:02,2023-04-24 03:11:39,2024-05-30 14:06:01,Premium,111.32,310,False
+sdv-id-ioGCUE,David,Ali,paigewest@example.org,581.628.3571x430,"787 Trade St, Charlotte, NC 28202",1979-12-22 06:29:14,2018-07-29 00:29:46,2024-04-23 23:05:57,Standard,7430.29,10705,True
+sdv-id-TdOcJa,Nicole,Smith,hgibson@example.com,2407099663,"101 Birch Blvd, Houston, TX 77001",1997-07-14 08:16:33,2022-09-12 06:23:27,2024-05-27 17:53:02,Standard,233.16,198,False
+sdv-id-hfdTDL,Alexander,Harris,alejandra46@example.org,9716033806,"111 16th St Mall, Denver, CO 80202",1981-11-21 23:11:49,2018-05-01 10:55:18,2024-03-12 21:44:24,Standard,11927.3,10604,True
+sdv-id-RCyCGc,John,White,mdavis@example.org,697-938-1650,"111 16th St Mall, Denver, CO 80202",1988-06-10 20:36:10,2018-08-23 03:43:15,2024-05-26 02:45:12,Premium,210.49,1244,True
+sdv-id-jSuPOI,Elizabeth,Dawson,clarkbianca@example.net,(931)283-4891x2862,"456 Oak Ave, Chicago, IL 60601",1999-07-16 01:25:14,2023-08-14 03:03:40,2024-05-31 16:21:34,Premium,1038.41,4441,True
+sdv-id-JLbLxv,Jennifer,Johnson,aliciacurtis@example.com,(301)533-5924x877,"444 Willow Way, San Antonio, TX 78201",1998-08-30 13:52:23,2022-11-05 14:05:24,2024-04-30 21:39:49,Standard,3012.55,905,True
+sdv-id-KEhYsd,Christina,Pierce,longjuan@example.net,(308)407-5830x681,"666 SW Broadway, Portland, OR 97205",2002-01-06 01:06:17,2020-11-01 18:14:42,2024-06-02 08:38:20,Standard,112.03,209,True
+sdv-id-gfSqsE,Ryan,Vincent,david30@example.org,826-328-0047,"456 Oak Ave, Chicago, IL 60601",1971-04-20 22:44:28,2018-08-15 21:24:06,2024-03-05 18:49:28,Premium,22611.34,6466,False
+sdv-id-wDHGwg,Laura,Gibson,mhicks@example.net,9525458823,"666 Elm St, Dallas, TX 75201",1977-08-13 14:15:52,2018-05-14 17:11:41,2024-05-03 12:23:55,VIP,17637.97,8884,False
+sdv-id-iuhqiy,Jose,Dunn,christopherbarnes@example.com,418-504-8111,"789 Pine Ln, Los Angeles, CA 90001",1993-11-28 13:42:25,2019-11-18 21:01:29,2024-05-05 18:58:53,Standard,133.87,416,True
+sdv-id-iMIfMD,Jason,Bennett,hamiltonkelly@example.com,990.639.9757x6607,"333 Pennsylvania Ave NW, Washington, DC 20004",1982-06-14 05:36:13,2018-11-30 19:52:53,2024-04-18 06:57:24,Standard,14475.84,6327,True
+sdv-id-peTnvE,Patrick,White,howelldonald@example.net,001-255-951-6316x14088,"333 Spruce Ct, Phoenix, AZ 85001",1993-05-21 06:07:23,2021-01-10 07:04:43,2024-05-19 22:52:43,Standard,1924.02,441,True
+sdv-id-yuwYUP,Ashley,Tran,xwaters@example.net,375.844.7583x0496,"555 Aspen Dr, San Diego, CA 92101",1990-08-05 09:07:51,2019-05-06 03:35:14,2024-05-22 02:19:23,Premium,138.31,5096,True
+sdv-id-RsPDaq,Zachary,Munoz,hawkinscaitlin@example.net,001-902-412-3133x422,"999 Riverfront Dr, Jacksonville, FL 32202",1981-03-21 10:27:57,2021-12-30 10:30:35,2024-04-02 14:03:35,VIP,1713.51,7260,False
+sdv-id-fnTGoD,Stacy,Butler,dorothy19@example.org,(317)852-6386x5793,Sample Data,1972-01-12 16:02:39,2018-09-24 06:38:16,2023-10-31 05:45:00,VIP,22296.2,11588,True
+sdv-id-rPsTLJ,Cristina,Mathis,romerojessica@example.com,273-414-2094x40416,"212 Cedar Rd, Philadelphia, PA 19101",1997-09-19 20:59:30,2022-12-10 17:49:41,2024-05-28 03:53:50,Premium,458.49,1044,False
+sdv-id-oQwwXo,Lisa,Ferrell,matthewmclaughlin@example.net,240-217-7320x64027,"333 Spruce Ct, Phoenix, AZ 85001",1998-08-10 09:32:16,2021-04-25 01:14:55,2024-06-02 04:44:13,Standard,161.77,464,False
+sdv-id-MzaMAi,Tyler,Foster,iedwards@example.net,(676)861-4983x87638,"909 Pike Pl, Seattle, WA 98101",1973-06-24 09:58:52,2018-03-02 07:02:22,2024-05-27 23:00:31,Premium,6547.43,8460,False
+sdv-id-uDXBdu,Bianca,Green,xglenn@example.net,3326404734,"777 E Pratt St, Baltimore, MD 21202",1973-05-07 18:31:51,2018-04-22 04:53:09,2024-04-25 19:34:36,Premium,4133.67,14734,True
+sdv-id-cgrHFD,David,Bryan,gibsonscott@example.com,001-645-809-8815x9804,"333 Spruce Ct, Phoenix, AZ 85001",1974-12-11 04:14:36,2020-01-12 06:15:49,2024-01-13 15:53:23,VIP,25143.47,17346,True
+sdv-id-GpMAnt,Nicole,Vega,gordoncorey@example.org,868.476.0088x014,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1970-03-07 12:26:56,2019-01-14 03:15:57,2024-04-27 18:33:26,Standard,20189.62,19024,True
+sdv-id-VpnCMH,Stephanie,Jacobs,deniseweber@example.org,701.695.4178x496,"121 Market St, San Francisco, CA 94102",1977-05-03 17:45:19,2019-03-17 15:53:12,2024-04-21 11:36:30,Standard,16419.92,4932,True
+sdv-id-OxrGii,Steven,Cooley,asilva@example.org,(448)998-6086x8127,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1981-08-15 10:30:11,2021-11-09 02:17:02,2024-04-30 15:43:27,Premium,19380.42,15506,True
+sdv-id-xlnPqL,Jason,Lewis,sking@example.net,783-366-8995x7581,"222 Beacon St, Boston, MA 02116",1996-02-20 01:37:32,2019-04-21 16:29:51,2024-05-29 17:59:35,Standard,111.58,1176,False
+sdv-id-qDXyAK,Cody,Crawford,rsanchez@example.com,(972)828-0563x896,"565 High St, Columbus, OH 43215",1987-11-21 09:43:29,2019-09-25 01:44:29,2024-05-08 21:05:34,VIP,4430.36,3434,False
+sdv-id-UNWlvc,Frank,Chan,bennettdalton@example.net,001-987-978-6204,"333 Spruce Ct, Phoenix, AZ 85001",1995-11-11 11:42:29,2023-03-21 00:31:22,2024-05-15 16:50:01,Standard,3831.79,687,False
+sdv-id-tmYzGJ,Kimberly,Sanders,robert35@example.com,+1-936-713-4060x7846,"212 Cedar Rd, Philadelphia, PA 19101",1976-09-27 15:48:59,2018-12-07 10:35:17,2023-10-31 05:45:00,Standard,1628.39,5447,False
+sdv-id-JmLrYY,Terri,Martin,tyler63@example.net,449.865.8445,"666 Elm St, Dallas, TX 75201",1998-12-09 14:05:43,2023-06-15 06:22:29,2024-05-30 06:58:54,Standard,111.58,2459,True
+sdv-id-xXItIt,Elizabeth,Wise,russellking@example.com,+1-718-274-4274x789,"333 Spruce Ct, Phoenix, AZ 85001",1996-07-26 07:10:11,2022-05-02 14:57:39,2024-05-28 22:14:19,Premium,581.18,1383,True
+sdv-id-LJpeSi,Rodney,Wilson,qlyons@example.net,+1-880-545-4913x52879,"789 Pine Ln, Los Angeles, CA 90001",1982-02-04 05:49:59,2020-01-18 18:08:15,2024-05-20 06:47:03,VIP,9565.14,13488,True
+sdv-id-xPFTFi,Elizabeth,Martinez,lauramartinez@example.org,+1-928-694-6812x38195,"333 Pennsylvania Ave NW, Washington, DC 20004",1989-09-18 05:55:20,2022-12-28 17:56:42,2024-05-18 14:20:21,Standard,2344.82,9602,True
+sdv-id-XkanKj,Jacqueline,Snyder,elucas@example.net,5093795985,"565 High St, Columbus, OH 43215",1995-12-24 03:59:12,2019-09-08 21:56:00,2024-05-31 12:47:37,Premium,113.35,2864,True
+sdv-id-MfFmLj,Thomas,King,pberger@example.com,+1-320-313-5695,"444 Willow Way, San Antonio, TX 78201",1982-06-17 02:16:31,2019-01-08 15:25:02,2024-05-21 14:13:47,VIP,13477.62,6097,True
+sdv-id-JmuwAN,John,Scott,jasonrobinson@example.org,(276)972-6403,"444 Woodward Ave, Detroit, MI 48226",1976-02-19 06:28:32,2019-09-12 06:13:26,2024-04-16 15:43:52,Standard,12727.27,14466,True
+sdv-id-FGswYs,Justin,Holland,dustinchavez@example.net,560-200-5201x77703,"333 Spruce Ct, Phoenix, AZ 85001",1986-05-24 03:19:32,2019-12-26 00:46:08,2024-05-16 22:39:06,Standard,322.43,2545,False
+sdv-id-pwkpqw,Christopher,Morgan,kendracruz@example.com,750.450.0032x92424,"666 Elm St, Dallas, TX 75201",1974-07-26 14:58:14,2018-03-17 12:03:35,2023-12-31 11:50:58,VIP,16393.89,9745,False
+sdv-id-plMTnP,Miguel,Brooks,wangtonya@example.org,(779)474-6738,"121 Market St, San Francisco, CA 94102",1973-03-06 15:24:12,2018-04-25 07:07:18,2024-04-25 18:55:36,Standard,4694.82,6692,True
+sdv-id-aRMyHK,Alan,Park,williamkelly@example.com,5317028547,"555 Aspen Dr, San Diego, CA 92101",1989-04-02 07:05:21,2019-11-11 12:04:53,2024-05-20 16:20:19,Premium,317.37,1406,True
+sdv-id-GvyzAR,Gregory,Clark,bridgescynthia@example.com,001-438-962-9968,"222 Beacon St, Boston, MA 02116",2002-11-28 03:07:04,2022-08-10 11:09:32,2024-06-02 08:00:40,Standard,111.32,182,True
+sdv-id-uuMIeX,Nicole,Ballard,troysingh@example.com,732.874.3019x0383,"343 Monument Cir, Indianapolis, IN 46204",1978-11-01 17:28:23,2019-01-20 22:12:48,2024-04-22 06:14:38,Premium,2265.85,8118,True
+sdv-id-magMEG,Jason,Hurst,cwilson@example.net,499.759.5302x94828,"666 SW Broadway, Portland, OR 97205",1989-10-30 19:46:26,2020-09-17 06:19:46,2024-05-25 07:41:30,Standard,3593.48,5020,False
+sdv-id-fLzNQR,Jade,Bell,ztran@example.org,989-579-5950x21839,"456 Oak Ave, Chicago, IL 60601",1978-01-17 05:10:26,2018-06-30 02:48:24,2024-04-05 04:55:41,Standard,5859.97,6679,True
+sdv-id-HHtLWj,Joseph,Ferguson,matthew54@example.com,001-348-307-6248x718,"787 Trade St, Charlotte, NC 28202",1991-05-02 17:51:26,2020-01-20 10:48:49,2024-05-28 16:05:13,Standard,921.27,3174,True
+sdv-id-lPMnrD,Kevin,Li,valerie65@example.org,286-448-9705x404,"123 Maple St, New York, NY 10001",1980-02-22 16:15:34,2022-06-18 08:37:23,2024-03-31 13:30:59,Premium,3077.14,10265,False
+sdv-id-XIbsKk,Lindsay,Walker,davidpeck@example.net,609-461-1971,"999 Riverfront Dr, Jacksonville, FL 32202",1994-10-09 21:04:14,2022-04-04 11:09:22,2024-05-25 15:31:40,VIP,112.03,7001,True
+sdv-id-EslrXO,Marc,Valentine,lbailey@example.org,(642)817-6467x3374,"666 Elm St, Dallas, TX 75201",1986-12-06 11:03:14,2021-03-26 07:58:42,2024-05-11 01:23:45,Standard,5071.38,3784,True
+sdv-id-tHkuks,Kimberly,Russell,dalefrank@example.com,580.937.0619x56380,"666 Elm St, Dallas, TX 75201",1994-03-19 19:36:02,2022-08-13 07:14:57,2024-05-29 11:06:25,Standard,408.83,1726,True
+sdv-id-moxGwh,Christopher,Jones,quinnduane@example.net,206-253-0424,"565 High St, Columbus, OH 43215",1987-05-29 17:43:53,2019-10-04 10:15:13,2024-05-31 12:33:52,Standard,1544.65,2354,True
+sdv-id-gOFdDN,Jonathan,Johnson,clarkdonald@example.net,462.902.0248,"456 Oak Ave, Chicago, IL 60601",1968-07-03 09:13:49,2018-05-14 20:00:25,2024-01-25 05:43:41,Standard,18557.32,28378,False
+sdv-id-wmSWsE,Robin,Johnson,rconner@example.com,(439)975-1091x2067,"555 Aspen Dr, San Diego, CA 92101",1988-02-26 09:08:47,2020-03-01 07:33:50,2024-05-25 20:07:24,Premium,2819.84,6305,False
+sdv-id-DsLlUW,Andrew,Osborne,andrew52@example.org,617-607-7357x141,"444 Willow Way, San Antonio, TX 78201",1970-05-29 14:39:55,2021-04-14 20:29:09,2024-01-06 18:03:42,Standard,24004.26,16345,False
+sdv-id-IgSbtF,Bradley,Lee,harrishector@example.org,(402)556-9967x42264,"787 Trade St, Charlotte, NC 28202",1986-04-09 00:22:51,2021-11-28 20:48:33,2024-05-14 16:18:28,VIP,4237.41,1348,True
+sdv-id-saDIUq,Mark,Lewis,maryhill@example.org,001-224-309-5047x5225,"333 Pennsylvania Ave NW, Washington, DC 20004",1993-06-15 17:56:37,2020-12-03 00:30:35,2024-06-01 09:12:48,Standard,2257.77,1389,True
+sdv-id-dxxVOW,Jonathan,Torres,joshuadiaz@example.com,001-695-229-9292x32745,"555 Aspen Dr, San Diego, CA 92101",1998-05-06 08:15:36,2019-11-18 15:55:13,2024-06-02 07:38:21,Premium,111.67,340,True
+sdv-id-wXSmcR,Nina,Pratt,danielpeterson@example.net,001-838-724-4531x26723,"777 E Pratt St, Baltimore, MD 21202",1975-08-21 06:03:19,2018-10-30 02:43:20,2024-05-12 09:16:49,Premium,12700.64,18743,False
+sdv-id-SBQTvL,Melissa,Parks,julieward@example.org,001-359-719-0876x778,"999 Riverfront Dr, Jacksonville, FL 32202",1995-10-28 06:41:49,2020-12-27 11:44:47,2024-05-02 05:10:14,Standard,2314.11,1706,False
+sdv-id-MNKoAY,Sheri,Ochoa,robertboyd@example.net,419-642-5882,"565 High St, Columbus, OH 43215",1991-06-10 00:58:12,2020-04-23 15:51:04,2024-05-30 22:02:13,Standard,136.21,2643,False
+sdv-id-TEYEml,Travis,Terry,okirby@example.com,844.697.3128,"787 Trade St, Charlotte, NC 28202",1976-04-21 21:08:04,2020-01-05 15:17:54,2024-05-16 07:56:21,Standard,20375.98,14037,True
+sdv-id-lCnYOG,James,Perez,llopez@example.net,4074426468,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1981-04-14 20:08:43,2018-10-01 17:09:15,2024-04-24 16:59:50,Standard,855.08,3863,True
+sdv-id-MNsfHv,Nathaniel,Williams,wilkersonchristopher@example.org,900.643.1875x757,"565 High St, Columbus, OH 43215",1985-09-03 19:58:03,2020-03-02 23:01:51,2024-05-12 21:47:55,Standard,1456.59,4731,False
+sdv-id-CDKhEa,Monica,Sparks,ewatson@example.com,001-978-991-6667x77475,"777 E Pratt St, Baltimore, MD 21202",1999-01-17 21:37:24,2020-08-21 09:35:37,2024-06-01 14:26:00,Standard,270.98,665,True
+sdv-id-qYDiLb,Jordan,Haley,cardenaschloe@example.net,2784231391,"333 Pennsylvania Ave NW, Washington, DC 20004",2000-02-05 06:53:02,2021-02-15 18:14:57,2024-06-01 10:55:30,Premium,111.32,1413,True
+sdv-id-DlujFT,Linda,Robinson,obrientheresa@example.com,(622)626-4316,"777 Redwood Pkwy, San Jose, CA 95101",1987-06-11 05:20:24,2020-10-15 12:06:11,2024-05-08 21:29:57,Standard,8341.64,4479,True
+sdv-id-dtOVbb,Kari,Juarez,zpark@example.net,7283222960,"565 High St, Columbus, OH 43215",1966-07-31 19:19:10,2018-03-16 16:09:43,2023-10-31 05:45:00,Standard,23502.77,28619,True
+sdv-id-fLHxCE,Melinda,Stewart,reginaldkramer@example.com,354-936-8411x02305,"444 Willow Way, San Antonio, TX 78201",1988-09-02 12:52:11,2019-04-01 20:47:15,2024-05-13 05:14:05,VIP,3139.65,3357,True
+sdv-id-IDEnIB,Molly,Ramos,ejones@example.com,(690)853-3029,"666 Elm St, Dallas, TX 75201",1982-10-31 15:46:26,2020-03-22 19:02:07,2024-02-24 16:29:20,VIP,21225.55,10601,True
+sdv-id-jbGHCN,Dennis,Sampson,harrisoncatherine@example.org,(956)992-4091x40661,"111 16th St Mall, Denver, CO 80202",1995-04-26 10:44:18,2020-06-29 20:16:38,2024-05-30 04:18:41,Standard,1140.21,2065,False
+sdv-id-VlYFIl,Joy,George,hliu@example.com,+1-241-542-0968x4950,"789 Pine Ln, Los Angeles, CA 90001",2000-02-09 18:08:53,2021-08-10 11:06:09,2024-06-02 09:51:11,Premium,111.32,213,True
+sdv-id-eOTTrn,Kelly,Barton,chasestevens@example.com,+1-981-457-2001x3543,"333 Spruce Ct, Phoenix, AZ 85001",1998-02-05 07:27:50,2022-08-01 14:54:19,2024-05-25 04:09:34,VIP,163.95,1181,True
+sdv-id-BEVGfk,Randall,Peterson,pamela76@example.com,(615)313-6858x793,"111 16th St Mall, Denver, CO 80202",1976-09-23 20:29:03,2019-05-04 01:48:27,2024-05-07 20:42:31,Standard,19453.84,15311,True
+sdv-id-QSnHTI,Lindsay,Knox,taylorgibson@example.net,001-970-339-3001x6051,"787 Trade St, Charlotte, NC 28202",1979-09-27 16:33:05,2019-07-29 22:29:51,2023-12-31 00:10:56,VIP,16121.93,2703,True
+sdv-id-mXinBk,Jennifer,Lopez,ipark@example.org,7207409354,"787 Trade St, Charlotte, NC 28202",1991-02-06 00:27:31,2023-03-14 21:01:39,2024-05-25 11:25:03,Standard,2840.23,2297,False
+sdv-id-OjQHXA,Benjamin,Barnes,lisa16@example.org,(846)339-5587,"909 Pike Pl, Seattle, WA 98101",1989-06-10 17:43:53,2019-02-18 02:44:53,2024-05-20 17:56:23,VIP,3614.14,1801,True
+sdv-id-IPIVUS,Kimberly,Young,rojasmarcus@example.org,426.763.8264x0358,"111 16th St Mall, Denver, CO 80202",1975-09-14 19:01:35,2019-05-21 22:45:38,2024-01-24 04:20:41,VIP,7148.32,5456,False
+sdv-id-ZXwXLl,Joseph,Cordova,john40@example.com,964.260.0350x61780,"222 Beacon St, Boston, MA 02116",1972-02-05 08:28:02,2018-06-02 12:25:01,2024-01-09 02:56:34,VIP,17970.55,5329,False
+sdv-id-RYrxkf,Benjamin,Parrish,rodriguezjennifer@example.net,546-606-2933x5248,"444 Woodward Ave, Detroit, MI 48226",1984-10-29 16:02:26,2018-07-10 17:15:00,2024-05-13 07:10:43,Standard,3065.32,5332,True
+sdv-id-kWRwBA,Robert,Macdonald,dwayneruiz@example.com,+1-394-466-6959,"222 Beacon St, Boston, MA 02116",1997-05-03 11:32:00,2023-01-03 07:32:33,2024-05-10 02:46:24,VIP,425.6,301,True
+sdv-id-aZbZcS,Anthony,Maldonado,angelajohnson@example.org,456-703-3066x4150,"212 Cedar Rd, Philadelphia, PA 19101",1980-09-22 01:36:46,2019-05-19 12:51:18,2024-03-31 04:01:16,Standard,475.16,5211,False
+sdv-id-GWgQnf,Justin,Gallegos,jhawkins@example.com,+1-719-211-8961,"909 Pike Pl, Seattle, WA 98101",1993-08-12 18:47:08,2021-01-24 13:17:50,2024-05-30 19:57:37,Premium,199.29,892,False
+sdv-id-hlDOqY,Sonya,Bailey,kellyjaime@example.com,467.714.0138,"555 Aspen Dr, San Diego, CA 92101",1992-08-21 22:23:06,2019-09-25 05:42:14,2024-05-08 07:47:41,Standard,9560.23,1443,True
+sdv-id-bZIosc,Kathryn,Martin,pwatson@example.com,802-444-2364x6239,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1979-10-28 15:00:58,2018-05-09 15:06:40,2024-05-17 15:51:28,Premium,5319.66,11478,True
+sdv-id-kBpljS,Matthew,Trevino,blakeyoung@example.com,5109645917,"555 Aspen Dr, San Diego, CA 92101",1981-11-13 16:44:28,2018-03-01 21:38:37,2023-11-20 15:07:16,Premium,2107.45,9154,True
+sdv-id-aYDYXe,Christine,Clark,kathy42@example.com,8222441304,"444 Woodward Ave, Detroit, MI 48226",1981-07-18 22:52:45,2021-12-01 08:05:42,2024-03-03 10:30:13,Standard,2673.96,7738,True
+sdv-id-feiujn,Michael,Rodriguez,nelsoncody@example.org,+1-772-772-0465,"212 Cedar Rd, Philadelphia, PA 19101",2000-08-24 19:06:32,2022-03-18 15:15:16,2024-06-02 00:22:22,Standard,111.74,510,True
+sdv-id-CXlQAl,Benjamin,Nelson,xjohnson@example.org,814-597-9265,"777 Redwood Pkwy, San Jose, CA 95101",2002-02-18 11:59:09,2022-08-01 09:56:06,2024-06-02 09:16:42,Standard,111.32,512,True
+sdv-id-gQmLhT,Erica,Davis,wesley66@example.net,876.554.8783x48766,"121 Market St, San Francisco, CA 94102",2001-07-27 16:35:58,2022-11-07 21:58:53,2024-06-01 18:21:01,VIP,143.46,2062,True
+sdv-id-deMizo,Taylor,Hartman,scottbarnes@example.org,(497)583-7783x8593,"565 High St, Columbus, OH 43215",1985-03-21 04:28:34,2019-04-28 10:36:46,2024-05-25 23:47:04,Premium,128.24,5203,True
+sdv-id-qjICyl,Kelsey,Williams,angelajohnson@example.net,001-356-844-8406x74208,"787 Trade St, Charlotte, NC 28202",1999-01-28 07:25:29,2023-10-13 23:48:11,2024-05-30 06:17:05,VIP,130.96,1139,False
+sdv-id-IPpeQZ,Brenda,Gonzalez,sharonweber@example.org,+1-681-591-5194x456,"787 Trade St, Charlotte, NC 28202",1986-08-23 15:54:49,2019-04-12 05:30:39,2024-04-21 17:16:58,Standard,409.51,1935,False
+sdv-id-aqUiDV,John,Mays,arivas@example.net,001-631-515-4552x89694,"909 Pike Pl, Seattle, WA 98101",1993-04-06 06:27:01,2019-07-11 09:59:03,2024-05-26 06:10:52,Premium,1192.98,580,True
+sdv-id-KloNAv,Annette,Lynch,kathrynsteele@example.org,884.767.9246,"666 Elm St, Dallas, TX 75201",1984-03-16 15:08:50,2020-06-09 20:38:29,2024-05-06 11:05:49,Standard,9928.65,9384,True
+sdv-id-ZCxzZJ,Rachel,Smith,candicejones@example.com,(674)680-9496x835,"666 Elm St, Dallas, TX 75201",2002-05-26 21:41:06,2023-07-22 03:04:32,2024-06-02 11:10:52,VIP,111.33,263,True
+sdv-id-XMNGOy,Allison,Scott,lesliereeves@example.org,6523586134,"777 E Pratt St, Baltimore, MD 21202",1999-02-08 05:07:03,2020-07-29 10:13:18,2024-06-02 06:21:28,Premium,112.45,538,True
+sdv-id-TJGaiI,Michelle,Mcbride,marywallace@example.org,+1-921-327-1068,"333 Pennsylvania Ave NW, Washington, DC 20004",1993-03-25 05:03:00,2019-09-08 18:36:35,2024-05-26 02:04:00,Standard,143.03,2991,True
+sdv-id-bLiCNM,Brandon,Mcdowell,stephen96@example.net,+1-287-926-9455,"787 Trade St, Charlotte, NC 28202",1985-08-20 05:30:17,2020-04-17 14:02:15,2024-05-18 14:34:09,Premium,12519.51,10042,True
+sdv-id-Zzahwa,Lawrence,Morris,sbrown@example.com,001-312-803-7021x351,"121 Market St, San Francisco, CA 94102",1968-03-21 11:37:32,2020-08-21 10:52:08,2023-10-31 05:45:00,Standard,25444.4,21290,True
+sdv-id-YBNBhT,Molly,Bailey,joshuaholloway@example.com,784-479-3221,"666 Elm St, Dallas, TX 75201",1993-03-15 04:16:37,2022-07-28 05:59:14,2024-04-20 01:58:46,Premium,2938.26,6543,False
+sdv-id-AqgPFG,Donald,Coleman,ericedwards@example.org,001-644-911-4157x5345,"222 Beacon St, Boston, MA 02116",1988-08-28 06:10:39,2020-11-28 15:39:03,2024-04-03 09:16:45,Standard,444.41,3933,False
+sdv-id-BEGzLN,Dominique,Dean,patrickvillarreal@example.net,(467)486-1877,"789 Pine Ln, Los Angeles, CA 90001",2002-10-21 19:30:55,2023-06-30 07:22:27,2024-06-02 09:45:05,VIP,111.32,186,True
+sdv-id-laiByU,Manuel,Parker,lisa61@example.com,3143848299,"444 Woodward Ave, Detroit, MI 48226",1983-11-14 07:51:31,2019-01-30 14:14:08,2024-05-26 22:31:42,Standard,9448.3,2444,True
+sdv-id-VOYLEX,Michelle,Mitchell,joshuasummers@example.net,+1-473-327-8919,"666 Elm St, Dallas, TX 75201",1993-07-24 15:33:42,2020-09-14 05:22:24,2024-05-12 22:34:35,Standard,1673.43,806,True
+sdv-id-HsyyTH,Gene,Liu,jamesparker@example.org,672-972-2583x272,"333 Pennsylvania Ave NW, Washington, DC 20004",1986-11-18 01:45:47,2020-02-21 02:48:10,2024-05-10 06:36:37,Premium,1504.26,2883,True
+sdv-id-xfMDat,Theresa,Allen,brownheather@example.com,+1-469-442-8813x735,"999 Riverfront Dr, Jacksonville, FL 32202",1977-08-14 02:32:04,2021-06-24 01:48:15,2024-01-02 14:42:01,Standard,5772.35,5641,True
+sdv-id-fenSqc,Olivia,Meyer,thomasbarry@example.org,790-609-5902x3173,"909 Pike Pl, Seattle, WA 98101",1975-04-19 10:13:57,2018-08-01 22:37:05,2024-03-31 12:12:24,Standard,23159.55,11793,False
+sdv-id-eOpdnf,Samantha,Torres,kennethturner@example.net,526-687-8071x460,"456 Oak Ave, Chicago, IL 60601",1968-11-16 07:12:08,2018-06-13 05:46:20,2023-10-31 05:45:00,Standard,25210.51,7090,True
+sdv-id-qTQOsG,Andrea,Hicks,edwardpalmer@example.com,483.374.5640x9007,"909 Pike Pl, Seattle, WA 98101",1998-10-22 16:49:43,2023-03-20 07:54:43,2024-05-26 06:10:42,Standard,113.77,724,True
+sdv-id-nTyDfm,Brandi,Andrews,nathaniel85@example.org,609.826.3001x0771,"999 Riverfront Dr, Jacksonville, FL 32202",1974-05-25 15:26:29,2018-07-05 21:31:03,2024-03-24 14:03:53,VIP,21626.9,4579,False
+sdv-id-GjKbRt,Janice,Bryant,madisonchung@example.net,9437398591,"777 Redwood Pkwy, San Jose, CA 95101",1991-12-25 05:52:41,2020-01-30 12:03:35,2024-04-11 18:21:30,Standard,569.06,882,False
+sdv-id-XspVXP,Luis,Obrien,timothybrown@example.com,001-782-969-3090x61194,"555 Aspen Dr, San Diego, CA 92101",2000-05-25 17:52:43,2023-08-26 17:45:51,2024-05-31 21:43:52,Premium,115.06,2320,True
+sdv-id-LfzFVe,Kimberly,Lopez,jeffrey17@example.com,(472)712-9678x002,"111 16th St Mall, Denver, CO 80202",1990-10-25 08:32:13,2020-10-31 09:28:02,2024-05-07 03:19:16,Standard,861.53,1262,True
+sdv-id-dlOdpK,Katie,Mack,tony13@example.net,576.784.9241,"444 Willow Way, San Antonio, TX 78201",1979-06-02 03:54:18,2020-09-05 04:37:13,2024-01-04 22:00:12,Standard,15196.22,2348,True
+sdv-id-zpplvt,Erin,Faulkner,caseymichael@example.net,(618)842-6864,"101 Birch Blvd, Houston, TX 77001",1979-10-18 18:02:33,2021-04-17 23:24:59,2024-04-17 00:28:43,Standard,24023.93,9662,False
+sdv-id-jxIBeA,Mark,Potts,cmorse@example.org,+1-398-612-6325x63400,"456 Oak Ave, Chicago, IL 60601",1985-07-12 11:27:39,2020-05-12 19:45:58,2024-05-16 21:35:58,Standard,604.37,6107,True
+sdv-id-wUhska,Kelly,Nguyen,kara71@example.net,001-841-564-1047x69452,"333 Spruce Ct, Phoenix, AZ 85001",1998-01-13 06:26:43,2022-09-03 16:00:30,2024-06-02 02:56:03,Standard,140.99,2146,True
+sdv-id-kSwtdB,Priscilla,Keller,mollyjohnson@example.net,001-788-645-7969x3855,"909 Pike Pl, Seattle, WA 98101",1998-04-14 11:13:33,2021-07-27 02:20:08,2024-05-27 16:45:56,VIP,1448.13,548,False
+sdv-id-uTrJsH,Ryan,Williams,tarashort@example.net,(474)567-5634,"121 Market St, San Francisco, CA 94102",1993-10-13 03:09:03,2022-04-15 23:11:11,2024-05-31 04:10:19,Premium,4173.11,1672,True
+sdv-id-gNQxwR,Alexandra,Macias,david05@example.com,+1-897-909-5091x77618,"666 SW Broadway, Portland, OR 97205",1995-08-22 23:53:22,2021-01-09 07:06:39,2024-05-29 20:24:39,Standard,127.57,1065,True
+sdv-id-buCyex,Katherine,Wyatt,roger94@example.com,701.742.2036x25798,"121 Market St, San Francisco, CA 94102",1992-10-22 05:48:07,2022-07-05 18:07:38,2024-05-27 13:05:32,Standard,1998.55,1059,False
+sdv-id-plsCbg,Ruben,Washington,hansoncarla@example.net,539.329.5457x043,"999 Riverfront Dr, Jacksonville, FL 32202",1970-03-12 15:02:46,2019-12-05 03:07:32,2024-02-04 07:13:14,Standard,24707.35,12676,True
+sdv-id-SiYqyV,Stanley,Valdez,sean95@example.com,(426)497-2659x124,"777 Redwood Pkwy, San Jose, CA 95101",1982-03-09 22:20:53,2018-09-02 07:07:41,2024-04-09 11:03:16,Premium,5508.53,5368,True
+sdv-id-Fjpbnl,James,Braun,jacob06@example.net,(692)879-5904x237,"666 SW Broadway, Portland, OR 97205",1982-06-01 01:59:13,2018-08-04 21:34:21,2024-02-26 07:28:05,VIP,580.81,3134,False
+sdv-id-oUNliP,Dakota,George,yanderson@example.com,579-473-4599x38574,"456 Oak Ave, Chicago, IL 60601",1984-09-30 06:28:34,2022-10-14 22:19:13,2024-03-07 23:20:54,VIP,6467.9,9417,True
+sdv-id-UggvVx,Michele,Peters,vthomas@example.org,3818085802,"101 Birch Blvd, Houston, TX 77001",1996-07-05 02:11:12,2022-06-12 23:53:56,2024-05-23 14:35:40,VIP,303.54,3070,False
+sdv-id-fMhuAO,David,Johnson,trobinson@example.com,881.735.6824x8969,"555 Las Vegas Blvd S, Las Vegas, NV 89109",2000-03-30 12:55:56,2022-03-11 15:24:27,2024-05-31 18:18:01,Standard,123.83,317,True
+sdv-id-iXmhGJ,Nancy,Gray,doris35@example.org,3354777934,"789 Pine Ln, Los Angeles, CA 90001",1970-12-29 08:26:07,2018-10-02 18:15:49,2024-04-16 00:44:01,Premium,24003.19,27965,False
+sdv-id-XjDhGx,Catherine,Gonzalez,trangina@example.org,+1-724-789-2956x2377,"444 Woodward Ave, Detroit, MI 48226",1994-10-20 04:55:16,2018-07-15 11:55:13,2024-05-26 21:42:40,Standard,155.05,1898,True
+sdv-id-nqMAxL,Thomas,Charles,john46@example.com,529-519-9647x7450,"909 Pike Pl, Seattle, WA 98101",1995-01-10 11:43:38,2021-02-09 06:02:55,2024-06-02 10:45:10,Standard,123.82,1023,True
+sdv-id-KwQWeY,Thomas,Larson,thomas00@example.com,758.571.0530x151,"666 Elm St, Dallas, TX 75201",1988-03-08 17:02:57,2021-02-21 16:30:26,2024-05-31 01:19:52,Standard,2106.38,4941,True
+sdv-id-rbhhwi,Robert,Lee,brownlonnie@example.com,001-597-761-2609x335,"343 Monument Cir, Indianapolis, IN 46204",1995-06-28 12:04:55,2019-09-09 00:16:10,2024-05-29 14:51:03,Standard,113.86,368,True
+sdv-id-NbrYsJ,Christopher,Ray,uflowers@example.org,+1-236-604-1880,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1989-05-21 11:38:23,2018-04-14 01:27:06,2024-04-09 06:42:35,Standard,268.01,1695,True
+sdv-id-xjvMFy,Steven,Snyder,sjackson@example.com,5228512356,"555 Aspen Dr, San Diego, CA 92101",1997-06-03 16:23:46,2021-06-09 22:10:36,2024-05-26 15:30:04,Premium,179.37,1419,True
+sdv-id-GTlbxi,Crystal,Brown,popewillie@example.org,527.343.3851x362,"444 Willow Way, San Antonio, TX 78201",1991-02-26 02:11:08,2021-05-06 05:40:51,2024-05-10 14:17:09,VIP,3219.03,3636,False
+sdv-id-SHofOF,Karen,Cunningham,michael62@example.net,(780)972-7048x18654,"666 SW Broadway, Portland, OR 97205",1979-08-25 23:11:38,2018-07-21 15:19:14,2024-05-30 00:41:22,Standard,1213.96,6356,False
+sdv-id-juASHK,Joanna,Clark,jennifer98@example.com,220-994-7025,"121 Market St, San Francisco, CA 94102",1991-01-07 00:57:48,2019-11-07 04:27:24,2024-05-30 11:55:30,Standard,2422.69,4429,True
+sdv-id-MkxTmL,Jeffrey,Kennedy,gonzalezbenjamin@example.net,5292399484,Sample Data,1996-05-24 22:37:47,2019-01-02 02:33:47,2024-05-27 08:11:22,Standard,114.66,1066,True
+sdv-id-CQzatU,Joel,Patterson,danielle82@example.com,699.323.5232x95386,"222 Beacon St, Boston, MA 02116",1989-11-04 21:25:12,2020-06-08 01:16:24,2024-04-10 08:54:20,Standard,242.37,4528,True
+sdv-id-zSpXIe,Christopher,Rios,robertsjanet@example.org,741.782.2713x0837,"999 Riverfront Dr, Jacksonville, FL 32202",1998-12-13 10:36:34,2021-07-26 15:48:09,2024-06-02 05:19:51,Premium,113.81,541,True
+sdv-id-vsseBr,Anne,Brock,charles22@example.com,(469)892-8611,"787 Trade St, Charlotte, NC 28202",1983-02-02 03:01:22,2020-04-28 07:44:20,2024-05-06 09:49:58,Standard,9413.74,8673,True
+sdv-id-WwFEHb,Tanya,Clark,lisaellis@example.org,452.614.1375,"666 SW Broadway, Portland, OR 97205",1992-05-19 08:44:04,2021-08-31 14:09:53,2024-05-10 17:15:38,Standard,670.0,699,True
+sdv-id-fPVdSa,Spencer,Baker,rhondamoss@example.org,+1-604-422-2365x9256,"333 Pennsylvania Ave NW, Washington, DC 20004",1998-10-05 20:31:27,2023-07-13 00:36:32,2024-05-29 06:32:52,VIP,2145.04,692,True
+sdv-id-RkJVCx,Robert,Baldwin,ebrock@example.org,7986368396,"666 Elm St, Dallas, TX 75201",2001-01-02 14:36:56,2021-10-28 00:58:39,2024-06-02 05:51:39,Premium,112.04,266,True
+sdv-id-qRKBKf,David,Arnold,mnicholson@example.com,001-499-919-0715x50932,"456 Oak Ave, Chicago, IL 60601",2001-09-28 06:37:58,2023-01-28 09:43:46,2024-06-02 01:33:18,Standard,111.44,356,False
+sdv-id-vYOvtk,Joseph,Finley,cassandramendoza@example.com,(305)886-5462,"101 Birch Blvd, Houston, TX 77001",2001-08-01 21:18:33,2021-11-04 23:38:48,2024-06-01 22:23:35,VIP,111.35,324,True
+sdv-id-oohGRn,Samantha,Strickland,michael61@example.com,+1-919-304-8974x7694,"777 E Pratt St, Baltimore, MD 21202",1990-12-07 06:13:56,2021-03-04 20:52:51,2024-05-31 05:02:13,Premium,116.01,6157,True
+sdv-id-rToLUN,Nicole,Robinson,vcoleman@example.net,+1-620-437-2696x315,"787 Trade St, Charlotte, NC 28202",1974-02-11 12:58:24,2018-02-23 20:19:21,2024-04-07 19:04:53,Premium,17551.32,10712,False
+sdv-id-YYRIft,Julie,Duncan,nmckee@example.net,873.335.6103x26139,"444 Woodward Ave, Detroit, MI 48226",1983-10-02 11:59:47,2019-05-10 21:58:58,2024-04-23 01:37:15,Standard,15012.41,5180,True
+sdv-id-HTXzyU,Jonathan,Stephenson,turnerjeremiah@example.net,6679135460,"999 Riverfront Dr, Jacksonville, FL 32202",1966-06-14 20:22:02,2018-09-03 08:06:05,2023-12-31 04:11:58,VIP,24155.32,13291,True
+sdv-id-XHLQDx,Zachary,Moore,marcus09@example.com,7073082589,Sample Data,1993-01-27 14:26:25,2021-09-08 03:49:19,2024-05-29 21:28:55,VIP,3113.03,3455,False
+sdv-id-wAmkwH,James,Smith,schneiderchristopher@example.com,6103130682,"666 SW Broadway, Portland, OR 97205",1989-10-26 17:01:41,2018-04-30 01:45:36,2024-05-27 20:03:46,Premium,157.55,396,False
+sdv-id-RvpIsW,Stephanie,Hunt,jamessmith@example.org,+1-962-459-2335x98009,Sample Data,1978-03-23 18:47:07,2018-05-27 01:15:03,2024-03-19 04:09:09,Standard,17392.04,9581,True
+sdv-id-zYaTeh,John,Fleming,monica71@example.net,001-538-529-9353,"212 Cedar Rd, Philadelphia, PA 19101",1975-03-14 12:00:00,2018-06-11 12:17:56,2024-02-07 19:49:14,Standard,7274.79,11907,False
+sdv-id-ysBYZG,Ryan,Woods,ericawilliams@example.org,827-948-5744x31343,"444 Woodward Ave, Detroit, MI 48226",1988-10-13 04:44:00,2019-06-15 19:39:12,2024-05-27 06:52:17,VIP,5307.47,3362,False
+sdv-id-edswjs,Sean,Copeland,andreacrawford@example.org,+1-956-296-9431x8755,"555 Aspen Dr, San Diego, CA 92101",1994-03-19 13:00:18,2021-04-03 13:39:06,2024-04-27 16:25:57,Standard,547.49,507,True
+sdv-id-uiyYTA,Amber,Holmes,denisehopkins@example.net,986-951-3780,"909 Pike Pl, Seattle, WA 98101",1994-09-25 18:37:38,2019-05-06 14:06:53,2024-05-26 23:30:39,Premium,132.6,3541,False
+sdv-id-sPmJIu,Ronald,Rodriguez,jhoward@example.com,979.359.8848x656,"444 Willow Way, San Antonio, TX 78201",1988-02-01 20:30:20,2020-10-07 07:33:45,2024-04-18 04:10:16,Standard,2445.85,2826,True
+sdv-id-ATmUfN,Daniel,Becker,richard03@example.net,283.448.5862x847,"456 Oak Ave, Chicago, IL 60601",1987-11-23 13:05:13,2019-03-02 22:40:15,2024-05-09 15:00:19,Standard,1901.89,1607,True
+sdv-id-jpOsJS,Jenny,Brown,katherine16@example.com,+1-900-606-2969x2571,"333 Pennsylvania Ave NW, Washington, DC 20004",1991-01-30 01:11:34,2021-07-25 06:51:04,2024-05-20 20:50:14,Standard,1291.91,1160,False
+sdv-id-pPekkO,Angela,Valentine,ywoods@example.com,(982)259-4854x02222,"777 E Pratt St, Baltimore, MD 21202",1977-05-30 06:34:09,2019-10-25 16:02:22,2024-02-18 17:45:32,Standard,13694.09,6276,False
+sdv-id-KZGhfB,Michael,Wang,uroman@example.org,+1-329-297-0802x350,"787 Trade St, Charlotte, NC 28202",1997-03-09 19:53:58,2020-09-19 16:38:06,2024-05-20 23:40:02,Premium,123.5,333,True
+sdv-id-ryewKG,Eduardo,Ray,mitchellkenneth@example.net,+1-878-474-6092,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1997-07-09 15:47:06,2019-04-18 16:37:57,2024-05-31 16:14:29,Premium,111.46,897,True
+sdv-id-UtbnGs,Charles,Ray,jbriggs@example.com,(965)958-9986,"777 Redwood Pkwy, San Jose, CA 95101",2001-04-12 20:55:02,2020-09-30 09:52:26,2024-06-01 03:57:59,Premium,111.32,304,False
+sdv-id-NjJooI,Luis,Delacruz,jennifer53@example.net,(739)891-0899x606,Sample Data,1969-07-18 04:41:09,2018-04-04 13:40:43,2024-03-17 09:44:01,Standard,12269.32,22161,False
+sdv-id-pPzdfV,Laura,Mendoza,smithroger@example.org,765-235-4457x92862,"787 Trade St, Charlotte, NC 28202",2002-01-09 18:37:54,2022-06-05 20:43:20,2024-05-29 15:15:57,Premium,111.43,319,False
+sdv-id-bQVzua,Brian,Crawford,brettmiller@example.org,564.286.6903x187,"111 16th St Mall, Denver, CO 80202",1972-06-16 17:38:25,2021-05-29 15:19:15,2024-03-30 00:29:35,Standard,22418.37,17192,True
+sdv-id-CZptRp,Daniel,Ortiz,wgilbert@example.org,567-764-7372x41920,"789 Pine Ln, Los Angeles, CA 90001",1984-05-23 21:42:17,2019-11-18 10:19:47,2024-03-21 21:22:25,Standard,5789.23,2197,True
+sdv-id-fwOytN,Samantha,Chen,lewiscarlos@example.net,427.999.8115x6926,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1992-04-04 01:00:48,2019-08-11 05:15:24,2024-05-18 14:37:11,Standard,863.92,1341,False
+sdv-id-trnKjh,Jeffrey,Medina,michelle75@example.net,+1-901-528-4593x8061,"666 SW Broadway, Portland, OR 97205",1993-11-16 05:05:50,2019-11-06 09:03:26,2024-05-21 01:03:51,Premium,200.72,440,True
+sdv-id-COottd,John,Warner,dominique22@example.net,956.244.1108x171,"333 Pennsylvania Ave NW, Washington, DC 20004",1983-10-06 13:20:18,2020-07-29 03:44:12,2024-02-21 21:42:23,Standard,9793.09,14810,False
+sdv-id-SekhSA,Joshua,Mccormick,lgarcia@example.net,001-494-518-7773x107,"909 Pike Pl, Seattle, WA 98101",1982-07-11 05:53:01,2020-07-01 08:13:13,2024-05-11 05:01:25,Standard,2152.18,7789,True
+sdv-id-CiUfBx,Thomas,Larson,kellyluis@example.org,565-971-4279x18993,"787 Trade St, Charlotte, NC 28202",1984-02-01 18:13:23,2021-03-27 10:51:58,2024-04-11 02:53:51,VIP,547.05,2101,True
+sdv-id-qnAWxO,James,Dunn,andrew77@example.org,988.834.1017x434,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1999-10-23 08:41:58,2019-12-26 14:03:57,2024-06-02 06:28:18,Premium,111.32,3562,True
+sdv-id-GQAzvz,Samantha,Riggs,gutierrezamber@example.org,563-450-1333,"444 Woodward Ave, Detroit, MI 48226",1999-03-04 08:43:05,2022-07-30 06:54:09,2024-06-02 07:46:52,Premium,683.83,4913,False
+sdv-id-zUaXyY,Jacob,Mcintyre,wolferebecca@example.com,001-629-515-6112x0346,"212 Cedar Rd, Philadelphia, PA 19101",1974-06-10 17:12:06,2018-10-16 06:42:37,2024-02-14 01:38:01,VIP,6203.57,4704,True
+sdv-id-aUmyRd,Linda,Reyes,mileslaura@example.org,667-221-1077,"111 16th St Mall, Denver, CO 80202",1985-06-25 10:44:21,2019-07-27 13:42:05,2024-05-14 06:36:38,VIP,7917.07,2828,True
+sdv-id-YNBFwy,John,Lane,kelsey32@example.org,682.434.6591x379,"111 16th St Mall, Denver, CO 80202",1984-08-14 11:42:11,2022-01-22 01:18:14,2024-05-30 13:11:37,Standard,10237.24,2961,True
+sdv-id-zMEzUF,Kelly,Proctor,charlessullivan@example.com,(849)427-2984,"333 Spruce Ct, Phoenix, AZ 85001",1977-01-25 08:45:50,2019-07-26 05:52:37,2024-05-12 12:52:13,Standard,20856.18,4671,True
+sdv-id-TjjpYk,William,Shaw,hcherry@example.com,+1-354-459-5266x8597,Sample Data,1996-11-29 15:47:16,2021-05-21 18:29:38,2024-05-28 06:43:25,Standard,5149.47,1085,False
+sdv-id-kxmHWx,Jamie,Hart,sullivanamber@example.com,840.622.5114x34263,"565 High St, Columbus, OH 43215",1975-10-13 03:52:05,2018-07-02 05:36:36,2023-12-31 17:29:58,Premium,7558.21,10373,True
+sdv-id-HGkgGE,Kara,Collier,edward13@example.net,+1-494-632-9628,"999 Riverfront Dr, Jacksonville, FL 32202",2001-10-26 08:26:35,2023-01-24 12:04:53,2024-06-02 10:54:21,Standard,153.7,225,True
+sdv-id-DBjiPg,Jose,Good,longcynthia@example.com,+1-870-527-4327,"565 High St, Columbus, OH 43215",1976-04-16 11:44:55,2018-05-03 09:15:09,2024-02-26 10:38:32,Standard,9345.98,10106,False
+sdv-id-nKosRd,Michael,Gilbert,jacksonnicholas@example.net,381.368.0863,"456 Oak Ave, Chicago, IL 60601",1988-01-24 00:20:31,2021-08-25 02:32:28,2024-04-09 06:47:10,VIP,3623.25,6788,True
+sdv-id-scXXSt,Nicholas,Griffin,scottwhite@example.net,7168291718,"999 Riverfront Dr, Jacksonville, FL 32202",1991-07-21 20:22:51,2023-04-15 07:08:58,2024-04-08 21:08:27,Standard,1120.75,1492,True
+sdv-id-sxjabL,Joshua,Martin,vincentallen@example.net,663.692.8621x589,"456 Oak Ave, Chicago, IL 60601",1976-09-21 01:55:05,2019-06-11 23:43:23,2024-02-21 18:14:32,Premium,16632.45,19161,True
+sdv-id-SVduyZ,Erik,Jackson,christopherthomas@example.org,480.596.1724x512,"909 Pike Pl, Seattle, WA 98101",1996-05-15 09:06:32,2021-08-05 17:38:37,2024-05-30 13:05:24,Standard,196.63,308,True
+sdv-id-bTBeNP,Kathryn,Wright,james33@example.org,001-970-739-4155x3045,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1983-01-01 20:11:34,2018-07-14 07:07:53,2024-04-15 12:03:28,Standard,2322.07,4724,True
+sdv-id-TYyeOW,Amanda,Benton,fpatterson@example.net,599-554-9219,"777 E Pratt St, Baltimore, MD 21202",1997-11-25 07:29:05,2020-04-18 11:43:12,2024-05-07 23:38:00,VIP,349.59,247,False
+sdv-id-afekGC,Andrew,Harris,johnsonrobert@example.com,8533851953,"121 Market St, San Francisco, CA 94102",1999-10-12 17:36:47,2022-06-05 04:45:46,2024-06-02 10:17:23,Premium,114.44,3114,False
+sdv-id-uQuFam,Susan,Green,valentineadrian@example.com,262-638-7999,"444 Woodward Ave, Detroit, MI 48226",1989-02-20 19:57:02,2019-10-16 12:07:26,2024-05-30 12:30:09,Standard,1269.32,5621,True
+sdv-id-SEYPwg,Jason,Ruiz,cdavis@example.com,+1-847-569-5300x683,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1998-04-05 20:28:17,2021-08-28 19:08:54,2024-06-01 18:46:30,Standard,117.84,799,False
+sdv-id-ZSfSqp,Robert,Rogers,brandonjohnson@example.com,001-671-561-0487x3699,"444 Woodward Ave, Detroit, MI 48226",1980-08-04 20:11:40,2019-05-04 02:56:14,2024-03-18 17:20:18,Premium,16266.48,3874,True
+sdv-id-bYgyaO,Mariah,Gibbs,thompsoncynthia@example.com,435-373-4122,"909 Pike Pl, Seattle, WA 98101",1989-01-05 10:11:00,2018-09-18 07:04:59,2024-05-22 16:53:15,VIP,857.26,1336,False
+sdv-id-zKDlSR,Karen,Wagner,jessicafernandez@example.net,4919141468,"909 Pike Pl, Seattle, WA 98101",1999-04-30 02:40:15,2022-06-10 04:40:17,2024-05-16 00:58:28,Premium,150.6,620,True
+sdv-id-fptCkx,Isaac,Tyler,pughjill@example.net,(882)259-0896,"999 Riverfront Dr, Jacksonville, FL 32202",1993-08-10 05:50:51,2021-06-11 11:05:16,2024-06-02 05:42:26,Premium,298.77,296,False
+sdv-id-irqlUg,Sheri,Moss,melissa64@example.net,+1-520-605-2047x1336,"444 Willow Way, San Antonio, TX 78201",1987-04-25 01:32:12,2019-05-23 10:48:12,2024-05-15 05:23:51,Standard,11947.13,2321,False
+sdv-id-vhuySz,Elizabeth,Hill,jamesburns@example.org,487.575.2068,"787 Trade St, Charlotte, NC 28202",1995-09-30 08:49:10,2021-07-27 13:10:58,2024-05-31 03:03:01,Premium,5501.11,3065,True
+sdv-id-icBUUL,Shelby,Morrison,robinbeasley@example.org,(377)443-2627x231,"333 Pennsylvania Ave NW, Washington, DC 20004",1992-07-18 15:56:10,2021-08-12 05:22:06,2024-05-26 01:59:16,VIP,10406.16,1841,True
+sdv-id-CIHamX,Aaron,Levy,carnold@example.com,758.985.9662x3139,"777 E Pratt St, Baltimore, MD 21202",1993-04-09 15:02:52,2022-02-13 05:20:10,2024-05-31 06:36:26,VIP,1824.97,5610,True
+sdv-id-GFSlYT,Christina,Willis,johncurtis@example.net,653-512-7910,"444 Woodward Ave, Detroit, MI 48226",1975-04-22 22:37:36,2019-01-29 05:04:10,2024-02-16 02:37:54,Standard,1163.62,11047,True
+sdv-id-XoXUez,William,Vazquez,smithnatalie@example.net,001-561-515-8072x96765,"456 Oak Ave, Chicago, IL 60601",1983-01-09 19:37:24,2021-08-20 00:38:26,2024-01-31 14:14:28,Premium,21784.65,3801,False
+sdv-id-JAhQuw,Angela,Barrett,richard72@example.com,(657)470-0560,"787 Trade St, Charlotte, NC 28202",1989-03-12 14:40:12,2020-10-04 01:09:25,2024-05-18 11:38:23,Standard,3094.57,5539,False
+sdv-id-JRRWyo,Tracy,Spears,garyward@example.com,378.395.1259x8424,"999 Riverfront Dr, Jacksonville, FL 32202",1999-06-26 18:43:09,2023-01-24 19:59:01,2024-06-01 16:00:03,Standard,2401.62,500,True
+sdv-id-ZCcrwa,Corey,Mills,foleyshannon@example.org,001-335-484-4086,"343 Monument Cir, Indianapolis, IN 46204",1985-11-23 20:26:30,2020-04-12 16:01:58,2024-05-25 07:36:03,Premium,17212.61,3789,True
+sdv-id-mkXvXa,Nicole,Kerr,matthew05@example.org,914-740-4120x003,"777 E Pratt St, Baltimore, MD 21202",1983-02-13 15:23:43,2018-03-24 12:28:37,2024-05-15 18:43:27,Standard,1018.11,1453,True
+sdv-id-PbbEcI,Jeffrey,Thornton,nayala@example.org,2123745855,"333 Spruce Ct, Phoenix, AZ 85001",1973-07-23 23:18:33,2018-06-09 03:13:36,2023-12-20 02:42:51,Standard,19751.87,8517,True
+sdv-id-KkjpQW,Peter,Davis,cindyjones@example.net,634-515-9228,"333 Pennsylvania Ave NW, Washington, DC 20004",2002-11-27 15:49:16,2023-09-29 05:29:54,2024-06-02 11:11:10,Standard,111.32,273,True
+sdv-id-oTPSbX,Taylor,French,manuel08@example.net,490.802.4116x5664,"444 Woodward Ave, Detroit, MI 48226",1995-11-13 02:04:26,2018-12-18 17:24:28,2024-06-02 05:50:03,Premium,112.18,1076,True
+sdv-id-TAsSyn,Pamela,Mason,amber54@example.org,5167435974,"222 Beacon St, Boston, MA 02116",1966-09-23 17:51:53,2018-04-01 19:17:43,2024-03-19 14:15:53,Premium,23283.62,19414,True
+sdv-id-XZoSBL,Justin,Edwards,elizabeth59@example.com,594.920.1246x01534,"555 Aspen Dr, San Diego, CA 92101",1993-10-23 08:13:49,2021-03-24 18:53:46,2024-05-16 18:38:08,VIP,6743.55,898,False
+sdv-id-Amnmob,Heidi,Manning,wwall@example.org,942.741.8432x1591,"212 Cedar Rd, Philadelphia, PA 19101",1995-10-09 17:36:07,2021-09-07 16:47:31,2024-06-01 20:38:41,Premium,489.82,2056,True
+sdv-id-neapRS,Christina,Miller,melanie31@example.net,348-512-9383x465,"456 Oak Ave, Chicago, IL 60601",1978-12-23 17:47:20,2018-11-29 05:02:19,2024-05-30 17:51:44,Premium,12880.98,19356,False
+sdv-id-wATFsE,Travis,Turner,ryan52@example.net,7156016151,"333 Spruce Ct, Phoenix, AZ 85001",1990-10-13 06:20:04,2021-10-12 23:59:35,2024-05-14 21:42:20,VIP,5227.81,1315,True
+sdv-id-iORxDM,Jennifer,Nguyen,hintonjessica@example.org,001-899-646-0477x40448,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1969-01-22 02:07:12,2018-03-23 14:22:00,2024-02-17 12:37:44,Premium,18066.61,14717,False
+sdv-id-yPUunE,Michelle,Hanna,stacysmith@example.com,+1-467-756-8860x858,"777 Redwood Pkwy, San Jose, CA 95101",1993-09-11 14:17:50,2020-11-22 02:12:06,2024-05-27 13:11:12,Standard,114.55,2337,False
+sdv-id-YqhFQo,Kevin,Johnson,charles48@example.net,646-385-8497,"777 E Pratt St, Baltimore, MD 21202",2000-05-04 12:52:07,2020-10-11 11:55:22,2024-06-01 17:40:55,Premium,111.59,192,True
+sdv-id-CjLtGi,Derek,Phillips,coreymarquez@example.com,001-447-494-7123x0361,"333 Spruce Ct, Phoenix, AZ 85001",1998-12-18 06:57:42,2022-02-09 14:11:46,2024-05-30 09:43:47,Standard,111.36,230,True
+sdv-id-gvQozz,Amber,Lawson,carmstrong@example.net,5947689530,"777 Redwood Pkwy, San Jose, CA 95101",1979-02-15 03:32:54,2019-04-03 11:48:35,2024-05-24 14:53:59,Premium,1795.96,8195,False
+sdv-id-WYiMft,David,Tucker,burnsanita@example.org,+1-598-992-5021x965,"789 Pine Ln, Los Angeles, CA 90001",1970-10-01 07:43:34,2019-09-16 07:45:38,2024-02-20 22:10:46,Standard,21563.23,7360,True
+sdv-id-YenaOv,Yvonne,Rose,ericdawson@example.net,529.571.6421,"212 Cedar Rd, Philadelphia, PA 19101",1984-11-14 10:04:35,2018-12-25 05:05:57,2024-04-26 23:35:05,Standard,5268.66,5972,True
+sdv-id-HyQBgR,Michael,Brown,ahall@example.org,+1-769-371-6016x9877,"787 Trade St, Charlotte, NC 28202",1986-03-02 11:58:32,2019-10-15 18:01:39,2024-05-11 02:11:30,VIP,989.47,10151,False
+sdv-id-hvSFzq,Michelle,Herman,wadkins@example.org,(661)204-8772x561,"121 Market St, San Francisco, CA 94102",1999-12-05 07:09:47,2022-05-18 07:08:20,2024-06-01 11:43:15,Standard,197.8,363,True
+sdv-id-oTxmjv,Joy,Reyes,bakerelizabeth@example.com,+1-547-290-0174x45801,"909 Pike Pl, Seattle, WA 98101",1988-10-08 14:36:30,2018-05-19 04:35:16,2024-05-11 13:46:26,Standard,122.0,1971,True
+sdv-id-BgIwrg,Cassidy,Anderson,iankennedy@example.com,664.338.0950x25595,"789 Pine Ln, Los Angeles, CA 90001",1972-02-11 20:16:11,2018-03-24 12:47:30,2024-04-05 04:20:28,Premium,22642.52,23222,True
+sdv-id-YmBsnA,Meredith,Boyd,bishopjoel@example.net,696-751-4845x8974,"565 High St, Columbus, OH 43215",1991-08-28 17:31:18,2019-08-12 19:17:53,2024-06-01 09:31:31,Premium,154.12,1986,False
+sdv-id-NhTOHl,Victor,Mann,victoria26@example.org,990.768.4861x6173,"555 Aspen Dr, San Diego, CA 92101",1982-08-02 04:23:54,2021-01-03 13:48:43,2024-05-06 07:16:15,Standard,12561.35,6913,True
+sdv-id-GJjtxv,Aaron,Allen,jennifermoore@example.com,(786)652-7852,"565 High St, Columbus, OH 43215",1995-10-04 09:56:42,2018-09-20 07:41:14,2024-05-17 15:29:19,VIP,1278.58,581,False
+sdv-id-ixORGa,Kevin,Mcguire,douglascruz@example.net,(405)483-2757,"789 Pine Ln, Los Angeles, CA 90001",1981-10-14 00:27:30,2018-05-11 09:39:30,2024-04-27 07:09:46,Premium,4522.8,5021,True
+sdv-id-zdVedh,Alexis,Hall,todd97@example.org,682.566.8209x58239,"222 Beacon St, Boston, MA 02116",1997-02-09 17:09:22,2020-08-08 09:55:08,2024-05-25 11:59:55,Standard,474.56,868,True
+sdv-id-lyVYXI,Douglas,Garcia,knightandrew@example.com,(835)439-9307,"666 SW Broadway, Portland, OR 97205",1997-02-20 14:44:45,2021-04-13 08:27:11,2024-05-31 07:04:23,Standard,113.49,631,True
+sdv-id-PJzLOu,Michael,Henry,ericksonjoshua@example.org,+1-444-312-4751,"111 16th St Mall, Denver, CO 80202",1996-02-06 10:31:58,2021-03-02 21:49:51,2024-06-01 10:18:27,Standard,191.15,4174,True
+sdv-id-kLLMzd,Angela,Santiago,xday@example.com,(214)721-5357,"787 Trade St, Charlotte, NC 28202",2002-08-23 15:31:38,2023-11-17 03:23:19,2024-06-02 01:13:51,Standard,118.09,183,True
+sdv-id-PaDEHP,Heather,Jenkins,qdrake@example.org,001-821-290-0175x912,"456 Oak Ave, Chicago, IL 60601",1995-05-16 00:03:04,2020-03-15 07:37:20,2024-06-01 22:42:23,Premium,134.99,1277,False
+sdv-id-lJHpGy,Kenneth,Johnson,brucecross@example.net,290.650.2849x1377,"777 E Pratt St, Baltimore, MD 21202",1980-12-01 12:19:55,2018-10-14 17:31:29,2024-05-11 05:44:44,VIP,13668.97,10617,False
+sdv-id-DxPKVD,Scott,Phillips,andrea21@example.org,001-468-604-0184x173,"343 Monument Cir, Indianapolis, IN 46204",1969-11-17 08:18:32,2018-10-02 06:24:33,2023-11-07 15:06:12,Standard,14547.12,9669,True
+sdv-id-qStRtD,Lauren,Smith,mcmillanstacey@example.com,561.989.7329,"456 Oak Ave, Chicago, IL 60601",1988-02-10 03:05:00,2022-02-20 02:26:34,2024-04-24 06:44:21,Standard,14799.71,1478,False
+sdv-id-KrIiCE,Sarah,Newman,gabriellamcintyre@example.org,6406034470,"343 Monument Cir, Indianapolis, IN 46204",2000-09-04 04:15:35,2022-06-26 05:20:48,2024-06-01 15:50:30,Standard,119.08,293,True
+sdv-id-sJYWoP,Janet,Sullivan,johnbowen@example.com,(831)506-2212,"456 Oak Ave, Chicago, IL 60601",1993-12-01 12:31:50,2019-10-07 08:34:24,2024-05-01 12:13:21,VIP,113.52,3548,False
+sdv-id-vgFUzq,Christopher,Pearson,erinherrera@example.org,443.666.9161,"121 Market St, San Francisco, CA 94102",1991-10-31 08:58:05,2023-05-05 08:19:13,2024-05-22 02:17:59,Premium,15872.75,2903,True
+sdv-id-zSbsPy,Brian,Baird,jacqueline20@example.net,001-503-962-0510x65505,"121 Market St, San Francisco, CA 94102",1967-05-07 11:12:01,2018-07-30 08:45:06,2024-02-12 06:55:23,Premium,23769.88,30000,False
+sdv-id-GJvxuy,Stephanie,Reed,valdezcourtney@example.org,877.335.7997x01498,"212 Cedar Rd, Philadelphia, PA 19101",2000-12-02 22:05:20,2023-05-10 23:26:28,2024-06-01 23:00:58,Premium,111.96,358,True
+sdv-id-zYyaVc,Amanda,May,mweber@example.com,(567)683-7826,"555 Aspen Dr, San Diego, CA 92101",1993-12-18 10:57:15,2019-11-23 20:55:27,2024-05-30 19:20:38,Standard,148.21,1354,False
+sdv-id-PHTbwR,Adam,Kelley,tammie77@example.net,001-821-897-9054x99174,"333 Spruce Ct, Phoenix, AZ 85001",1988-01-23 15:56:44,2020-01-14 08:03:13,2024-05-09 00:21:19,VIP,6812.29,4598,True
+sdv-id-IUQYfm,David,Aguilar,khouston@example.com,217-938-9756,"555 Aspen Dr, San Diego, CA 92101",2001-03-16 07:23:55,2023-09-30 18:57:57,2024-06-02 00:13:56,Standard,119.69,647,True
+sdv-id-AafblL,Bruce,Medina,martinashley@example.org,253.253.9981x9173,"777 E Pratt St, Baltimore, MD 21202",1994-12-18 23:34:20,2021-06-27 01:12:13,2024-05-18 06:27:03,VIP,115.8,573,True
+sdv-id-ZvRAqf,Charles,Navarro,hurstamanda@example.org,001-407-577-5598x881,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1998-10-06 07:36:16,2021-12-30 04:16:01,2024-06-02 10:25:11,Standard,120.97,524,True
+sdv-id-YcLVcd,Veronica,Hernandez,johnnyharvey@example.net,+1-511-217-5631,"101 Birch Blvd, Houston, TX 77001",2002-07-30 02:54:05,2023-05-14 06:27:54,2024-06-02 08:38:57,Standard,111.43,180,True
+sdv-id-dwaSlh,Jonathan,Bryant,smithsheila@example.org,341.872.9484,"555 Aspen Dr, San Diego, CA 92101",1995-09-04 12:41:00,2022-11-08 15:33:45,2024-05-29 06:05:14,Standard,1960.81,3700,True
+sdv-id-vvAXdu,Kyle,Underwood,juliandaniel@example.com,904.686.3897,Sample Data,1985-08-16 18:59:31,2018-04-22 21:11:41,2024-04-23 15:08:51,Standard,710.82,5854,False
+sdv-id-vMtrLV,Emma,Martin,stokesjoan@example.org,+1-912-959-4264x696,"121 Market St, San Francisco, CA 94102",2002-07-09 13:46:12,2023-02-01 00:50:54,2024-06-01 18:28:42,Standard,111.32,194,False
+sdv-id-PiDMOA,Scott,Lopez,jessica16@example.org,460.265.7846,Sample Data,1988-10-15 01:14:38,2021-10-20 20:49:09,2024-05-20 13:04:42,VIP,23092.27,2944,False
+sdv-id-yGhZiQ,Ronnie,Pearson,oliviaarnold@example.net,252.353.4819x72222,Sample Data,2002-06-20 18:17:24,2022-12-15 10:56:03,2024-05-31 17:20:47,Standard,111.83,187,False
+sdv-id-gapvvB,Nicholas,Tapia,mtucker@example.net,+1-232-955-8105x36588,"123 Maple St, New York, NY 10001",1980-10-21 03:20:51,2018-10-25 14:38:44,2024-02-12 18:44:27,Standard,6147.77,7380,True
+sdv-id-mkozpg,Vincent,Jordan,karensingleton@example.org,368-836-8890,"777 Redwood Pkwy, San Jose, CA 95101",1990-01-16 03:28:12,2022-06-20 02:10:27,2024-05-07 04:15:05,Premium,153.87,3174,True
+sdv-id-pfIYYF,Amy,Edwards,qperez@example.org,357-810-2481x0206,"333 Pennsylvania Ave NW, Washington, DC 20004",1980-12-17 13:09:53,2018-09-22 20:31:50,2024-02-07 18:15:24,Standard,12845.72,8544,False
+sdv-id-UgzEBk,Bradley,Jones,villegasmichael@example.net,+1-297-482-1411x6281,"121 Market St, San Francisco, CA 94102",1993-03-07 06:23:17,2022-08-18 18:56:30,2024-06-02 01:43:14,Premium,574.45,711,True
+sdv-id-MMmWoZ,Vickie,Baker,chloehughes@example.org,388.634.7361,"666 Elm St, Dallas, TX 75201",1997-02-10 04:27:13,2020-07-06 12:25:28,2024-05-26 04:07:30,Premium,113.63,714,False
+sdv-id-oJFimR,Melanie,Nguyen,stevensims@example.com,688.598.9794x42994,"222 Beacon St, Boston, MA 02116",1971-11-24 17:35:05,2019-01-27 12:58:45,2024-03-13 06:44:33,Standard,12460.56,14501,True
+sdv-id-DsKYdb,Dennis,Ramos,mmoses@example.org,518.981.5783,"787 Trade St, Charlotte, NC 28202",1974-10-10 14:52:25,2018-08-19 14:04:24,2024-04-13 18:01:58,Standard,2949.95,6098,True
+sdv-id-LPjPfP,Lindsay,Davis,cookjessica@example.net,001-413-748-7664x1763,"999 Riverfront Dr, Jacksonville, FL 32202",1996-08-16 18:06:06,2022-08-01 01:27:45,2024-05-26 04:06:43,Premium,113.19,3259,False
+sdv-id-kJwHOF,Jorge,Torres,crystal50@example.org,627-461-8787x93831,"212 Cedar Rd, Philadelphia, PA 19101",1973-01-26 10:44:10,2019-07-17 13:06:30,2024-02-22 18:06:19,Standard,20218.16,18114,False
+sdv-id-NTowZD,Paul,Vargas,chapmanrichard@example.com,835-759-8665,"909 Pike Pl, Seattle, WA 98101",1997-08-11 06:02:39,2020-07-13 06:24:39,2024-05-25 22:59:48,VIP,942.94,454,True
+sdv-id-CvChie,Mary,Love,sabrinalarson@example.net,759-576-2175,"343 Monument Cir, Indianapolis, IN 46204",1991-02-09 09:47:58,2019-02-17 22:26:48,2024-05-21 22:52:54,VIP,5370.36,1014,True
+sdv-id-qfETzr,Tammy,Clark,sullivanlacey@example.net,3965826854,"555 Aspen Dr, San Diego, CA 92101",2002-01-11 20:12:22,2023-06-04 19:54:49,2024-06-02 07:23:06,VIP,115.09,794,True
+sdv-id-UGzedd,Jennifer,Lucas,sandra63@example.net,(789)494-6999x717,"343 Monument Cir, Indianapolis, IN 46204",1984-04-25 11:43:15,2020-11-14 15:47:02,2024-05-20 14:59:36,Premium,10905.21,7048,False
+sdv-id-koyiEY,Penny,Carlson,alexisrodriguez@example.org,+1-264-945-7621x9590,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1993-01-11 18:05:53,2018-12-31 09:40:05,2024-05-14 09:46:18,Premium,133.17,595,True
+sdv-id-qlGQBO,Ashley,Nguyen,jamesnguyen@example.com,769.524.7372,"909 Pike Pl, Seattle, WA 98101",1983-11-28 05:37:30,2018-03-17 03:48:58,2024-04-27 00:37:38,Premium,902.39,7207,True
+sdv-id-VupREY,Martha,Kane,brownandrew@example.org,612-674-7205,"212 Cedar Rd, Philadelphia, PA 19101",1984-07-30 01:58:54,2020-01-13 01:06:22,2024-05-01 03:07:53,Standard,443.92,1051,True
+sdv-id-gFoqSL,Brandon,Mack,stephentorres@example.net,+1-563-619-1761x5307,"787 Trade St, Charlotte, NC 28202",1978-11-09 14:55:07,2019-11-28 15:37:15,2024-03-03 19:48:46,VIP,19841.43,4123,False
+sdv-id-yxTtXQ,Sean,Gordon,george65@example.com,001-274-579-7521,"456 Oak Ave, Chicago, IL 60601",1996-01-16 14:49:10,2020-11-13 09:30:06,2024-05-26 04:45:03,Premium,666.71,2401,True
+sdv-id-eWCboP,Katherine,Webb,kaiserlauren@example.org,5367408891,"444 Woodward Ave, Detroit, MI 48226",1990-10-05 00:23:13,2019-03-24 07:31:18,2024-04-27 03:29:17,Premium,185.4,1622,True
+sdv-id-NQEmzF,Sandra,Lang,gsmith@example.net,001-902-749-8459x956,"787 Trade St, Charlotte, NC 28202",2001-11-20 14:36:37,2020-01-26 12:15:16,2024-06-02 10:19:58,Premium,111.84,395,False
+sdv-id-KfBvTY,Albert,Martinez,villarebecca@example.net,6079340095,"111 16th St Mall, Denver, CO 80202",1981-12-02 12:02:38,2018-06-24 02:36:32,2024-05-18 10:05:40,Standard,905.4,3051,True
+sdv-id-MsymIp,Melissa,Taylor,brendan98@example.org,001-655-270-9371x4213,"909 Pike Pl, Seattle, WA 98101",1995-10-27 17:37:01,2022-08-21 23:31:41,2024-05-28 21:45:59,Premium,2499.05,1110,False
+sdv-id-bMZsxx,Thomas,Miller,tamara54@example.org,001-399-402-8988x4457,"565 High St, Columbus, OH 43215",1969-09-07 13:36:06,2018-04-07 08:28:24,2024-03-22 17:18:40,VIP,19981.36,15472,False
+sdv-id-Fddqii,Jessica,Montgomery,nicole05@example.net,496-558-7982,"777 Redwood Pkwy, San Jose, CA 95101",1969-08-24 21:25:55,2018-08-13 11:36:18,2023-12-04 00:42:38,Standard,24780.36,20021,True
+sdv-id-wRwMST,Tammy,Wright,hthompson@example.com,(450)554-9605x22425,"333 Pennsylvania Ave NW, Washington, DC 20004",1974-07-14 17:29:55,2018-09-30 07:55:15,2023-12-04 15:46:19,Premium,22964.96,15618,False
+sdv-id-hWLNCM,Eric,Miller,nperry@example.com,+1-572-262-2739x87682,Sample Data,1980-09-24 10:55:03,2020-07-25 11:42:36,2024-05-07 11:22:49,Premium,20324.68,11661,True
+sdv-id-kszkmb,Amber,Anderson,nicholasthompson@example.com,001-730-946-9780x72851,"333 Spruce Ct, Phoenix, AZ 85001",1974-05-07 07:22:47,2018-11-18 20:56:29,2024-03-03 23:55:21,Premium,2018.11,11461,True
+sdv-id-HVecxB,Mary,Washington,gochoa@example.net,(271)427-1119,"555 Aspen Dr, San Diego, CA 92101",1974-09-17 09:11:57,2018-10-15 04:36:02,2024-05-08 08:37:52,Standard,18417.44,12443,False
+sdv-id-VQMkAp,Elizabeth,Becker,josegonzalez@example.org,690.230.1260x8503,"787 Trade St, Charlotte, NC 28202",1998-01-16 09:52:26,2021-08-07 11:05:31,2024-05-25 14:45:14,Standard,124.59,360,True
+sdv-id-zlesTH,Maria,Vargas,margaret25@example.org,+1-227-489-5932x147,"101 Birch Blvd, Houston, TX 77001",1971-09-18 07:56:01,2018-06-01 11:09:18,2024-05-01 05:30:02,Premium,17585.95,17307,False
+sdv-id-bijPZG,Monica,Scott,brian45@example.com,6617853031,"222 Beacon St, Boston, MA 02116",1992-10-31 20:37:01,2021-09-14 13:48:33,2024-05-30 18:04:19,Standard,664.66,980,False
+sdv-id-gmQxwq,Kimberly,Richardson,robert44@example.org,(449)867-2201,"999 Riverfront Dr, Jacksonville, FL 32202",1981-07-02 10:05:20,2018-04-15 18:15:06,2024-04-27 03:34:17,Premium,231.32,5927,True
+sdv-id-iPlpzB,Daniel,Harris,sheenathompson@example.com,001-215-540-0545,"555 Aspen Dr, San Diego, CA 92101",2002-01-14 23:47:52,2023-10-14 12:29:38,2024-06-02 11:10:59,Premium,206.42,596,True
+sdv-id-FzlEBp,Katie,Park,molly92@example.com,944-738-7534,"999 Riverfront Dr, Jacksonville, FL 32202",1995-12-23 23:10:13,2023-06-24 04:24:18,2024-06-01 14:21:26,Standard,375.4,1809,False
+sdv-id-iusVaO,Jenny,Fuller,kristina71@example.net,(417)209-7060,"666 Elm St, Dallas, TX 75201",1998-08-10 18:07:44,2022-03-27 06:39:28,2024-05-30 07:20:18,Standard,121.47,279,True
+sdv-id-TXPNIo,Wanda,Webster,johnwall@example.com,804-377-3211,"777 Redwood Pkwy, San Jose, CA 95101",1990-10-15 20:22:09,2022-02-21 19:03:09,2024-05-28 15:01:52,Premium,3969.04,2069,True
+sdv-id-pobIhl,Kayla,Lawrence,pdaugherty@example.net,273.736.9320,Sample Data,1989-08-25 20:57:26,2019-04-12 06:06:03,2024-05-05 12:56:45,Standard,192.83,6352,True
+sdv-id-qBpllG,Bryan,Lopez,lisa02@example.com,001-652-838-2915x290,"111 16th St Mall, Denver, CO 80202",2001-03-22 15:16:39,2022-03-21 15:09:20,2024-06-02 10:38:02,Standard,111.32,1020,True
+sdv-id-tntKzC,Jennifer,Harris,tina33@example.net,+1-863-318-1725,"999 Riverfront Dr, Jacksonville, FL 32202",1995-09-15 23:34:48,2023-06-16 01:57:42,2024-05-04 22:20:45,Standard,4234.47,2043,False
+sdv-id-pGDOoo,Eric,Kennedy,lynncox@example.org,(642)742-6052,"777 Redwood Pkwy, San Jose, CA 95101",1989-07-17 07:03:12,2021-08-16 04:10:30,2024-05-09 22:41:36,Standard,15555.95,1777,True
+sdv-id-zcVRJu,Brandi,Wells,jameshooper@example.com,001-817-824-5926,"999 Riverfront Dr, Jacksonville, FL 32202",1987-06-15 05:44:00,2020-10-10 09:12:44,2024-05-01 02:11:22,VIP,3648.91,7850,True
+sdv-id-xvhPpV,Jessica,Shaffer,kylemiller@example.net,001-409-880-3202,"787 Trade St, Charlotte, NC 28202",1992-04-18 18:37:22,2019-04-28 13:26:54,2024-05-05 21:47:59,Standard,500.11,359,False
+sdv-id-ZmzosA,Lisa,Johnson,david70@example.com,+1-393-623-4842x48196,"222 Beacon St, Boston, MA 02116",1980-11-10 05:29:49,2018-11-01 07:41:58,2024-05-01 04:36:28,Standard,5983.88,2971,False
+sdv-id-dqSdDp,Jacob,Martin,denise74@example.net,458.482.3746,"333 Pennsylvania Ave NW, Washington, DC 20004",1967-06-24 23:18:16,2019-05-24 00:48:07,2024-03-26 00:30:37,Standard,25432.01,25811,True
+sdv-id-GQECIV,Jonathan,Anderson,wwolfe@example.org,916.443.4980,"343 Monument Cir, Indianapolis, IN 46204",1979-12-28 13:03:55,2019-10-13 06:06:29,2024-01-07 12:05:36,VIP,14011.79,2274,False
+sdv-id-iFLJfu,Jennifer,James,samuel24@example.com,+1-346-361-3717x19162,"565 High St, Columbus, OH 43215",1988-11-14 13:25:30,2019-12-20 00:18:07,2024-05-24 17:21:36,Standard,2970.24,2960,False
+sdv-id-ygIotJ,Benjamin,Carr,lisa07@example.com,(472)797-5520x2886,"789 Pine Ln, Los Angeles, CA 90001",2000-07-20 02:17:57,2021-08-07 11:37:29,2024-05-27 21:36:23,Premium,141.68,1069,True
+sdv-id-nQnYAg,Thomas,Griffin,briggsmark@example.net,872.674.2172x3843,"666 SW Broadway, Portland, OR 97205",1989-03-29 16:12:47,2018-07-11 07:23:21,2024-05-30 00:28:48,Standard,148.82,1723,True
+sdv-id-PhDjlT,Todd,Rangel,johnsluis@example.net,(515)813-3447x25237,"666 SW Broadway, Portland, OR 97205",1993-05-06 18:06:05,2022-03-18 10:12:33,2024-04-26 04:44:36,Standard,15808.39,1328,False
+sdv-id-yUbFeT,Nicholas,Thomas,tiffany37@example.com,5646360921,"222 Beacon St, Boston, MA 02116",1972-05-28 10:01:47,2018-08-14 10:07:43,2024-03-19 00:23:36,Standard,24173.05,11430,True
+sdv-id-fNFXpP,David,Archer,bhernandez@example.org,940-209-6970x9670,"555 Aspen Dr, San Diego, CA 92101",1974-06-27 10:45:15,2018-03-13 08:40:33,2024-01-13 13:42:11,VIP,12435.92,11726,False
+sdv-id-WnjYjK,Brooke,Jimenez,floreskatherine@example.org,001-347-639-6569,"222 Beacon St, Boston, MA 02116",1975-12-25 17:27:53,2020-10-30 09:56:23,2024-03-20 21:41:30,Standard,23760.89,4735,True
+sdv-id-KkjNVj,David,Jones,turnerjo@example.org,965.668.7959,"666 SW Broadway, Portland, OR 97205",1988-05-26 12:31:01,2019-06-09 15:00:14,2024-05-31 13:29:58,Premium,619.7,1409,True
+sdv-id-KPgaqU,Megan,Skinner,icarlson@example.org,001-693-323-2694x54097,"777 E Pratt St, Baltimore, MD 21202",1989-07-08 22:50:19,2019-07-07 03:25:06,2024-05-28 19:27:10,Premium,936.67,5240,True
+sdv-id-fGxxjU,Jason,Mata,lijeremy@example.net,(889)904-5315x31832,"789 Pine Ln, Los Angeles, CA 90001",1980-05-23 22:31:21,2019-04-22 07:02:56,2024-03-03 12:29:56,Standard,4728.32,4798,True
+sdv-id-mmfaIg,Danielle,Taylor,matthew73@example.com,(561)232-7050x8879,"121 Market St, San Francisco, CA 94102",1979-08-28 04:27:45,2019-01-13 22:42:28,2024-05-01 03:23:39,Standard,1206.35,6056,True
+sdv-id-bWPMjg,Johnathan,Hammond,pjohnson@example.org,(962)375-3187x1626,"222 Beacon St, Boston, MA 02116",1975-04-23 02:02:32,2018-12-17 21:30:03,2024-03-19 08:50:20,Premium,14185.19,12412,False
+sdv-id-KwJDaX,Samantha,Kelley,jessica79@example.org,+1-784-939-4818,"666 Elm St, Dallas, TX 75201",1971-02-09 02:34:01,2018-11-07 21:47:40,2023-11-23 03:42:12,Standard,24324.26,12316,True
+sdv-id-EiTdrF,George,Barker,econtreras@example.org,858.543.5707x6336,"666 Elm St, Dallas, TX 75201",1977-12-13 16:31:19,2020-09-29 21:44:44,2024-03-16 09:00:54,VIP,8806.44,14027,True
+sdv-id-DFOcHG,Kathleen,Conner,johnsonjennifer@example.org,(930)444-3755x5790,"909 Pike Pl, Seattle, WA 98101",1982-02-28 13:59:48,2019-02-16 00:13:06,2024-05-23 14:30:51,Standard,3196.96,3976,False
+sdv-id-OIgIVU,Tracy,Jensen,snorman@example.com,+1-955-418-4916,"333 Pennsylvania Ave NW, Washington, DC 20004",1990-08-08 20:01:46,2020-08-02 20:21:04,2024-05-07 02:51:14,Premium,557.24,1404,True
+sdv-id-KEDpHa,Lauren,Contreras,amanda07@example.com,990.797.2074,"101 Birch Blvd, Houston, TX 77001",1972-10-07 22:22:39,2019-11-22 05:36:23,2024-02-12 23:11:38,VIP,25094.31,15045,True
+sdv-id-JdDFMT,Jackie,Carter,erin48@example.org,356.343.3357,"565 High St, Columbus, OH 43215",1987-09-20 13:45:33,2020-01-04 06:38:14,2024-04-28 22:17:58,Premium,8256.09,4677,False
+sdv-id-jMLgwm,Ricardo,Wagner,scott20@example.org,(425)271-4599,"444 Willow Way, San Antonio, TX 78201",1991-11-08 02:53:43,2019-11-21 12:35:30,2024-05-31 20:41:46,Premium,808.05,2218,True
+sdv-id-tdaQke,Vanessa,Riley,monicahoffman@example.com,001-660-383-7195,"787 Trade St, Charlotte, NC 28202",1994-09-30 01:33:14,2023-05-06 17:30:43,2024-05-28 05:56:32,Premium,2752.48,636,True
+sdv-id-oOAHXU,Marcus,Carr,natasha47@example.org,(919)752-6946,"123 Maple St, New York, NY 10001",1978-05-23 17:35:11,2019-10-06 16:45:33,2024-05-29 11:52:24,Standard,11465.96,4145,True
+sdv-id-bfJGMc,Cody,Irwin,matthewvelasquez@example.org,+1-210-665-6878x3086,"787 Trade St, Charlotte, NC 28202",2002-12-29 19:11:49,2024-01-01 01:01:01,2024-06-02 11:11:10,Standard,111.4,372,False
+sdv-id-trtIuH,Michelle,Griffin,shepherdlaura@example.com,+1-772-501-3374x10479,"787 Trade St, Charlotte, NC 28202",2001-02-17 01:32:06,2022-08-12 09:48:55,2024-06-02 11:04:05,Standard,111.32,1905,True
+sdv-id-cpFEGO,Shannon,Thompson,kimberly46@example.com,+1-539-699-9893,"565 High St, Columbus, OH 43215",1978-12-15 15:51:19,2018-04-01 14:47:48,2024-03-09 14:08:29,Standard,1485.95,1538,True
+sdv-id-ZwrNmi,Juan,Jacobs,madelinenewman@example.org,200-909-0206x3446,"333 Pennsylvania Ave NW, Washington, DC 20004",1999-02-09 08:54:48,2020-11-28 02:44:59,2024-06-01 13:01:50,Standard,172.48,2344,True
+sdv-id-oznPwG,Melissa,Hanna,taylorkimberly@example.org,(826)476-6466,"101 Birch Blvd, Houston, TX 77001",1996-03-13 11:49:03,2022-05-24 19:00:26,2024-05-15 23:17:25,VIP,9136.76,627,True
+sdv-id-Lwakcr,Hannah,Chandler,melissastout@example.net,234.760.7433,"666 Elm St, Dallas, TX 75201",1992-05-02 05:46:33,2020-09-28 23:58:02,2024-05-20 07:21:10,Premium,1745.55,2413,True
+sdv-id-zUfHWZ,Justin,Gonzalez,amanda51@example.org,(734)606-5949x45637,"789 Pine Ln, Los Angeles, CA 90001",1969-08-18 10:21:04,2018-03-07 02:31:03,2024-02-22 06:38:25,Standard,17461.01,10966,True
+sdv-id-YBwZcG,Terri,White,dana18@example.org,234.625.3907x89115,"777 E Pratt St, Baltimore, MD 21202",1990-02-19 22:35:16,2020-07-25 19:08:27,2024-05-18 20:42:28,VIP,3387.51,2869,False
+sdv-id-VtAZPk,Janet,Allen,khensley@example.com,(932)367-8347x48217,"111 16th St Mall, Denver, CO 80202",2003-02-12 02:21:02,2023-11-28 22:02:47,2024-06-02 11:11:10,Standard,111.32,181,False
+sdv-id-wqgooV,Christopher,Diaz,perrytheodore@example.com,(952)333-1278,"456 Oak Ave, Chicago, IL 60601",1980-02-17 17:46:04,2019-11-25 01:36:53,2024-04-01 19:41:38,Standard,397.53,8000,True
+sdv-id-ePDiAu,Valerie,Kaiser,umaddox@example.com,8504283148,"565 High St, Columbus, OH 43215",1990-09-22 13:52:57,2022-03-29 08:16:48,2024-05-31 04:16:02,Standard,6419.51,1489,False
+sdv-id-xTQsug,Lisa,Daniels,kristin09@example.net,+1-319-826-7565x557,"777 E Pratt St, Baltimore, MD 21202",1967-05-27 19:37:07,2018-02-15 23:52:50,2023-12-19 00:15:49,Standard,22897.28,17824,True
+sdv-id-IZsebD,Raymond,Fox,mortiz@example.org,001-945-451-7427x458,Sample Data,1999-02-20 12:35:33,2021-01-27 13:08:51,2024-05-30 15:03:26,Premium,180.53,580,False
+sdv-id-bXFhFb,Nicole,Rivera,vsandoval@example.org,(606)828-9930x59283,"565 High St, Columbus, OH 43215",1999-06-20 20:36:18,2022-10-30 07:07:30,2024-05-10 23:28:40,VIP,656.69,302,False
+sdv-id-QsVIXe,Ronald,Rodriguez,catherinecollins@example.com,353-870-0588x51953,"789 Pine Ln, Los Angeles, CA 90001",1998-07-14 20:38:24,2022-11-18 01:00:45,2024-06-02 01:02:30,Premium,867.38,1285,True
+sdv-id-rVQvEh,Antonio,Smith,mayerlisa@example.net,339-711-6780x609,"111 16th St Mall, Denver, CO 80202",1986-01-02 00:57:40,2021-09-28 21:11:13,2024-04-15 02:28:24,Standard,8519.04,8411,True
+sdv-id-aUTMAO,Mark,Perry,romerorachael@example.net,001-837-796-2116x775,"121 Market St, San Francisco, CA 94102",1996-09-19 03:03:22,2020-03-17 01:03:41,2024-05-29 16:45:24,Standard,111.5,774,True
+sdv-id-UQgtjo,Jennifer,Coleman,fschneider@example.net,+1-839-664-7415,"343 Monument Cir, Indianapolis, IN 46204",1976-10-15 14:01:24,2019-11-25 17:02:06,2024-04-02 06:25:11,Premium,22395.69,5872,True
+sdv-id-uxpHpw,Sandy,Lewis,glassmichele@example.net,(522)912-7989,Sample Data,2002-07-20 11:43:48,2023-04-04 14:47:43,2024-06-02 03:15:31,Standard,111.39,391,True
+sdv-id-DGIlIG,Melissa,Sanchez,geaton@example.net,558.839.7827x437,"121 Market St, San Francisco, CA 94102",1997-12-11 13:08:51,2019-12-20 18:10:52,2024-06-01 08:18:09,Standard,241.0,1121,True
+sdv-id-OWoKzG,Kenneth,Morton,hurleyrandall@example.com,+1-347-709-5015x27233,Sample Data,1989-08-04 14:35:31,2020-08-31 15:27:10,2024-05-13 16:47:53,VIP,150.17,1376,True
+sdv-id-qWpjgO,Taylor,Thomas,nicholasbeasley@example.com,+1-539-442-5674x77109,"444 Willow Way, San Antonio, TX 78201",1972-01-24 04:04:50,2020-06-07 05:00:07,2024-04-13 10:08:49,VIP,14831.58,17076,True
+sdv-id-yUnuHb,Robert,Tate,markskinner@example.org,+1-569-686-6973,"777 Redwood Pkwy, San Jose, CA 95101",1984-01-11 19:39:58,2019-04-20 09:36:02,2024-02-12 07:23:45,Standard,284.58,2740,True
+sdv-id-EMpfiC,Michelle,Walker,travis62@example.org,613.523.0944x027,"999 Riverfront Dr, Jacksonville, FL 32202",2001-09-28 19:05:26,2023-09-02 06:31:29,2024-06-02 03:02:33,Premium,1500.59,1434,False
+sdv-id-KgZAsL,Lori,Buchanan,jhenderson@example.com,+1-377-509-6862,"111 16th St Mall, Denver, CO 80202",1976-12-08 16:54:07,2020-03-27 03:52:01,2024-01-22 21:15:55,Standard,11604.13,5663,True
+sdv-id-lwZuDI,Bruce,Sanford,deanna59@example.com,438-870-1449x27372,"212 Cedar Rd, Philadelphia, PA 19101",1984-05-28 05:38:02,2023-02-03 09:03:35,2024-04-01 16:40:41,VIP,7424.31,2978,True
+sdv-id-aAofVM,Ashley,Douglas,valeriehowe@example.net,718.680.1968,"787 Trade St, Charlotte, NC 28202",1990-04-01 23:28:33,2020-12-02 14:31:48,2024-04-23 02:44:59,Premium,3019.68,963,False
+sdv-id-wRAvTP,Mary,Cook,briddle@example.org,001-291-358-0759,Sample Data,1984-04-16 23:04:27,2018-04-20 06:20:06,2024-05-19 00:08:46,Premium,2958.83,4602,True
+sdv-id-BeuxJH,Michael,Hunter,amurray@example.com,+1-335-203-8898,"555 Aspen Dr, San Diego, CA 92101",1998-04-23 15:08:35,2022-03-28 03:45:52,2024-06-02 06:03:16,Standard,297.9,1675,True
+sdv-id-cIGyFb,Thomas,Moore,gregory76@example.org,+1-355-646-6377x00003,"666 Elm St, Dallas, TX 75201",1998-03-01 05:41:58,2023-02-05 23:40:25,2024-05-16 01:44:39,Standard,124.09,307,False
+sdv-id-udZfsY,Kenneth,Williams,jeremy23@example.com,+1-986-607-6962x212,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1981-12-16 01:34:32,2019-05-17 21:10:29,2024-04-09 16:02:00,VIP,1068.72,3986,False
+sdv-id-rDpIDa,Debra,Sanchez,yhill@example.org,4707107258,"666 Elm St, Dallas, TX 75201",1979-07-25 11:42:12,2020-01-27 22:37:56,2024-04-17 12:01:48,Standard,13886.76,6846,False
+sdv-id-hqIKfK,Daniel,Johns,jonathanortiz@example.com,001-320-732-7698x131,"212 Cedar Rd, Philadelphia, PA 19101",2001-10-21 13:48:43,2022-10-13 13:41:47,2024-06-02 07:40:19,Standard,111.38,337,True
+sdv-id-PgWVjq,Bonnie,Hart,jordananthony@example.com,683-847-1801x54236,"222 Beacon St, Boston, MA 02116",1987-01-15 18:49:58,2019-04-14 20:17:33,2024-05-03 13:21:17,VIP,460.47,849,False
+sdv-id-renIar,Ellen,Walker,moraleseric@example.net,862.939.4057x02344,"101 Birch Blvd, Houston, TX 77001",1999-04-04 20:28:26,2020-09-14 02:10:49,2024-05-31 01:15:10,VIP,673.63,388,True
+sdv-id-QlvyOK,Patricia,Burgess,kevinhenry@example.org,790.258.5816x468,"444 Woodward Ave, Detroit, MI 48226",1979-01-09 16:15:15,2021-02-02 09:51:14,2024-03-14 07:03:13,VIP,9989.83,6090,False
+sdv-id-ZLaPfu,George,Wilson,marshallrobert@example.net,(497)467-3425x7047,"789 Pine Ln, Los Angeles, CA 90001",1970-01-19 03:23:43,2019-08-17 21:54:36,2023-12-29 22:50:26,Standard,25225.01,27537,True
+sdv-id-qFJNuq,Elizabeth,Rivera,patrick45@example.com,919-762-4966x431,"909 Pike Pl, Seattle, WA 98101",1981-09-30 02:29:09,2018-07-19 18:30:48,2024-04-05 04:38:40,Premium,18083.38,5945,True
+sdv-id-RPuzFH,Kristina,Ramos,jenniferthompson@example.org,558-935-5949x63526,"333 Spruce Ct, Phoenix, AZ 85001",2000-10-15 01:24:01,2022-08-08 09:25:11,2024-06-02 02:51:36,Premium,127.42,588,True
+sdv-id-ZYdsbB,Stephanie,Nash,kathryn62@example.com,(468)527-0276x25325,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1991-09-12 09:37:26,2019-11-26 20:39:17,2024-05-19 17:11:00,Standard,246.59,328,True
+sdv-id-lGIkpB,Raymond,Garcia,andersonjeremiah@example.org,8133132887,"333 Pennsylvania Ave NW, Washington, DC 20004",1977-06-15 18:58:28,2018-10-24 06:43:58,2024-04-16 19:26:35,VIP,2298.72,9921,True
+sdv-id-hSSrWN,Steven,Hall,grayjonathan@example.com,812-695-2946,"333 Pennsylvania Ave NW, Washington, DC 20004",1985-12-14 23:20:44,2018-11-17 01:12:38,2024-05-23 06:14:46,Premium,202.12,5377,True
+sdv-id-DrpBBF,Julie,Phillips,zthompson@example.net,+1-412-840-8173,"565 High St, Columbus, OH 43215",1984-06-30 15:42:40,2019-11-04 06:32:33,2024-04-28 01:19:24,Standard,966.39,10062,True
+sdv-id-nrmUxp,Judy,Green,hgaines@example.com,+1-427-633-1072,"999 Riverfront Dr, Jacksonville, FL 32202",2002-03-27 12:10:11,2023-04-13 19:57:57,2024-06-02 04:04:55,Standard,111.5,371,True
+sdv-id-DsHKZF,Jocelyn,Morgan,frank89@example.org,847-790-2181x4882,"121 Market St, San Francisco, CA 94102",1974-11-18 00:36:46,2018-07-23 10:58:04,2024-03-26 02:20:10,Premium,3923.91,1264,True
+sdv-id-WCxlfl,Robert,Kelly,anna47@example.com,322.838.9378x59303,"212 Cedar Rd, Philadelphia, PA 19101",1989-05-05 14:57:50,2021-11-14 10:11:23,2024-05-24 15:06:24,Standard,1925.61,2607,True
+sdv-id-zTKlxt,Christopher,Harris,jenkinsmichael@example.net,(807)530-0668x73297,"212 Cedar Rd, Philadelphia, PA 19101",1982-10-30 00:11:27,2018-09-23 05:16:12,2024-04-15 05:37:23,Standard,1854.52,10393,False
+sdv-id-IgLSKV,Jenny,Barnes,kendra81@example.org,(485)909-9393x84504,"999 Riverfront Dr, Jacksonville, FL 32202",2002-02-14 13:10:31,2022-02-21 23:02:17,2024-06-01 23:21:55,Standard,111.93,197,False
+sdv-id-uLRjjm,Anthony,Blanchard,jake49@example.org,7168178034,"121 Market St, San Francisco, CA 94102",1981-09-27 20:27:35,2020-04-11 13:10:53,2024-03-28 15:15:09,Standard,7004.66,3623,False
+sdv-id-PrAlHy,Paul,Hicks,burnskendra@example.com,394.711.2621,"909 Pike Pl, Seattle, WA 98101",1988-07-28 19:42:19,2020-06-22 01:26:16,2024-05-10 00:11:34,VIP,360.48,347,False
+sdv-id-WiffkA,Dennis,Ellison,tabitha49@example.net,001-401-636-9925x99815,"666 SW Broadway, Portland, OR 97205",1986-03-01 02:12:33,2020-04-27 08:11:30,2024-04-05 19:25:31,Standard,10808.86,2585,False
+sdv-id-GSXXtf,Ashley,Brown,alexanderjason@example.net,+1-347-793-0040x09880,"565 High St, Columbus, OH 43215",1992-10-27 05:53:39,2021-08-17 03:22:42,2024-04-29 09:33:48,VIP,3883.77,572,True
+sdv-id-edYVFl,Marc,Yang,tiffany83@example.net,(547)860-2326x44959,"999 Riverfront Dr, Jacksonville, FL 32202",1977-02-24 19:36:59,2020-04-25 03:54:15,2024-04-07 07:23:27,VIP,14512.59,6272,False
+sdv-id-EhKtSi,Kevin,Snyder,klinewyatt@example.com,(385)759-1072,"909 Pike Pl, Seattle, WA 98101",1984-11-21 08:16:49,2019-04-05 20:14:23,2024-05-17 15:33:58,Standard,1302.15,1371,False
+sdv-id-qxFzjV,Paul,Rivera,josephburns@example.org,(614)340-0198x1555,"787 Trade St, Charlotte, NC 28202",1987-08-14 12:59:04,2018-12-04 14:45:53,2024-05-13 14:13:50,Standard,922.71,1473,True
+sdv-id-iLsbuC,Melissa,Wheeler,ijackson@example.com,481.880.5135x31259,"121 Market St, San Francisco, CA 94102",1984-09-18 12:21:51,2019-08-29 06:44:11,2024-04-04 10:40:26,Standard,3967.39,7140,True
+sdv-id-vElRJJ,Lisa,Martin,frogers@example.com,2154712093,"777 Redwood Pkwy, San Jose, CA 95101",1997-06-16 15:26:52,2022-12-01 21:59:22,2024-05-25 16:23:47,Premium,116.18,719,True
+sdv-id-nfJxaF,Melissa,Taylor,wmullins@example.net,+1-409-900-7450x32728,Sample Data,1991-08-31 00:14:36,2022-09-11 21:41:50,2024-05-09 23:51:17,Standard,9032.3,4348,False
+sdv-id-GOSGec,April,Hodges,harrisjohn@example.net,561-519-6228x6171,"555 Aspen Dr, San Diego, CA 92101",2001-09-08 04:08:03,2023-06-23 02:22:49,2024-06-02 10:30:32,Premium,111.46,614,True
+sdv-id-cikIgj,Amanda,Trujillo,diazbenjamin@example.net,001-777-590-3175x25378,"787 Trade St, Charlotte, NC 28202",2002-08-24 06:20:40,2023-12-14 17:40:36,2024-06-01 23:54:20,Standard,111.51,181,False
+sdv-id-MWaGba,Melanie,Peck,timothy25@example.net,+1-709-481-2398,"909 Pike Pl, Seattle, WA 98101",2002-08-31 21:17:15,2023-09-14 19:10:31,2024-06-02 10:21:40,Standard,111.32,181,False
+sdv-id-SPIwUN,Joshua,Dean,ppatterson@example.org,888-540-8497,"444 Woodward Ave, Detroit, MI 48226",1992-02-09 05:24:58,2021-05-16 18:46:01,2024-05-30 21:43:40,Standard,163.49,1215,True
+sdv-id-OclZtI,Donald,Anderson,jennifer27@example.com,(796)981-3660x59357,"333 Pennsylvania Ave NW, Washington, DC 20004",1989-01-08 00:30:28,2022-04-08 04:57:56,2024-04-18 14:58:03,Standard,816.99,2654,False
+sdv-id-rmjQsJ,Victoria,Hancock,jlopez@example.com,001-261-660-8964x3461,"666 SW Broadway, Portland, OR 97205",1997-01-05 11:14:04,2021-03-24 18:04:34,2024-05-27 20:05:54,VIP,139.65,431,True
+sdv-id-FKOxyA,Gary,Stevenson,petermurphy@example.com,992-683-6653x3800,"444 Willow Way, San Antonio, TX 78201",1976-10-06 16:06:20,2020-12-02 18:15:36,2024-03-29 20:20:06,Standard,18158.55,6945,False
+sdv-id-SQxdKj,Peter,Aguilar,evaughn@example.com,(221)949-3481x7640,"777 Redwood Pkwy, San Jose, CA 95101",1994-04-20 11:14:47,2023-04-23 11:14:24,2024-05-28 06:42:49,Standard,6814.91,1046,False
+sdv-id-kvkdOr,Meghan,Taylor,beasleymichelle@example.org,(746)369-5932x37147,"999 Riverfront Dr, Jacksonville, FL 32202",2001-11-23 11:22:18,2023-06-07 17:25:20,2024-06-01 22:09:14,Premium,111.32,193,False
+sdv-id-IPepKh,Katherine,Simpson,aharris@example.net,888.984.0638x0901,"111 16th St Mall, Denver, CO 80202",1977-02-09 06:24:12,2019-02-10 14:43:06,2024-04-28 07:12:24,Standard,9087.69,14750,True
+sdv-id-CzfGec,Nicholas,Larson,conwayshawn@example.net,+1-630-255-4349x3670,"666 Elm St, Dallas, TX 75201",1998-11-18 08:09:01,2020-12-19 21:36:44,2024-06-02 03:19:33,VIP,123.92,460,True
+sdv-id-YRFdZN,Alexandra,Vincent,sarah68@example.net,538-554-2538x1416,"444 Woodward Ave, Detroit, MI 48226",1970-07-03 23:07:21,2018-08-07 23:25:05,2023-11-12 04:54:58,VIP,24646.88,7403,True
+sdv-id-wWLaUP,Christina,Lopez,smithdanny@example.org,001-568-392-5695x5982,"212 Cedar Rd, Philadelphia, PA 19101",1976-03-08 06:51:47,2018-09-25 08:19:02,2024-04-10 16:20:34,Standard,13971.52,14788,False
+sdv-id-FZqgeO,Kimberly,Montes,parkashley@example.org,(748)500-9597,"909 Pike Pl, Seattle, WA 98101",1969-09-15 02:36:57,2018-08-14 05:47:04,2023-12-27 20:08:39,Premium,22063.78,15318,False
+sdv-id-xqHfki,Amanda,Garcia,alexandracarpenter@example.net,6595356504,"111 16th St Mall, Denver, CO 80202",2003-01-26 09:04:13,2024-01-01 01:01:01,2024-06-02 11:08:15,Premium,111.32,192,False
+sdv-id-yUtSRQ,Kristen,Daugherty,michaelramos@example.com,(415)980-6878x19016,"101 Birch Blvd, Houston, TX 77001",1980-12-31 21:32:29,2020-09-27 06:07:49,2024-01-09 14:26:10,Standard,15429.33,8984,True
+sdv-id-ypYTml,David,Greer,simmonsjohn@example.net,457-428-3895,"777 E Pratt St, Baltimore, MD 21202",2000-08-02 08:09:29,2022-05-03 22:48:15,2024-06-02 08:22:22,Standard,115.62,277,True
+sdv-id-YjhteK,Jack,Mcdaniel,meredithhowe@example.com,(434)481-5048x26883,"787 Trade St, Charlotte, NC 28202",1991-04-19 22:58:28,2019-03-26 23:33:03,2024-05-01 22:38:08,Premium,151.54,2861,False
+sdv-id-ujrjIL,Erika,Wright,xbrady@example.com,+1-439-845-6663x18879,"909 Pike Pl, Seattle, WA 98101",2001-04-19 14:37:53,2021-11-26 16:20:08,2024-06-02 10:17:16,Premium,111.33,802,True
+sdv-id-qboUNz,Brittany,Bass,sweeneydale@example.net,438.987.4661x4576,Sample Data,1999-01-27 05:32:36,2021-01-03 04:12:35,2024-06-02 03:50:55,Premium,111.48,575,True
+sdv-id-dnTcIv,James,Schwartz,clayton10@example.org,+1-878-413-4107x00036,"777 E Pratt St, Baltimore, MD 21202",1990-06-09 03:27:57,2019-11-02 18:39:45,2024-05-29 02:19:00,VIP,8154.41,2529,False
+sdv-id-XbdYNs,Matthew,Campbell,annasullivan@example.net,822.551.7927x250,"101 Birch Blvd, Houston, TX 77001",1969-02-03 21:14:46,2018-05-12 00:26:08,2023-10-31 05:45:00,Standard,20910.59,27688,True
+sdv-id-ggePjH,Deanna,Walker,stephanie68@example.org,278-934-9097x42110,"777 Redwood Pkwy, San Jose, CA 95101",1985-12-09 14:52:52,2021-06-03 22:00:08,2024-04-23 16:33:44,Premium,11257.15,5264,True
+sdv-id-dAsKWl,Adrian,Campbell,churchrichard@example.net,001-857-942-8923x880,"999 Riverfront Dr, Jacksonville, FL 32202",1989-09-09 10:47:47,2020-02-10 01:57:41,2024-04-30 01:45:16,Standard,610.18,2263,True
+sdv-id-IFjmiN,Joshua,Suarez,paul67@example.net,(982)300-5594x0453,"909 Pike Pl, Seattle, WA 98101",1997-08-22 10:29:57,2021-09-12 14:17:29,2024-05-30 00:57:17,Premium,140.61,1593,True
+sdv-id-NIrrcg,Jessica,Hill,adamsanchez@example.net,439-605-0756x725,"101 Birch Blvd, Houston, TX 77001",1977-06-27 02:22:35,2018-11-20 09:24:11,2024-03-20 18:26:02,Premium,13712.98,15176,True
+sdv-id-dfYMhE,Luis,Anthony,alyssa03@example.net,951.600.9197,"444 Woodward Ave, Detroit, MI 48226",1978-04-07 06:55:28,2021-06-16 09:01:35,2024-05-16 01:04:38,Premium,5252.67,13868,True
+sdv-id-XoAJKv,Robert,Owens,lindavid@example.com,775.914.6236x5582,"343 Monument Cir, Indianapolis, IN 46204",1999-05-07 09:50:18,2023-01-01 17:41:31,2024-05-30 17:26:21,Premium,133.26,2184,True
+sdv-id-rNUNzu,Jacob,Shelton,gonzalezkathryn@example.org,745-963-0395,"444 Woodward Ave, Detroit, MI 48226",1991-08-04 17:32:49,2019-11-07 21:25:26,2024-05-31 14:41:10,Premium,366.54,3459,True
+sdv-id-nGqAUe,Robert,Rivera,codywhite@example.net,(910)882-5398x22159,"101 Birch Blvd, Houston, TX 77001",1992-02-25 09:12:48,2020-12-09 11:18:11,2024-04-13 07:34:37,VIP,3359.67,396,False
+sdv-id-sKQsid,Alexander,Hanson,danielle91@example.net,935-739-8025,"999 Riverfront Dr, Jacksonville, FL 32202",2000-12-28 09:59:46,2021-05-22 03:12:34,2024-06-01 15:13:31,VIP,115.72,233,False
+sdv-id-IYMIxI,Alicia,Thomas,christopherguerra@example.com,5823079618,"777 E Pratt St, Baltimore, MD 21202",1978-07-11 23:59:38,2020-01-31 08:24:00,2024-04-25 14:06:31,Standard,5351.86,4554,False
+sdv-id-DubrDP,Ashley,Haney,antonio80@example.org,635.506.9220,"789 Pine Ln, Los Angeles, CA 90001",1974-07-30 10:57:20,2019-06-27 01:41:45,2024-03-21 10:30:43,VIP,4172.17,5890,True
+sdv-id-nurmsc,Michael,Smith,wallacephillip@example.net,(760)739-2457x847,"444 Willow Way, San Antonio, TX 78201",1971-03-06 23:50:43,2020-06-17 01:28:30,2024-01-25 12:45:45,Standard,23388.08,12557,True
+sdv-id-xrivll,Richard,Williams,phillipwinters@example.net,001-485-446-8370x5692,"565 High St, Columbus, OH 43215",2002-04-10 10:07:59,2023-06-06 22:13:29,2024-06-02 11:08:51,Premium,111.32,252,False
+sdv-id-spadiB,Amanda,Alexander,qevans@example.com,236-231-8363x78739,"333 Pennsylvania Ave NW, Washington, DC 20004",1979-06-29 22:34:50,2019-04-14 23:08:44,2024-05-15 03:43:10,Premium,3410.29,6104,True
+sdv-id-NgoPgi,Amanda,Branch,elane@example.org,(715)412-2530x068,"343 Monument Cir, Indianapolis, IN 46204",1980-07-09 06:24:01,2019-04-09 13:50:19,2024-05-24 20:15:25,Standard,2413.37,9103,True
+sdv-id-NjIkUZ,John,Anderson,richardsontimothy@example.net,001-985-247-6184x862,"333 Pennsylvania Ave NW, Washington, DC 20004",1977-10-11 18:28:16,2018-08-15 09:45:24,2024-05-20 04:54:43,Premium,1247.1,4581,True
+sdv-id-nYDPuC,Paul,Wang,arthur73@example.org,4235937404,"666 SW Broadway, Portland, OR 97205",1997-12-19 22:59:47,2021-07-20 21:01:35,2024-06-02 10:22:27,Premium,113.39,639,False
+sdv-id-cJFDRy,Michelle,Smith,james68@example.org,(841)367-1955x535,"444 Willow Way, San Antonio, TX 78201",2001-09-03 10:08:34,2021-12-31 00:25:57,2024-06-02 06:11:56,Standard,112.38,317,True
+sdv-id-sZElet,Justin,Phillips,lisa81@example.com,001-566-782-4574x5000,"777 Redwood Pkwy, San Jose, CA 95101",1993-08-05 14:43:43,2021-10-19 05:56:34,2024-05-28 14:29:33,Premium,993.39,3639,False
+sdv-id-ScqjeM,Christina,Kramer,maryhardy@example.org,434-359-1110,"123 Maple St, New York, NY 10001",1976-07-07 20:51:17,2018-10-25 19:22:47,2024-05-26 07:31:37,Standard,15700.57,15950,True
+sdv-id-wzMNxm,Jennifer,Collins,virginiarogers@example.com,722.428.5848x16715,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1993-11-18 14:28:00,2020-09-26 04:01:51,2024-05-28 05:20:34,Standard,158.59,1373,False
+sdv-id-gscXbh,Kimberly,Cooper,michelle86@example.org,(972)432-6671x9791,"555 Aspen Dr, San Diego, CA 92101",1966-07-26 09:34:47,2018-06-03 22:44:36,2024-02-26 15:13:31,Standard,19322.76,20831,True
+sdv-id-OIEVOu,Theresa,Roberts,zmata@example.net,001-901-692-6043,"444 Woodward Ave, Detroit, MI 48226",1996-03-08 01:38:26,2020-01-27 02:16:30,2024-06-01 00:14:26,Premium,114.56,531,True
+sdv-id-eOJkWT,Nicole,Martinez,jerryjohnson@example.com,(582)512-4097,"999 Riverfront Dr, Jacksonville, FL 32202",1967-12-11 05:26:19,2018-06-29 15:35:30,2024-01-02 21:52:41,Premium,24878.05,30000,False
+sdv-id-nHAUcU,Patrick,Johnson,qneal@example.org,(799)680-6379x0186,"999 Riverfront Dr, Jacksonville, FL 32202",1998-09-06 03:15:11,2022-04-13 01:52:54,2024-05-23 00:57:35,Standard,161.23,474,False
+sdv-id-rssunb,Joel,Bray,welliott@example.org,5496296085,"222 Beacon St, Boston, MA 02116",1967-02-24 17:09:07,2018-07-20 21:06:18,2023-12-05 14:44:56,VIP,25077.4,23864,False
+sdv-id-EqCWCd,Justin,Thomas,veronicalee@example.com,738.596.8327,"565 High St, Columbus, OH 43215",1989-09-29 19:33:18,2019-12-30 10:46:51,2024-05-21 06:49:34,VIP,3100.03,3609,True
+sdv-id-UiEIBC,Kayla,Mitchell,meltonroger@example.org,9792044257,"333 Spruce Ct, Phoenix, AZ 85001",1993-07-18 14:52:52,2023-04-10 03:55:02,2024-06-02 03:35:50,Standard,1386.52,3030,True
+sdv-id-GNXMfe,Kimberly,Murray,edwarddickerson@example.net,3613787696,"212 Cedar Rd, Philadelphia, PA 19101",1970-06-02 09:56:26,2018-10-16 03:57:31,2024-01-02 10:26:09,VIP,22527.31,6945,True
+sdv-id-kgTeFb,Keith,Smith,wprice@example.com,(320)514-5619x162,Sample Data,1995-08-12 00:37:30,2020-12-03 20:03:01,2024-05-29 18:22:18,VIP,626.88,1732,True
+sdv-id-HSkeoM,James,Cox,hjacobs@example.net,001-597-801-8085x31159,"101 Birch Blvd, Houston, TX 77001",1975-06-27 12:55:29,2021-09-30 13:17:55,2024-05-09 09:56:02,VIP,21113.39,12722,True
+sdv-id-eDbDlU,David,Mccarty,hillamanda@example.com,(800)473-3264,"777 E Pratt St, Baltimore, MD 21202",1971-10-07 06:56:22,2018-07-11 20:49:08,2024-03-31 23:39:25,VIP,18942.07,17076,False
+sdv-id-kfsKVy,Clayton,Hawkins,tmarsh@example.org,+1-406-217-9440x24022,"787 Trade St, Charlotte, NC 28202",1998-07-15 11:24:12,2020-08-08 07:37:33,2024-05-11 06:52:32,VIP,788.25,575,True
+sdv-id-hcZGtj,Melissa,Peterson,matthewsjoe@example.org,001-528-927-8115x6914,"333 Pennsylvania Ave NW, Washington, DC 20004",1996-06-22 01:42:32,2021-03-05 22:09:43,2024-06-01 23:36:31,Premium,733.29,1507,True
+sdv-id-HHLqgh,Carmen,Nguyen,xroberts@example.org,773-807-9310,"777 E Pratt St, Baltimore, MD 21202",1991-01-08 13:23:42,2018-11-28 04:01:03,2024-05-28 22:44:53,Premium,8256.09,4275,True
+sdv-id-GbCDOG,Shannon,Carey,prestonmyers@example.net,330.334.2864,"111 16th St Mall, Denver, CO 80202",1980-11-30 22:15:37,2019-08-01 11:43:23,2024-03-28 09:17:37,VIP,5042.0,7208,False
+sdv-id-kzAzcy,Andrea,Chan,mario97@example.com,+1-834-696-5989,"333 Pennsylvania Ave NW, Washington, DC 20004",2002-08-20 04:44:18,2022-05-01 01:43:59,2024-06-02 10:23:47,VIP,111.37,204,True
+sdv-id-IFuPqG,Victor,Gomez,bruce61@example.org,+1-421-852-4323x312,"333 Spruce Ct, Phoenix, AZ 85001",1987-01-02 02:00:39,2019-04-04 04:15:27,2024-05-01 09:23:37,Standard,410.8,3982,True
+sdv-id-hkjbtm,Gloria,Weeks,ngrant@example.org,7287154502,"909 Pike Pl, Seattle, WA 98101",1989-06-21 23:50:04,2021-02-24 10:15:42,2024-05-02 16:38:23,Standard,734.7,1825,True
+sdv-id-JIRaTr,Cathy,Mitchell,paula29@example.org,+1-735-677-1551,"444 Willow Way, San Antonio, TX 78201",1968-02-01 01:13:08,2018-08-19 15:00:19,2023-11-10 15:42:28,Premium,23219.85,15177,True
+sdv-id-DcPOWc,George,Buck,llewis@example.com,(733)853-5420x6929,"999 Riverfront Dr, Jacksonville, FL 32202",1971-08-23 12:58:42,2018-04-09 05:39:36,2024-03-04 21:25:28,Standard,24285.52,22103,True
+sdv-id-rmqkUd,Dawn,Young,ryan89@example.org,5364955101,"787 Trade St, Charlotte, NC 28202",1982-10-27 00:39:27,2021-01-15 02:24:48,2024-04-09 17:24:14,VIP,19122.17,1760,True
+sdv-id-qlJgwE,Ryan,Soto,longgary@example.org,729.972.8201x518,"565 High St, Columbus, OH 43215",1997-10-24 09:45:55,2021-03-06 03:54:16,2024-06-01 00:47:43,Premium,111.33,280,True
+sdv-id-SSGdTZ,Deborah,Jones,ucooley@example.com,(983)851-2307,"121 Market St, San Francisco, CA 94102",2002-08-23 08:26:06,2024-01-01 01:01:01,2024-06-01 22:38:46,Premium,111.32,225,False
+sdv-id-pWCvbk,Benjamin,Morris,kiddderek@example.net,+1-494-347-7374x6343,"111 16th St Mall, Denver, CO 80202",2002-02-11 06:22:36,2023-04-21 15:15:44,2024-05-28 14:20:22,VIP,159.11,296,True
+sdv-id-MiEhol,Mark,Rodriguez,kmedina@example.com,+1-777-215-1367,"212 Cedar Rd, Philadelphia, PA 19101",2002-05-25 04:19:19,2021-10-23 16:04:32,2024-06-01 09:36:25,Standard,111.32,224,False
+sdv-id-PyFlWK,Juan,Moore,scottwebb@example.net,+1-382-728-6700x06552,"222 Beacon St, Boston, MA 02116",2001-05-21 20:09:20,2022-02-25 09:40:57,2024-06-02 06:56:43,Standard,111.42,270,True
+sdv-id-FBBEWL,David,Phelps,cindyfrazier@example.net,+1-913-303-2964x726,"101 Birch Blvd, Houston, TX 77001",2001-11-11 02:53:36,2024-01-01 01:01:01,2024-06-01 19:14:49,Standard,289.95,253,True
+sdv-id-bqjuri,Diane,Contreras,tarmstrong@example.org,(685)245-6852x9271,"121 Market St, San Francisco, CA 94102",1983-04-14 09:34:48,2020-01-29 08:46:06,2024-04-04 20:25:04,Standard,4592.44,5266,True
+sdv-id-PHCYAU,David,Smith,lori61@example.net,(560)248-2280,"212 Cedar Rd, Philadelphia, PA 19101",1993-09-08 17:03:21,2018-11-25 12:07:06,2024-05-21 19:54:14,Standard,3595.88,1880,False
+sdv-id-lkQxRf,Kyle,Gray,pgill@example.net,2612851903,"444 Woodward Ave, Detroit, MI 48226",1986-09-08 10:40:30,2020-03-04 07:08:49,2024-04-28 10:47:39,VIP,9163.92,3097,True
+sdv-id-IrPJcG,Lynn,Steele,robinsonjohnathan@example.net,(514)805-0834x17123,"456 Oak Ave, Chicago, IL 60601",1991-09-21 17:24:56,2021-04-01 14:53:06,2024-05-27 09:41:12,Standard,7616.4,9207,True
+sdv-id-mjskMA,Donna,Livingston,steve34@example.net,(220)368-1382,"333 Pennsylvania Ave NW, Washington, DC 20004",1971-03-08 18:42:40,2018-10-12 16:52:42,2023-10-31 05:45:00,Standard,25203.85,5068,True
+sdv-id-Ullhcs,Darius,Drake,gomeztracy@example.net,937-923-1101,"444 Willow Way, San Antonio, TX 78201",1973-08-22 11:30:43,2018-03-28 17:05:00,2024-03-29 20:48:37,Premium,10618.44,10512,True
+sdv-id-ScyTkF,Jared,Glass,torresdonna@example.org,001-536-557-0707x4476,"787 Trade St, Charlotte, NC 28202",1980-05-13 13:30:35,2018-04-27 10:50:06,2024-04-19 08:30:18,Premium,8599.81,10502,False
+sdv-id-htmEdy,Anne,Brewer,harrisjessica@example.org,(531)988-7489x5177,"101 Birch Blvd, Houston, TX 77001",1998-07-28 07:02:48,2023-07-30 06:14:27,2024-06-02 04:50:08,Standard,121.15,732,False
+sdv-id-HTNagH,Joseph,Buchanan,jessicaayala@example.com,(821)296-3054x85385,"909 Pike Pl, Seattle, WA 98101",1985-09-04 03:36:17,2019-05-08 13:48:32,2024-05-09 18:46:07,Premium,5437.79,3493,False
+sdv-id-tSGQtJ,Breanna,Nelson,rmelendez@example.net,001-680-306-0501x93514,"565 High St, Columbus, OH 43215",1992-07-11 12:02:14,2021-11-17 15:37:26,2024-05-18 02:31:08,Premium,2011.57,2711,True
+sdv-id-YzFwlm,Monique,Bradley,william48@example.com,6239528080,"111 16th St Mall, Denver, CO 80202",1999-02-19 02:23:12,2023-07-26 02:15:26,2024-05-28 23:25:01,Standard,325.65,471,True
+sdv-id-XxBQPN,Isabella,Klein,whines@example.net,+1-914-564-2846,"101 Birch Blvd, Houston, TX 77001",1991-12-12 22:44:11,2023-05-09 00:26:57,2024-05-24 13:17:59,VIP,11073.41,6301,True
+sdv-id-Gxlbzx,Cassandra,Middleton,daniel98@example.net,001-542-602-0422,"121 Market St, San Francisco, CA 94102",1989-03-13 00:11:23,2022-05-04 00:58:59,2024-05-31 16:30:33,Premium,4521.04,8972,True
+sdv-id-KuhnuI,George,Jackson,angela90@example.net,540.278.8213x31675,"909 Pike Pl, Seattle, WA 98101",1988-10-26 21:21:52,2020-02-20 01:16:25,2024-04-30 08:58:37,Premium,5020.83,4299,True
+sdv-id-eNXgOL,Amy,Young,benjamin01@example.com,+1-277-612-5624,"212 Cedar Rd, Philadelphia, PA 19101",1991-03-25 12:22:42,2021-10-03 11:17:31,2024-03-21 12:08:20,VIP,1185.59,908,False
+sdv-id-PtBClx,Adam,Castillo,kjohnson@example.org,265.451.7864,"333 Spruce Ct, Phoenix, AZ 85001",1999-01-14 17:29:48,2023-07-13 23:05:56,2024-05-30 02:59:15,Premium,7418.41,4221,False
+sdv-id-Mqerxx,Lisa,Lambert,jennifer55@example.com,437.322.3491x883,"456 Oak Ave, Chicago, IL 60601",1994-07-19 11:32:12,2023-04-22 05:20:30,2024-05-22 12:03:08,Standard,3154.91,10864,False
+sdv-id-RslKQz,Karen,Moore,rachel93@example.net,743.352.6234x5664,"444 Woodward Ave, Detroit, MI 48226",2001-12-12 00:41:26,2023-04-11 22:30:50,2024-06-02 11:10:31,Premium,192.59,261,True
+sdv-id-XuFMVW,Shawn,Martinez,gary40@example.com,707.266.8190x5720,"666 SW Broadway, Portland, OR 97205",1997-11-10 18:54:41,2020-11-02 07:48:24,2024-06-02 03:26:21,Standard,1363.86,899,False
+sdv-id-bqRHhz,Lisa,Moon,ijordan@example.net,(673)427-3669x030,"444 Willow Way, San Antonio, TX 78201",1974-05-16 02:06:04,2019-04-03 00:23:05,2024-04-10 14:10:02,Standard,13530.54,19920,True
+sdv-id-PrjiNk,Christopher,Burns,traci20@example.com,+1-795-883-6318x997,"333 Spruce Ct, Phoenix, AZ 85001",1985-07-22 00:38:46,2020-11-24 09:17:06,2024-05-09 09:19:16,Premium,15354.42,2454,True
+sdv-id-tsgFoA,Dana,Roberts,vincent22@example.org,+1-394-921-3747,"123 Maple St, New York, NY 10001",1992-05-31 10:52:29,2020-04-13 09:03:18,2024-04-29 03:52:34,Standard,369.63,1311,False
+sdv-id-yBfiNJ,Holly,Parker,brad42@example.org,5422813955,"222 Beacon St, Boston, MA 02116",1972-06-21 06:04:38,2018-08-04 05:55:18,2024-03-24 00:46:52,VIP,18037.7,7537,True
+sdv-id-NnmhGC,Shelby,Shah,lblackwell@example.com,(833)547-4759x577,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1988-02-22 08:03:26,2019-12-31 02:49:54,2024-05-28 01:58:47,Standard,13502.0,1538,True
+sdv-id-PSnfyq,Linda,Johnson,abrooks@example.net,4303862215,"777 Redwood Pkwy, San Jose, CA 95101",1968-11-13 21:48:57,2018-07-15 06:22:41,2023-10-31 05:45:00,Standard,25299.08,27966,False
+sdv-id-XgamoE,Darlene,Thomas,gonzaleztara@example.com,(522)953-5618x8588,"666 SW Broadway, Portland, OR 97205",2002-06-29 06:09:51,2023-08-22 19:30:49,2024-06-02 11:03:11,Premium,112.43,344,True
+sdv-id-BfzYGI,Veronica,Tran,spowell@example.net,532-823-1574,"444 Willow Way, San Antonio, TX 78201",1973-02-15 15:04:48,2018-10-04 05:50:08,2024-05-14 18:33:07,Standard,15156.41,18674,False
+sdv-id-vEmwRl,James,Vazquez,dennis02@example.net,891-222-0769x3435,"777 E Pratt St, Baltimore, MD 21202",1975-02-22 21:03:23,2018-06-21 03:33:01,2024-03-26 19:46:27,Standard,3518.31,9752,True
+sdv-id-EyOdVQ,Samantha,Huff,pturner@example.org,001-887-427-2140x6967,"777 E Pratt St, Baltimore, MD 21202",1990-05-18 01:07:29,2019-05-03 13:18:23,2024-01-27 13:07:45,Standard,174.52,1336,True
+sdv-id-OWKcHU,Holly,Rogers,omalone@example.org,+1-884-893-5684x88097,"777 Redwood Pkwy, San Jose, CA 95101",1990-10-29 13:34:03,2021-08-26 14:37:16,2024-06-01 14:09:35,Premium,7520.94,4462,True
+sdv-id-GiNuXC,Kathy,Thomas,todd70@example.org,+1-627-379-7465,"789 Pine Ln, Los Angeles, CA 90001",1966-07-06 14:53:58,2018-03-18 10:19:33,2023-10-31 05:45:00,Premium,24124.76,13567,True
+sdv-id-pQYcWd,Edward,Duran,ghill@example.com,224-792-8997,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1996-04-08 13:40:04,2020-11-30 02:17:30,2024-06-01 20:33:57,Standard,4446.91,1756,True
+sdv-id-zrGfWd,Colleen,Anderson,robinterry@example.org,+1-898-861-3492x9259,"777 E Pratt St, Baltimore, MD 21202",1981-02-16 21:12:16,2018-12-11 04:01:26,2024-04-18 16:08:22,Premium,8707.68,1925,False
+sdv-id-jjezxz,Nathaniel,Hernandez,monique93@example.org,961-610-2151,"444 Woodward Ave, Detroit, MI 48226",1992-09-12 22:57:40,2022-02-22 06:55:59,2024-05-30 19:51:42,Standard,3906.94,990,True
+sdv-id-irWwdD,Joshua,Fernandez,jennifer32@example.org,001-517-668-3925,"333 Pennsylvania Ave NW, Washington, DC 20004",1999-09-12 23:14:52,2022-01-23 12:31:43,2024-05-27 21:38:33,VIP,175.9,397,True
+sdv-id-DCTsnU,Aaron,Peterson,amy06@example.net,957-624-1664,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1999-01-13 01:45:00,2020-10-20 21:20:49,2024-06-02 10:26:06,Standard,111.34,968,True
+sdv-id-mlSMds,Chelsea,Davis,zgardner@example.com,(342)661-4570,"777 Redwood Pkwy, San Jose, CA 95101",2001-02-15 01:27:35,2020-06-29 02:30:20,2024-06-02 07:48:13,Premium,111.34,314,False
+sdv-id-XBkNWI,Jill,Ortega,peter68@example.net,229.785.2404,"777 Redwood Pkwy, San Jose, CA 95101",1988-08-19 01:56:12,2020-10-29 17:16:04,2024-05-19 11:59:54,VIP,2454.22,6069,True
+sdv-id-GlsRLC,Donald,Morgan,eric02@example.com,828.553.6584x9368,"787 Trade St, Charlotte, NC 28202",1990-03-26 04:26:53,2019-08-25 13:03:15,2024-05-28 01:39:33,Standard,860.58,1171,True
+sdv-id-aATmXp,Jennifer,Rivera,leelarson@example.com,001-347-929-6694,"343 Monument Cir, Indianapolis, IN 46204",1986-02-17 11:13:37,2021-02-09 01:21:40,2024-04-28 05:05:13,Standard,5792.66,2094,False
+sdv-id-VvlYco,Craig,Martinez,christopher72@example.org,297-319-4317,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1993-05-02 15:38:30,2018-10-14 12:36:40,2024-05-31 19:17:29,VIP,130.39,2303,True
+sdv-id-qlDKKT,Michael,Griffin,stuartamanda@example.org,259.932.0948x5858,"123 Maple St, New York, NY 10001",2003-01-29 12:17:29,2022-10-27 00:22:35,2024-06-02 08:09:01,Standard,111.32,183,False
+sdv-id-mQxgWB,James,Cooper,carriejordan@example.com,931-770-4358,Sample Data,1991-07-28 15:27:11,2020-06-28 15:12:32,2024-03-21 21:23:37,Standard,799.44,1567,False
+sdv-id-tJftSm,Nicholas,Myers,iwhite@example.net,417.799.3673x348,"212 Cedar Rd, Philadelphia, PA 19101",1986-08-10 10:02:22,2019-11-12 00:28:59,2024-04-10 21:11:56,Premium,510.54,2150,True
+sdv-id-hYMgvf,Virginia,Smith,hwelch@example.net,(367)263-8652,"101 Birch Blvd, Houston, TX 77001",1997-11-27 20:49:38,2022-10-06 19:35:30,2024-03-19 21:25:43,Standard,1132.02,202,True
+sdv-id-LlyuqU,Jacob,Williams,christopher20@example.com,(598)566-7151x676,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1988-08-16 08:14:17,2020-06-18 01:14:45,2024-05-13 09:39:02,Standard,6899.01,2227,False
+sdv-id-RAaRUl,Angela,Banks,ehudson@example.net,3677625568,"111 16th St Mall, Denver, CO 80202",2003-02-11 21:59:18,2023-09-04 06:23:00,2024-06-02 11:11:09,Standard,111.32,180,True
+sdv-id-toqRXG,Paul,Olson,scotttorres@example.com,4367026481,"456 Oak Ave, Chicago, IL 60601",1971-12-18 21:02:42,2019-05-11 11:27:35,2023-12-04 10:55:07,Standard,24842.55,12287,True
+sdv-id-brefQC,Jim,Wyatt,hharris@example.org,001-311-829-9596x197,"666 SW Broadway, Portland, OR 97205",1993-07-04 09:31:37,2021-05-06 05:30:28,2024-05-30 06:19:41,Premium,117.68,365,True
+sdv-id-bwwujF,Matthew,Holmes,mhobbs@example.com,+1-536-352-3618x2018,"909 Pike Pl, Seattle, WA 98101",1987-03-03 05:14:32,2020-02-21 07:27:10,2024-05-31 07:59:05,Standard,528.87,1664,False
+sdv-id-KOpHQP,Joel,Edwards,castanedadavid@example.net,+1-336-424-6604x58198,"777 E Pratt St, Baltimore, MD 21202",1985-07-01 21:31:29,2019-04-06 18:32:31,2024-05-01 04:41:17,Premium,3094.07,1151,True
+sdv-id-UMhNue,Ann,Rubio,chloe56@example.net,7318615446,"666 SW Broadway, Portland, OR 97205",1989-09-30 07:51:16,2021-12-23 19:01:57,2024-05-09 11:08:58,Standard,2179.12,1406,True
+sdv-id-PYKPFQ,Kelly,Robinson,michael41@example.net,602-530-0062x92837,"999 Riverfront Dr, Jacksonville, FL 32202",1980-06-12 23:11:05,2018-08-04 01:38:06,2024-05-12 06:18:42,Standard,12849.63,6157,True
+sdv-id-YIcfos,Christopher,Smith,cody00@example.net,9233057501,"787 Trade St, Charlotte, NC 28202",2000-12-10 21:05:08,2021-08-12 05:50:17,2024-06-02 11:10:09,Premium,112.03,724,True
+sdv-id-oUloac,Michelle,Leonard,juliaburns@example.net,822-627-1563,"555 Aspen Dr, San Diego, CA 92101",1985-04-25 20:55:02,2022-02-28 03:30:03,2024-02-08 01:50:08,VIP,8150.77,3638,False
+sdv-id-KdPFDL,Jessica,Green,rharrison@example.net,001-967-873-8408,"909 Pike Pl, Seattle, WA 98101",1967-09-14 05:02:13,2018-06-07 09:16:37,2024-02-05 11:58:55,VIP,22957.79,14324,True
+sdv-id-GEwBBm,Heather,Benson,zcameron@example.com,(724)213-9884,"666 Elm St, Dallas, TX 75201",1975-02-16 11:14:38,2018-02-20 17:56:59,2024-04-19 14:35:08,Standard,2062.91,12967,True
+sdv-id-gjsokw,Tracie,Mccormick,david93@example.org,(203)859-4552x343,"333 Spruce Ct, Phoenix, AZ 85001",1987-01-19 11:06:06,2020-03-29 10:18:42,2024-05-16 18:13:01,Premium,10631.51,6473,True
+sdv-id-LCVfgL,Brenda,Sharp,steven48@example.org,001-542-979-6947x5095,"999 Riverfront Dr, Jacksonville, FL 32202",1991-10-12 11:49:53,2019-05-16 16:28:59,2024-04-27 02:43:36,Standard,944.77,4679,True
+sdv-id-RORPRu,Alyssa,Fernandez,charlotte36@example.org,571.766.6718x08276,"343 Monument Cir, Indianapolis, IN 46204",1995-04-09 11:54:20,2020-12-09 19:45:54,2024-05-25 16:16:58,VIP,488.42,546,True
+sdv-id-jUVJEb,Clinton,Rogers,nicolelloyd@example.org,427-756-6355x117,"444 Woodward Ave, Detroit, MI 48226",1988-05-12 07:12:25,2020-05-21 14:55:43,2024-05-09 10:17:17,VIP,5527.09,1870,True
+sdv-id-AQgCtI,Timothy,Thomas,mlewis@example.org,565-880-3536x559,"212 Cedar Rd, Philadelphia, PA 19101",1991-08-17 22:22:50,2020-06-09 04:35:25,2024-05-28 15:12:28,Premium,132.65,739,True
+sdv-id-euWFPU,Vincent,Anderson,vrose@example.net,(695)245-1611x0083,"456 Oak Ave, Chicago, IL 60601",1987-10-01 09:55:18,2022-01-28 20:05:34,2024-03-25 18:49:20,Standard,2526.06,7426,True
+sdv-id-PwOKFg,Patrick,Johnson,curtispowell@example.com,359.835.7950,"444 Woodward Ave, Detroit, MI 48226",1976-12-28 14:30:53,2018-12-13 18:56:21,2024-02-13 14:55:59,Premium,8611.54,11738,True
+sdv-id-JGIdkt,Erin,Cuevas,boonecorey@example.com,001-668-828-7753x0392,"333 Pennsylvania Ave NW, Washington, DC 20004",1986-11-22 23:57:31,2020-10-20 01:58:11,2024-05-10 06:55:43,Standard,3790.21,9745,True
+sdv-id-wNQiqh,Holly,Newman,cunninghamnicole@example.net,(987)421-7657,Sample Data,1965-05-14 17:10:29,2018-05-31 16:11:17,2023-10-31 05:45:00,Standard,24369.03,30000,False
+sdv-id-AmdPtS,Scott,Smith,racheltaylor@example.net,918-895-7735x3096,"343 Monument Cir, Indianapolis, IN 46204",1987-09-12 12:09:16,2021-04-15 01:04:41,2024-05-19 17:50:44,Standard,11599.33,3484,True
+sdv-id-UmVZZE,Cameron,Johnson,crystalstone@example.net,7284478445,"789 Pine Ln, Los Angeles, CA 90001",1986-04-30 01:48:24,2021-08-14 12:31:54,2024-03-19 23:21:45,Standard,6663.33,3826,False
+sdv-id-uEFIGV,James,Hernandez,whitejose@example.com,599.309.1505,"444 Woodward Ave, Detroit, MI 48226",1998-12-30 01:43:37,2022-11-20 06:59:56,2024-05-29 10:31:42,Standard,152.25,421,True
+sdv-id-lTsTdk,Stephanie,Harvey,christopherflores@example.org,566.299.0025x37035,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1990-12-29 17:55:32,2021-11-12 21:02:06,2024-05-29 18:23:56,Standard,1156.2,2728,True
+sdv-id-mGLCJZ,John,Neal,gonzalezmichael@example.net,9052325046,"789 Pine Ln, Los Angeles, CA 90001",1991-06-28 18:13:48,2021-02-26 00:19:43,2024-05-28 22:03:33,Standard,288.17,1350,True
+sdv-id-UwsJoP,Mark,Little,miranda47@example.com,959.525.4752x87614,Sample Data,1990-09-02 13:56:44,2018-10-30 12:37:29,2024-04-30 20:31:09,Standard,267.05,3032,True
+sdv-id-GRwJUg,Meghan,Graham,victoria89@example.com,001-483-478-3381x9491,"212 Cedar Rd, Philadelphia, PA 19101",1974-03-27 07:20:44,2021-04-18 00:57:22,2024-02-09 12:09:01,Standard,25298.0,7797,False
+sdv-id-njCmNc,Zachary,Lambert,amber76@example.net,941.630.2746x98440,"666 Elm St, Dallas, TX 75201",1999-08-18 18:54:01,2021-03-19 11:38:38,2024-05-14 16:26:46,Standard,124.01,293,False
+sdv-id-MxcGIZ,Todd,Lopez,thomaswilliams@example.org,715.765.8550,"999 Riverfront Dr, Jacksonville, FL 32202",1974-12-22 08:59:14,2018-09-24 07:39:48,2024-02-16 04:12:50,Standard,8702.14,7975,True
+sdv-id-RMMdsJ,Lori,Li,mosesdavid@example.net,538-214-0161x95576,"777 E Pratt St, Baltimore, MD 21202",1969-01-10 05:06:51,2019-02-14 18:39:12,2024-02-04 19:21:57,Premium,25031.47,24222,False
+sdv-id-tBDOjI,Isaac,Wilson,hallshawna@example.com,001-458-766-2662x75957,"333 Pennsylvania Ave NW, Washington, DC 20004",1975-09-03 12:23:12,2018-09-25 21:08:26,2024-03-31 09:26:48,Premium,12456.34,10519,True
+sdv-id-vWjUbR,Gregory,Hull,bthornton@example.com,593.728.4097,"333 Spruce Ct, Phoenix, AZ 85001",1997-08-28 02:09:39,2019-11-22 19:54:48,2024-05-29 09:10:54,Standard,199.68,1658,False
+sdv-id-ieTnIr,Laura,Cox,tbailey@example.com,+1-475-319-4108x8758,"111 16th St Mall, Denver, CO 80202",2000-04-13 07:16:13,2022-04-27 22:26:28,2024-05-29 05:25:53,Standard,120.87,346,False
+sdv-id-wUASsG,Kenneth,Webb,jean24@example.org,(856)680-6260x53891,"666 Elm St, Dallas, TX 75201",1992-12-22 10:56:44,2019-01-01 20:06:24,2024-05-31 13:09:47,Premium,111.32,576,True
+sdv-id-bzlGQZ,Robyn,Soto,gordonjohnny@example.org,001-211-840-7970x2938,"565 High St, Columbus, OH 43215",2000-06-21 03:48:59,2022-02-13 15:41:04,2024-06-01 09:26:37,Premium,301.97,2546,False
+sdv-id-FpfgnB,Jennifer,Hill,kara84@example.com,7215176818,"111 16th St Mall, Denver, CO 80202",1978-04-07 07:52:16,2019-02-14 09:47:07,2024-01-21 09:50:50,VIP,12507.76,4858,True
+sdv-id-sYbhVx,Andrea,Bowen,andre01@example.net,001-408-636-5376,"456 Oak Ave, Chicago, IL 60601",1970-10-13 17:13:44,2018-02-22 18:23:22,2023-10-31 05:45:00,Standard,14396.76,16933,False
+sdv-id-KNDtGB,Richard,Collins,jacksoneric@example.com,(645)820-1688x618,"666 Elm St, Dallas, TX 75201",1998-09-11 19:38:23,2020-07-26 20:55:22,2024-05-20 04:11:32,Standard,111.68,360,True
+sdv-id-IpGarP,Melanie,Griffith,michaeljones@example.org,998-210-9067x848,"444 Willow Way, San Antonio, TX 78201",1977-07-28 08:18:57,2021-02-09 21:39:56,2024-03-13 20:58:06,Standard,12605.97,4822,True
+sdv-id-XjbQpB,Julie,Booth,kimberlyhawkins@example.com,7664667104,"333 Pennsylvania Ave NW, Washington, DC 20004",1987-01-07 12:24:33,2021-02-25 16:37:21,2024-06-01 16:49:04,Premium,3422.47,5508,True
+sdv-id-aPhWZd,Kayla,Barnes,michelle54@example.com,869-245-3383x7791,"444 Woodward Ave, Detroit, MI 48226",1997-12-30 18:50:51,2020-03-17 01:59:01,2024-05-12 12:15:34,Standard,128.19,711,True
+sdv-id-iCKTIa,Emily,Figueroa,cynthiacunningham@example.net,001-211-791-6332x13859,"777 E Pratt St, Baltimore, MD 21202",1977-06-11 15:16:34,2018-11-27 20:16:46,2024-03-30 19:28:19,Standard,20190.38,3409,True
+sdv-id-baAxIK,John,Mack,nicolekent@example.org,+1-823-234-0299x7029,"999 Riverfront Dr, Jacksonville, FL 32202",1999-01-05 20:01:56,2022-11-08 16:51:09,2024-05-29 05:00:54,VIP,307.7,645,False
+sdv-id-NRkuHy,Matthew,Moran,bryanwilson@example.com,(216)266-6195x11695,"666 SW Broadway, Portland, OR 97205",1979-07-05 06:03:51,2019-10-10 09:33:45,2024-05-06 17:11:24,Standard,14600.67,2986,True
+sdv-id-EvJXfe,Julie,Harper,stevenbaker@example.org,(457)522-9043x251,Sample Data,1983-07-20 17:18:44,2019-05-27 07:43:55,2024-04-02 06:17:04,Standard,17341.19,7072,True
+sdv-id-mYTQfz,Jessica,Casey,todd65@example.net,4558202359,"333 Spruce Ct, Phoenix, AZ 85001",2001-05-12 14:10:20,2022-11-17 11:21:41,2024-06-01 17:14:28,Premium,142.25,332,True
+sdv-id-FkrwUH,Aaron,Williams,twilson@example.net,2344252168,"212 Cedar Rd, Philadelphia, PA 19101",1987-05-09 17:55:40,2022-03-09 18:14:46,2024-04-25 07:31:27,Standard,6973.54,9718,False
+sdv-id-JiCNYZ,Amanda,Castro,mckinneyjennifer@example.net,941.536.7817,"121 Market St, San Francisco, CA 94102",1999-05-21 16:18:22,2021-09-27 12:00:50,2024-06-01 13:19:46,Standard,113.32,1267,False
+sdv-id-xfOjEu,Steven,Hodges,millerkayla@example.net,(862)770-7521x29015,"999 Riverfront Dr, Jacksonville, FL 32202",1973-01-07 06:04:47,2018-10-15 16:18:23,2024-03-24 11:44:38,Premium,13338.04,12047,False
+sdv-id-NJjlal,Erika,Howell,emilywolfe@example.net,(781)792-6158,"333 Pennsylvania Ave NW, Washington, DC 20004",1997-09-20 00:44:15,2021-06-01 05:27:05,2024-05-29 07:58:06,Standard,122.12,1801,False
+sdv-id-qYYKdt,John,Hamilton,kbond@example.org,6263165532,"212 Cedar Rd, Philadelphia, PA 19101",2001-02-06 01:03:29,2022-08-15 19:52:27,2024-05-31 11:58:15,Standard,127.95,710,False
+sdv-id-oHEYWH,Joshua,Boone,lcampos@example.org,(882)507-1089,"666 SW Broadway, Portland, OR 97205",2001-12-04 01:50:01,2021-07-01 22:02:53,2024-06-01 19:33:32,Standard,111.32,183,False
+sdv-id-lHuheo,Kara,Ho,hughesjames@example.net,+1-223-265-2478x5317,"909 Pike Pl, Seattle, WA 98101",2001-09-22 14:14:06,2020-02-06 09:32:30,2024-05-31 16:33:37,Premium,111.32,184,False
+sdv-id-ANNzFs,John,Andrews,ralvarez@example.org,+1-338-958-5256x7727,"121 Market St, San Francisco, CA 94102",1998-05-23 06:53:08,2021-12-01 09:18:51,2024-06-01 16:36:38,Standard,111.33,493,True
+sdv-id-BiyLjY,Jose,Wright,huffmanvincent@example.org,796.664.4370,"909 Pike Pl, Seattle, WA 98101",1982-08-19 02:46:58,2018-02-13 08:43:15,2024-05-08 20:18:22,Premium,243.4,1539,True
+sdv-id-sUBpbX,Amanda,Dawson,jason89@example.com,349-716-3813x0443,"777 E Pratt St, Baltimore, MD 21202",1992-12-04 17:32:53,2019-10-29 15:27:18,2024-06-01 02:22:28,Premium,117.3,2033,True
+sdv-id-GrBKyN,Barry,Sanchez,samanthanorris@example.net,796.703.8119,"444 Woodward Ave, Detroit, MI 48226",1992-02-24 05:45:46,2021-02-24 10:18:55,2024-05-24 08:44:31,Standard,1707.39,2761,True
+sdv-id-nUzPvt,James,Grant,ccruz@example.com,411-202-3514x5502,"222 Beacon St, Boston, MA 02116",1990-06-16 00:12:25,2022-10-29 07:44:46,2024-05-11 07:59:00,Premium,2728.87,1580,True
+sdv-id-iAacDw,Lisa,Thomas,dennis14@example.com,5575244650,"212 Cedar Rd, Philadelphia, PA 19101",2000-04-15 09:42:30,2023-05-27 04:43:49,2024-05-24 21:43:22,Standard,414.35,449,False
+sdv-id-ZhlEOO,Ralph,Montgomery,katelyn05@example.com,6897764898,"111 16th St Mall, Denver, CO 80202",2000-11-04 20:40:43,2023-02-13 05:59:08,2024-05-30 04:32:25,Standard,114.91,453,True
+sdv-id-QORIKh,David,Mcdowell,janescott@example.org,001-422-222-7859x166,"777 E Pratt St, Baltimore, MD 21202",2001-07-02 01:49:49,2022-12-28 01:20:29,2024-06-02 10:02:59,Standard,111.58,406,True
+sdv-id-oCBKNZ,Dustin,Miller,castilloashley@example.com,(359)506-2610,"121 Market St, San Francisco, CA 94102",1969-04-12 13:47:41,2018-03-10 05:16:13,2023-12-20 05:07:31,Premium,4407.0,16173,True
+sdv-id-mqmFEt,Justin,Davis,jessica73@example.com,001-685-865-0009x83865,"343 Monument Cir, Indianapolis, IN 46204",1990-02-25 04:34:53,2020-04-16 08:16:20,2024-06-01 02:37:49,Premium,1069.36,5282,True
+sdv-id-bJrdYg,Wendy,Acosta,chriswashington@example.com,7439676648,"444 Woodward Ave, Detroit, MI 48226",1975-10-29 18:48:36,2019-04-10 00:18:31,2024-04-13 05:37:35,Premium,22993.57,8733,True
+sdv-id-fhdHmY,Christopher,Sandoval,gordonsusan@example.org,001-451-232-6991,"909 Pike Pl, Seattle, WA 98101",1994-06-01 06:46:05,2019-06-30 00:52:02,2024-05-22 14:13:02,Premium,872.4,1877,True
+sdv-id-PFBwto,Michael,Rowe,brownlouis@example.com,(326)761-2616x7285,"333 Pennsylvania Ave NW, Washington, DC 20004",1989-12-15 03:15:21,2018-11-30 14:28:29,2024-05-09 13:38:19,Premium,457.17,2057,True
+sdv-id-oOqKkL,Alexander,Smith,robert76@example.com,954.233.7915,"444 Woodward Ave, Detroit, MI 48226",1973-12-09 14:30:34,2019-01-20 18:37:19,2024-04-05 21:08:46,Premium,12569.07,20419,True
+sdv-id-PksZta,Mallory,Burns,perezlindsey@example.org,(751)951-3564x2618,"343 Monument Cir, Indianapolis, IN 46204",2002-02-05 10:46:09,2022-03-13 13:56:38,2024-06-02 11:00:34,Premium,111.32,285,True
+sdv-id-zpGUKr,Allison,Reilly,xnash@example.net,737.985.4328x652,"999 Riverfront Dr, Jacksonville, FL 32202",1981-09-28 16:29:29,2019-12-23 18:30:27,2024-05-01 08:21:00,Premium,18165.89,9042,True
+sdv-id-GcoLoU,Christopher,Huff,rmason@example.net,(212)315-9450x48128,"666 Elm St, Dallas, TX 75201",1976-07-12 11:49:15,2018-03-18 12:48:39,2024-03-26 05:56:28,Standard,1025.05,9376,False
+sdv-id-bvretB,Craig,Flores,shirley15@example.com,001-764-385-3569x813,"222 Beacon St, Boston, MA 02116",1981-09-12 14:18:56,2020-03-17 10:36:17,2024-05-05 21:59:21,Premium,3609.09,10909,False
+sdv-id-mslGSr,Jeremy,Duffy,jose31@example.com,001-662-695-6223,"444 Willow Way, San Antonio, TX 78201",1976-01-25 01:00:30,2018-08-08 06:18:41,2024-04-29 06:43:30,Premium,18356.65,6001,True
+sdv-id-kMdLku,Veronica,Cooke,yolanda93@example.com,355-503-2084,"666 SW Broadway, Portland, OR 97205",2002-08-08 05:16:04,2022-06-14 17:44:52,2024-06-02 10:37:24,Premium,111.32,186,True
+sdv-id-XXUjBH,John,Wallace,suzannepaul@example.org,(762)469-5341x9211,"666 Elm St, Dallas, TX 75201",1987-10-10 06:06:50,2019-09-13 14:33:46,2024-05-12 04:38:32,Standard,4177.19,1916,True
+sdv-id-JylljL,Leah,Luna,lschmidt@example.org,001-231-336-6468x97397,"555 Aspen Dr, San Diego, CA 92101",1968-01-31 23:26:31,2018-05-10 23:12:54,2023-11-21 03:16:12,Standard,24932.64,14906,False
+sdv-id-EqziKh,Allen,Williams,mathewsjacob@example.com,499.909.6298,"444 Willow Way, San Antonio, TX 78201",1997-11-11 05:14:09,2023-12-15 17:50:57,2024-05-26 02:25:04,Premium,11575.29,903,True
+sdv-id-vIAqLj,John,Peterson,dustin34@example.org,523.209.3629,"666 SW Broadway, Portland, OR 97205",1965-06-26 14:10:56,2018-03-06 16:02:41,2023-10-31 05:45:00,Standard,19020.27,22076,True
+sdv-id-uanXKm,Melissa,Fry,kavila@example.org,697-405-4422x9122,"666 SW Broadway, Portland, OR 97205",1998-10-28 19:33:49,2023-08-02 06:10:02,2024-06-01 04:43:31,VIP,122.13,317,True
+sdv-id-njpDBw,Kathryn,Kelley,sbaker@example.net,540.964.6543,"456 Oak Ave, Chicago, IL 60601",1985-05-02 23:29:48,2022-01-25 02:48:44,2024-05-14 09:05:51,Standard,9802.11,1868,True
+sdv-id-kroyuE,Brittany,Savage,flamb@example.org,914.803.1648,"565 High St, Columbus, OH 43215",1975-04-24 17:24:46,2019-12-01 13:32:58,2024-04-09 12:07:28,Standard,19018.52,7519,True
+sdv-id-HIEJIv,Ashley,Allen,millerjeffery@example.com,523-652-2368x5840,"333 Pennsylvania Ave NW, Washington, DC 20004",1998-01-03 02:59:12,2021-11-22 19:01:30,2024-05-26 14:38:55,Standard,111.81,692,True
+sdv-id-YTJqTM,Gloria,Long,jessicahenry@example.com,302.205.0343x325,"909 Pike Pl, Seattle, WA 98101",1993-01-04 03:33:11,2019-09-06 22:40:04,2024-05-20 20:42:12,Premium,116.9,6485,True
+sdv-id-GMkHSr,David,Woods,adamsanthony@example.org,001-981-741-0224x09588,"222 Beacon St, Boston, MA 02116",2002-04-01 09:56:09,2023-07-16 15:04:53,2024-06-02 09:44:38,Premium,111.32,353,True
+sdv-id-BnvFxN,Linda,Evans,michaellambert@example.org,+1-297-679-6929,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1967-11-07 23:35:25,2018-11-08 07:00:24,2023-10-31 05:45:00,Standard,24624.09,21383,True
+sdv-id-wrrMgQ,Brittany,Clements,mhayes@example.org,806.736.9827x01319,"444 Willow Way, San Antonio, TX 78201",1997-05-27 21:11:07,2022-12-31 09:02:58,2024-05-30 13:21:31,Standard,174.69,1843,True
+sdv-id-IgMRUv,Susan,Contreras,davenporttyler@example.com,(653)320-9036,"444 Willow Way, San Antonio, TX 78201",1993-10-12 19:22:42,2021-09-02 21:08:49,2024-05-14 01:04:55,VIP,1029.99,1276,False
+sdv-id-TrcSie,Robert,Cook,fordandrew@example.net,343.568.6660,"222 Beacon St, Boston, MA 02116",1986-07-18 21:17:56,2020-03-01 01:54:20,2024-05-27 22:29:29,Standard,13812.1,4679,True
+sdv-id-BwqRng,Michael,Phillips,barbaralloyd@example.org,(864)808-4268,"444 Woodward Ave, Detroit, MI 48226",1996-02-23 07:41:01,2021-05-03 20:45:48,2024-04-25 21:03:07,Standard,2549.24,1828,False
+sdv-id-UrjPOA,Katelyn,Meyers,bradleymichael@example.com,452-858-6922,"787 Trade St, Charlotte, NC 28202",1985-03-07 20:04:57,2019-09-04 01:06:54,2024-05-05 23:07:07,Standard,9501.35,7430,True
+sdv-id-viBeQo,Brandy,Smith,vlewis@example.org,(591)960-6959,"909 Pike Pl, Seattle, WA 98101",1996-10-26 11:08:34,2021-07-08 12:07:22,2024-06-01 20:38:58,Standard,138.38,674,False
+sdv-id-yhUrqX,Dustin,Johnson,joshua12@example.com,(812)461-7741x7239,"444 Woodward Ave, Detroit, MI 48226",1998-04-12 20:56:09,2022-08-03 04:18:46,2024-05-25 22:27:31,Standard,114.54,651,False
+sdv-id-SIaqpG,Cheryl,Long,johnnylang@example.net,2159135662,"565 High St, Columbus, OH 43215",1971-08-01 17:39:33,2018-05-28 21:18:05,2024-04-13 12:54:36,Standard,24742.86,5401,True
+sdv-id-uqroXF,Robert,Warren,guzmantyler@example.org,+1-840-769-4305x90882,"212 Cedar Rd, Philadelphia, PA 19101",1987-11-21 02:51:02,2021-04-15 11:33:33,2024-06-01 05:34:46,Premium,723.89,3430,False
+sdv-id-eAZCVq,Chad,Flores,hernandezkenneth@example.org,9137117139,"909 Pike Pl, Seattle, WA 98101",1991-01-01 11:19:11,2020-08-25 22:22:14,2024-06-01 13:50:36,Standard,1516.1,1984,True
+sdv-id-FThySz,Jenna,Lewis,pdavis@example.net,(819)749-3999x143,"111 16th St Mall, Denver, CO 80202",1993-03-17 22:38:50,2023-04-26 03:56:27,2024-05-10 07:23:53,Standard,7340.21,3494,False
+sdv-id-AAdogH,David,Rice,fieldsbrandy@example.org,001-987-819-9252x7387,Sample Data,2001-07-09 18:06:51,2022-10-16 19:27:06,2024-05-28 17:46:25,Standard,529.56,245,True
+sdv-id-GQeFla,Brian,Olson,lwright@example.com,+1-806-576-2457x6872,"999 Riverfront Dr, Jacksonville, FL 32202",1987-07-01 11:17:02,2019-02-16 04:41:28,2024-05-24 19:23:10,Premium,113.02,3840,True
+sdv-id-QzOfmV,Barbara,Harrington,bowencarmen@example.com,825-229-8383,"123 Maple St, New York, NY 10001",1986-05-04 13:45:29,2022-07-13 03:53:53,2024-04-11 12:34:28,Premium,2047.56,4593,False
+sdv-id-reAiNq,Robert,Walton,lwright@example.com,001-764-510-6964x8038,"999 Riverfront Dr, Jacksonville, FL 32202",1997-06-05 19:12:24,2023-05-10 10:42:18,2024-04-29 07:40:29,Standard,173.6,2837,True
+sdv-id-ZjKMEF,Margaret,Horn,clarkallen@example.com,9548468536,"789 Pine Ln, Los Angeles, CA 90001",1985-01-14 02:44:27,2018-10-10 13:54:22,2024-05-08 13:24:40,VIP,348.33,3347,True
+sdv-id-MZbEFI,Lisa,Kelly,syang@example.org,001-379-937-9230,"777 E Pratt St, Baltimore, MD 21202",1977-01-19 07:23:57,2018-12-27 09:03:02,2024-02-17 04:48:23,Standard,14272.91,6003,True
+sdv-id-TScKjf,Melinda,Cox,tmccoy@example.org,648.462.1323,"666 Elm St, Dallas, TX 75201",2000-11-24 23:34:18,2023-10-07 05:03:21,2024-06-02 05:02:36,Standard,146.6,345,True
+sdv-id-bFFEIa,Andrew,Hess,qmclean@example.net,268.306.5281,Sample Data,1973-08-15 08:56:52,2020-08-02 09:16:58,2024-03-28 18:57:29,Premium,24079.6,14678,False
+sdv-id-fVpGXL,James,Bowman,vwilliams@example.com,+1-778-664-4358,Sample Data,1969-03-08 17:29:27,2018-03-05 02:06:28,2024-01-21 04:02:25,Premium,17475.99,15852,True
+sdv-id-ZjhLLB,Christina,Lamb,jacquelinecraig@example.com,352.253.7651,"666 SW Broadway, Portland, OR 97205",2001-12-10 15:53:37,2023-03-20 19:32:47,2024-06-02 02:31:13,Standard,113.93,273,False
+sdv-id-dduoiy,Fernando,Miller,xberry@example.org,001-414-226-9651x98418,Sample Data,1984-03-29 04:29:50,2019-03-17 06:17:56,2024-03-31 10:11:20,Standard,3512.27,3155,False
+sdv-id-DqYjZB,Lindsay,Flores,reginaldclark@example.net,001-480-399-1284,"565 High St, Columbus, OH 43215",1978-03-08 19:59:48,2022-04-17 02:49:26,2024-05-29 10:04:07,Premium,16800.33,20451,False
+sdv-id-ficUoF,Scott,Garcia,rachelallen@example.net,705-206-7502x152,"777 E Pratt St, Baltimore, MD 21202",1984-10-25 17:44:39,2021-03-11 17:59:55,2024-05-27 04:30:29,Standard,2281.05,3231,True
+sdv-id-KAIXjS,Emily,Weaver,hickswarren@example.net,+1-293-577-8009,"123 Maple St, New York, NY 10001",1983-08-09 12:59:47,2022-04-26 04:26:16,2024-04-05 16:32:56,Standard,23590.49,6126,False
+sdv-id-fKAQkG,Cynthia,Brown,joseph00@example.net,952-851-3592x66817,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1992-04-01 18:49:29,2019-01-24 04:05:14,2024-05-25 12:13:52,Standard,730.04,3669,True
+sdv-id-mArqHm,Eugene,Olson,hnorman@example.org,626-739-0985,"666 SW Broadway, Portland, OR 97205",1973-10-18 08:07:38,2018-05-28 09:00:55,2024-05-21 13:39:37,Premium,22775.05,13150,True
+sdv-id-zjilsk,Haley,Peterson,mccormickdaniel@example.org,+1-944-510-2656x3005,"121 Market St, San Francisco, CA 94102",1993-12-08 13:39:31,2022-02-28 02:17:47,2024-05-23 19:52:06,VIP,210.12,1148,False
+sdv-id-FPXUnP,Renee,Pacheco,matthewlopez@example.com,553.409.2547,"787 Trade St, Charlotte, NC 28202",1999-09-23 10:11:15,2019-07-26 08:56:43,2024-05-30 21:49:40,Standard,111.32,592,True
+sdv-id-UKLksI,Gerald,Wright,batesmaria@example.org,+1-800-966-9101x70190,Sample Data,1982-01-28 14:19:59,2019-06-17 12:02:05,2024-05-24 02:08:48,VIP,233.94,5282,False
+sdv-id-xisENd,Tina,Reese,aleonard@example.net,932-968-0193x0787,"444 Willow Way, San Antonio, TX 78201",1999-12-12 10:05:14,2021-03-29 15:43:43,2024-06-02 09:00:24,Standard,195.13,523,True
+sdv-id-brupQM,Jacob,Campbell,william38@example.com,+1-773-683-1980x19419,"777 E Pratt St, Baltimore, MD 21202",2000-06-09 01:12:29,2023-01-30 03:42:45,2024-06-02 11:10:48,Premium,124.32,2332,True
+sdv-id-xTyFok,Joseph,Lowe,dianawilliams@example.com,001-495-904-9828x3330,"212 Cedar Rd, Philadelphia, PA 19101",2000-04-02 16:28:13,2020-11-27 00:17:13,2024-06-02 07:48:34,Premium,113.65,231,True
+sdv-id-VERfZD,Thomas,Wilcox,frederick90@example.com,943-570-0889x72252,"111 16th St Mall, Denver, CO 80202",1998-06-22 22:54:49,2020-04-30 18:22:59,2024-06-01 07:02:29,Premium,119.97,482,True
+sdv-id-WOaIAV,Margaret,Lopez,weaverkevin@example.net,380.534.8999,"101 Birch Blvd, Houston, TX 77001",2001-06-18 22:36:26,2020-06-01 03:54:49,2024-06-02 11:05:26,Premium,111.32,576,False
+sdv-id-RmOsed,Steven,Torres,kennethgonzalez@example.org,868.969.2396x05537,"909 Pike Pl, Seattle, WA 98101",2000-06-26 14:05:54,2022-07-21 01:51:57,2024-05-30 23:24:34,Standard,306.36,246,True
+sdv-id-QXLvRw,Sara,Parker,kellyfranklin@example.com,+1-875-884-8971,"777 Redwood Pkwy, San Jose, CA 95101",2001-06-03 02:30:45,2023-10-03 17:54:29,2024-06-02 10:39:33,Premium,141.75,270,True
+sdv-id-IAhPWy,Dorothy,Robinson,porterbrandon@example.com,(284)484-8906x72618,"565 High St, Columbus, OH 43215",1992-08-11 19:19:08,2021-03-08 17:10:40,2024-05-11 11:24:16,Standard,770.33,3003,True
+sdv-id-tTnpkw,Stephen,Mccullough,heather68@example.net,412.542.4437,"343 Monument Cir, Indianapolis, IN 46204",1993-10-12 04:50:43,2020-12-04 00:48:52,2024-05-30 03:46:00,Standard,161.53,4029,True
+sdv-id-ddSusN,Peter,Lamb,mariaorozco@example.org,(313)316-8163x5590,"666 SW Broadway, Portland, OR 97205",1997-09-06 15:13:52,2022-10-16 21:23:59,2024-05-28 14:16:28,VIP,908.57,265,True
+sdv-id-pZEXgX,Anthony,Mitchell,wowens@example.org,2595633321,"777 E Pratt St, Baltimore, MD 21202",1996-01-17 18:24:44,2021-11-15 12:10:09,2024-05-30 10:48:52,Standard,121.22,1090,True
+sdv-id-FATaIp,Alyssa,Jefferson,monicawilliams@example.net,980.329.7345,Sample Data,2001-12-19 14:39:47,2022-09-04 10:18:34,2024-05-30 06:35:58,Standard,111.34,311,True
+sdv-id-oIhwmM,Elizabeth,Thompson,jesse00@example.com,586.460.9952x8901,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1965-04-14 15:00:00,2018-02-14 07:45:24,2023-10-31 05:45:00,VIP,25369.74,21424,True
+sdv-id-qGfSZL,Bianca,Ramirez,ortegajohn@example.net,(219)234-9535,"777 Redwood Pkwy, San Jose, CA 95101",1988-07-11 07:05:34,2019-11-15 15:46:19,2024-05-24 06:20:27,Standard,888.75,839,True
+sdv-id-cxPldY,Jasmine,Boyle,jennifer56@example.com,(779)437-3854,"777 Redwood Pkwy, San Jose, CA 95101",1971-09-18 21:44:34,2018-06-12 23:15:36,2024-04-01 11:05:17,Premium,22063.95,17452,False
+sdv-id-LZiUlE,Kelli,Sanders,erika77@example.com,001-901-468-0287x53264,"343 Monument Cir, Indianapolis, IN 46204",1966-01-04 09:38:07,2018-02-22 07:06:09,2023-11-27 20:35:22,Standard,24028.27,26588,False
+sdv-id-QQXnKr,Douglas,Rich,riosmichael@example.net,+1-343-947-8474,"666 Elm St, Dallas, TX 75201",1971-11-13 08:37:48,2019-10-17 16:39:35,2023-12-16 16:20:43,VIP,11853.25,7316,True
+sdv-id-yqUhjC,Sheri,Lopez,kyleacosta@example.com,+1-730-327-2493,"909 Pike Pl, Seattle, WA 98101",1968-06-05 20:28:26,2018-03-17 18:55:30,2024-04-01 07:06:49,VIP,20996.86,16727,True
+sdv-id-bmBMLl,Jennifer,Soto,kochsavannah@example.com,001-404-953-2144x5408,"222 Beacon St, Boston, MA 02116",1989-01-19 05:29:39,2020-11-06 07:18:59,2024-05-17 20:49:11,Standard,2181.21,3843,True
+sdv-id-vRoxDG,Karen,Green,wjones@example.org,001-327-655-2402x05120,"444 Woodward Ave, Detroit, MI 48226",2002-11-26 06:06:15,2023-06-08 21:59:04,2024-06-02 08:21:09,Premium,111.34,190,False
+sdv-id-MbnGcd,Amanda,Williams,rachel20@example.com,454-771-2985x697,"101 Birch Blvd, Houston, TX 77001",1999-12-19 01:30:32,2020-12-26 13:39:57,2024-05-31 21:05:54,Standard,442.01,337,True
+sdv-id-ltGQJh,Yvonne,Montgomery,jordanmichele@example.net,+1-784-626-6408x70448,"565 High St, Columbus, OH 43215",2000-12-10 11:15:22,2019-12-04 04:48:51,2024-05-29 19:41:18,Premium,111.42,257,False
+sdv-id-wQTHgJ,Anthony,Harris,ybarton@example.com,+1-674-952-1403,"343 Monument Cir, Indianapolis, IN 46204",1999-11-22 01:47:53,2021-09-17 18:28:43,2024-05-31 19:37:08,Standard,639.76,430,False
+sdv-id-idenjg,Kathleen,Hernandez,roberta60@example.org,542.360.5907x7240,"111 16th St Mall, Denver, CO 80202",1973-06-19 20:19:45,2020-04-21 02:10:48,2023-10-31 20:15:02,Standard,21407.73,16112,False
+sdv-id-lDIHmk,Todd,Mcclure,claudia24@example.net,645-913-9730,"222 Beacon St, Boston, MA 02116",1991-10-09 18:28:55,2020-08-13 05:30:08,2024-05-20 14:37:58,Standard,908.69,865,False
+sdv-id-hnJqkc,Elizabeth,Bowman,elliottjohn@example.net,+1-521-891-6719x67807,"565 High St, Columbus, OH 43215",1974-02-28 06:06:41,2019-12-04 02:01:37,2024-03-03 01:40:25,VIP,8744.54,9499,True
+sdv-id-itmMBR,James,Porter,hollymorgan@example.net,7266850263,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1989-06-25 10:19:49,2022-04-29 23:14:51,2024-03-14 02:19:41,Standard,1073.03,2438,False
+sdv-id-NfMxTn,Lori,Ramirez,longmichael@example.org,+1-481-367-2813x137,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1995-08-06 09:53:57,2019-07-07 20:48:59,2024-06-01 05:57:52,Premium,2873.11,668,True
+sdv-id-ljCHSp,Maurice,Allen,jacobsjennifer@example.org,241.744.0962,"222 Beacon St, Boston, MA 02116",1996-11-09 05:57:34,2019-01-18 21:30:13,2024-06-01 11:34:06,VIP,257.18,1096,True
+sdv-id-Gvztar,Rhonda,Bright,silvashannon@example.org,001-606-870-7644x405,"123 Maple St, New York, NY 10001",1972-05-13 06:02:28,2018-10-15 02:52:03,2024-02-05 14:29:51,Standard,17568.28,14848,True
+sdv-id-geSftI,Lisa,Flores,wattskatherine@example.net,602.828.1405x0489,"111 16th St Mall, Denver, CO 80202",1994-09-18 15:07:49,2020-05-16 09:06:15,2024-05-31 22:13:48,Standard,111.53,1416,True
+sdv-id-rYDDue,Joseph,Swanson,katrina70@example.org,+1-998-602-4722x65529,"456 Oak Ave, Chicago, IL 60601",1999-05-14 01:23:55,2021-06-09 20:58:19,2024-05-29 14:08:49,Premium,397.92,434,True
+sdv-id-XdQYZN,Andrew,Green,leejeremiah@example.org,+1-992-566-0621x22526,"343 Monument Cir, Indianapolis, IN 46204",1993-10-23 17:11:54,2020-06-28 23:32:54,2024-05-28 07:27:35,Standard,234.22,658,True
+sdv-id-FdjWBU,Kenneth,Christian,lpotter@example.org,(620)842-9388x96798,"787 Trade St, Charlotte, NC 28202",1999-07-03 21:08:02,2021-10-13 00:43:50,2024-06-02 10:08:35,Standard,802.76,617,True
+sdv-id-NpvuEf,Andrew,Ruiz,whitemichael@example.org,001-992-871-5056x4620,"565 High St, Columbus, OH 43215",1985-03-25 21:53:12,2018-11-11 13:39:00,2024-05-29 16:43:32,Premium,797.76,3868,False
+sdv-id-wMzpqm,Annette,Howard,linda66@example.com,436-281-5997x3864,"666 SW Broadway, Portland, OR 97205",1995-04-20 01:50:36,2020-05-09 03:21:41,2024-06-02 10:06:24,VIP,150.17,815,True
+sdv-id-aLEqzW,George,Clay,barbara27@example.net,(564)849-2031,"555 Aspen Dr, San Diego, CA 92101",2000-03-09 13:03:05,2023-06-01 08:40:38,2024-06-01 11:45:37,Premium,3297.8,208,True
+sdv-id-UPeuhe,Richard,Duke,wcallahan@example.org,(671)867-5550x966,"333 Pennsylvania Ave NW, Washington, DC 20004",1982-10-04 22:16:28,2018-09-13 08:22:05,2024-05-04 06:01:55,Premium,1854.91,8772,False
+sdv-id-lVqZyg,Jay,Ramirez,cookrandy@example.net,896-884-8730x09107,"212 Cedar Rd, Philadelphia, PA 19101",1966-05-14 19:11:32,2018-03-11 07:35:56,2023-10-31 05:45:00,VIP,25380.59,21835,False
+sdv-id-OXRTbw,Tina,Hughes,kelleyrobert@example.org,944-605-9237x63513,"777 Redwood Pkwy, San Jose, CA 95101",1999-03-05 04:11:58,2022-02-11 12:42:02,2024-05-22 04:04:15,Standard,2640.68,559,True
+sdv-id-ATkJJM,Richard,Dickerson,austin40@example.net,537.258.6655,"333 Pennsylvania Ave NW, Washington, DC 20004",1986-12-11 03:38:39,2018-12-10 22:10:34,2024-05-21 04:09:29,Standard,1318.09,1303,True
+sdv-id-pQYmvy,Elizabeth,Miller,john04@example.com,779-286-0427x72547,"333 Spruce Ct, Phoenix, AZ 85001",1992-07-12 20:29:59,2019-03-14 00:35:13,2024-04-29 21:56:40,Standard,3678.36,2102,True
+sdv-id-QEuIzH,Brian,Turner,tdecker@example.org,(872)264-4745x62106,"333 Pennsylvania Ave NW, Washington, DC 20004",1981-03-25 03:17:28,2019-04-03 07:15:02,2024-04-15 13:57:42,Standard,1680.25,4417,False
+sdv-id-AHweCR,Rodney,Perry,danielsimpson@example.com,001-949-810-0858x37765,"789 Pine Ln, Los Angeles, CA 90001",1975-07-13 06:33:01,2018-07-04 01:11:32,2024-03-11 21:07:07,Premium,10606.81,8772,False
+sdv-id-SVUMov,Kathy,Dodson,stephanieortiz@example.com,(954)990-8361x31901,"101 Birch Blvd, Houston, TX 77001",1990-05-14 20:10:18,2022-09-27 10:50:15,2024-04-27 04:43:43,Standard,2033.21,3194,False
+sdv-id-OsXINH,Brittany,Simon,bobbylucero@example.net,287-652-7638x114,"565 High St, Columbus, OH 43215",2002-04-08 03:09:36,2023-08-24 16:47:08,2024-06-02 11:06:44,VIP,116.62,216,False
+sdv-id-lcsQDL,James,Robertson,cynthia28@example.com,+1-835-987-4046x84507,"787 Trade St, Charlotte, NC 28202",2002-10-15 01:59:18,2022-10-31 05:20:29,2024-06-02 11:02:27,Premium,111.32,344,True
+sdv-id-HwyYRs,Amy,Gilbert,donaldterry@example.net,6234205595,"101 Birch Blvd, Houston, TX 77001",1991-08-28 03:52:00,2021-08-13 05:27:05,2024-05-26 21:44:10,Premium,3370.63,2558,True
+sdv-id-dibTDF,Karen,Mitchell,gardnersandra@example.net,+1-653-861-7044x67151,"333 Spruce Ct, Phoenix, AZ 85001",1979-11-13 14:45:44,2019-03-23 11:17:19,2024-05-22 09:41:17,Standard,4953.38,5765,True
+sdv-id-ukqqDd,Helen,Jordan,knoxjohn@example.net,861-874-2189x08933,"222 Beacon St, Boston, MA 02116",1991-09-22 21:47:59,2019-12-22 07:45:51,2024-05-26 03:41:36,Premium,796.69,2106,True
+sdv-id-vzRAxU,Jessica,Hill,stacysantiago@example.com,216.254.9887,"777 E Pratt St, Baltimore, MD 21202",2000-03-10 14:52:00,2023-10-15 07:46:12,2024-06-02 06:28:59,Premium,163.63,1383,True
+sdv-id-VCGFZb,Sara,Salazar,umason@example.net,783.422.2609x90767,"666 Elm St, Dallas, TX 75201",1999-12-16 08:44:10,2022-06-17 17:07:57,2024-06-01 23:30:48,Premium,112.4,2111,True
+sdv-id-QyfkIZ,Caitlin,Delacruz,cynthiabrown@example.net,001-411-524-5604,"909 Pike Pl, Seattle, WA 98101",1995-07-30 06:42:43,2023-01-18 22:08:57,2024-05-11 18:33:53,Premium,473.9,1286,True
+sdv-id-vsTnMb,Christopher,Harris,brittanyparker@example.net,601.459.1961x04424,"121 Market St, San Francisco, CA 94102",1995-02-23 19:31:27,2020-09-14 19:29:26,2024-05-12 18:28:57,Premium,293.0,1655,True
+sdv-id-IuCUoc,Pamela,Jenkins,john37@example.org,001-388-658-1040x5471,"909 Pike Pl, Seattle, WA 98101",1984-11-14 11:06:27,2019-09-21 10:38:54,2024-03-13 00:18:53,Premium,2627.73,4082,False
+sdv-id-hkQTpz,David,Johnston,deborah59@example.org,(252)519-2717x9963,"444 Willow Way, San Antonio, TX 78201",2000-08-31 05:36:16,2022-04-23 06:34:30,2024-05-23 05:30:09,Premium,808.46,485,False
+sdv-id-uwDMTM,Maureen,Hardy,travis85@example.org,(260)295-3817x2837,"787 Trade St, Charlotte, NC 28202",1982-04-24 11:33:32,2018-11-30 03:45:25,2024-04-08 12:54:40,Premium,309.04,5666,True
+sdv-id-GxumKF,Amanda,Owens,powersstephen@example.org,686-618-5624x81392,"101 Birch Blvd, Houston, TX 77001",1975-05-30 21:14:00,2020-08-17 09:10:37,2024-03-14 18:20:32,Standard,19068.63,16313,True
+sdv-id-pgUICY,David,Berry,ralph67@example.net,(505)969-9505x201,"121 Market St, San Francisco, CA 94102",1994-09-11 02:20:50,2021-10-05 22:41:06,2024-06-01 14:58:00,Standard,112.56,2586,True
+sdv-id-Ahwkgh,Seth,Carey,joneslisa@example.com,299.486.9773x899,"456 Oak Ave, Chicago, IL 60601",1967-04-15 20:57:10,2018-02-12 12:35:29,2024-01-27 05:22:58,Premium,25002.27,20297,True
+sdv-id-KSFanX,Brian,Murphy,jacobsbruce@example.com,881-656-9996,"777 Redwood Pkwy, San Jose, CA 95101",1979-03-21 05:33:38,2019-04-21 15:34:49,2024-05-29 02:56:54,Premium,5963.45,7633,True
+sdv-id-oiOiHG,Krista,Lee,zmayer@example.com,(544)944-8580,"333 Spruce Ct, Phoenix, AZ 85001",1994-06-22 16:23:00,2019-09-13 19:14:24,2024-05-17 06:22:34,Premium,193.82,1948,True
+sdv-id-DxiBrk,Samuel,Stewart,wlopez@example.org,925-954-8306x5923,"222 Beacon St, Boston, MA 02116",1980-06-13 21:55:28,2019-07-17 08:35:55,2024-05-11 07:32:10,Premium,9204.15,13866,False
+sdv-id-QOrfli,Claire,Rodriguez,harold89@example.net,582.795.1388,"555 Aspen Dr, San Diego, CA 92101",1998-01-28 10:54:12,2023-07-26 06:55:38,2024-06-02 07:05:29,Premium,115.3,864,True
+sdv-id-HLiPMi,Teresa,Williams,lisa85@example.com,354.599.5014,"787 Trade St, Charlotte, NC 28202",1985-02-18 19:47:05,2018-07-30 04:43:22,2024-05-14 22:21:16,Standard,2161.23,4385,True
+sdv-id-oxpHbb,Laura,Oneill,crawfordkelsey@example.com,980-672-6086,"777 E Pratt St, Baltimore, MD 21202",1984-09-30 22:24:16,2018-08-01 11:24:30,2024-06-01 23:40:41,VIP,264.74,4103,False
+sdv-id-WGLVOu,Alison,Pearson,charles86@example.com,984.499.8870,"456 Oak Ave, Chicago, IL 60601",1999-02-17 14:18:45,2022-07-28 08:48:11,2024-05-25 08:49:06,Standard,734.39,1017,True
+sdv-id-VxMBtW,Jessica,Smith,morganchristopher@example.org,671-705-3600,"555 Aspen Dr, San Diego, CA 92101",1986-04-22 21:15:11,2018-09-22 23:21:00,2024-05-14 00:36:29,Standard,2575.26,4012,True
+sdv-id-qAaVko,Preston,Ferguson,lhaley@example.org,215-548-5871x4715,"789 Pine Ln, Los Angeles, CA 90001",1997-05-18 13:51:44,2020-05-10 05:26:32,2024-05-31 18:35:29,Standard,116.48,6473,False
+sdv-id-qnerzr,Dana,Scott,kelseyrobertson@example.org,001-394-295-7769,"909 Pike Pl, Seattle, WA 98101",1988-01-12 04:47:07,2021-08-05 17:57:40,2024-04-17 01:41:37,Premium,8558.12,893,False
+sdv-id-deoema,Roy,Lamb,rward@example.com,001-786-522-6989,"555 Aspen Dr, San Diego, CA 92101",2001-01-20 14:53:19,2023-03-29 03:39:08,2024-06-01 01:24:15,VIP,123.03,254,False
+sdv-id-vbtBRw,Christina,Ruiz,brianalamb@example.com,+1-998-453-3107x12796,"777 E Pratt St, Baltimore, MD 21202",1996-05-21 02:33:18,2023-01-10 19:04:01,2024-05-15 00:58:57,VIP,140.86,274,False
+sdv-id-xRUZyc,Jordan,Thompson,michael57@example.org,001-333-816-7878,"101 Birch Blvd, Houston, TX 77001",1991-12-28 02:48:48,2021-03-18 16:53:13,2024-05-16 14:09:21,VIP,120.7,2361,True
+sdv-id-TMjaix,Casey,Coleman,maysjustin@example.net,(472)776-2846,"444 Woodward Ave, Detroit, MI 48226",2000-12-23 06:48:54,2022-01-19 04:08:53,2024-06-02 10:59:12,Premium,111.57,458,True
+sdv-id-Qqklxb,Joseph,Cummings,griffinthomas@example.com,442-410-0194x4092,"565 High St, Columbus, OH 43215",2002-02-21 23:17:55,2023-05-22 03:10:22,2024-06-02 09:14:03,Premium,232.37,202,True
+sdv-id-TgWwvG,Gregory,Faulkner,lambertnatalie@example.com,404-563-3325,Sample Data,1972-10-26 16:59:28,2018-11-10 02:59:25,2024-03-08 12:12:58,Standard,24568.75,15577,True
+sdv-id-jzEgYp,William,Walton,swinters@example.com,640-467-5434x8009,"789 Pine Ln, Los Angeles, CA 90001",2001-04-16 09:20:58,2023-02-25 15:59:55,2024-05-31 19:00:25,Premium,114.28,403,False
+sdv-id-sYPgbY,Cheryl,Bennett,unelson@example.com,211-390-2815,"222 Beacon St, Boston, MA 02116",1978-12-28 07:25:49,2018-11-09 16:39:15,2024-04-19 00:57:08,Standard,18086.84,11400,True
+sdv-id-JzJxnl,Gina,Johnson,danielle53@example.net,(842)897-9911,"212 Cedar Rd, Philadelphia, PA 19101",2002-07-24 17:04:34,2023-09-21 10:50:13,2024-06-02 11:03:52,VIP,129.51,358,False
+sdv-id-QGPwUC,Matthew,Moreno,erica91@example.net,(875)635-1834,"333 Pennsylvania Ave NW, Washington, DC 20004",2002-11-12 20:14:10,2023-01-20 02:47:03,2024-06-02 03:02:25,Premium,111.32,203,True
+sdv-id-khVVaa,Vanessa,Thornton,xthomas@example.com,001-750-486-4072x140,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1997-11-17 20:41:19,2021-02-01 20:49:48,2024-06-01 17:22:19,Standard,127.87,1242,True
+sdv-id-JMPISZ,Jenny,Quinn,david98@example.com,922.417.1496x249,"123 Maple St, New York, NY 10001",1974-02-25 07:31:39,2020-04-12 05:22:06,2024-03-27 17:58:49,VIP,17435.6,9596,False
+sdv-id-KIRcmv,Laura,Santos,qsaunders@example.com,+1-991-824-9811x307,"777 E Pratt St, Baltimore, MD 21202",1999-07-01 10:51:24,2020-11-23 13:54:48,2024-06-01 12:03:01,Premium,111.94,840,False
+sdv-id-bMDltx,Mary,Sparks,jamesherrera@example.org,+1-475-535-5524,"222 Beacon St, Boston, MA 02116",1991-11-08 15:03:41,2021-03-24 16:47:03,2024-05-31 02:11:29,Standard,531.19,8216,False
+sdv-id-XGUFnL,Kimberly,Jimenez,nathan11@example.org,390.206.7827x88536,"666 SW Broadway, Portland, OR 97205",1977-02-20 13:48:18,2018-05-04 12:02:57,2024-02-10 17:25:30,Premium,272.03,9952,True
+sdv-id-kgDUyc,Hannah,Davis,hallkenneth@example.org,+1-292-586-6775x531,"999 Riverfront Dr, Jacksonville, FL 32202",2002-02-26 04:50:36,2023-11-06 15:55:08,2024-06-02 11:10:26,Standard,130.51,1552,True
+sdv-id-crdQcD,Alex,Turner,kcoleman@example.com,453.871.0827,"666 Elm St, Dallas, TX 75201",2000-01-25 23:58:52,2023-02-20 15:34:38,2024-05-27 09:40:59,Standard,203.13,645,True
+sdv-id-LEOHYT,Amanda,Joseph,philipshelton@example.com,+1-380-299-0549,"666 Elm St, Dallas, TX 75201",1966-12-03 21:59:56,2018-02-21 21:16:25,2023-10-31 05:45:00,Standard,25310.43,16464,False
+sdv-id-nCSxRe,Heather,Sanders,nicholasvillanueva@example.net,561.680.8798x29569,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1991-08-13 22:45:35,2020-07-24 12:11:22,2024-05-13 17:31:49,Standard,10691.59,1635,True
+sdv-id-QEMJeL,Dustin,Young,crawfordrachael@example.org,(540)664-6639,"343 Monument Cir, Indianapolis, IN 46204",1987-12-14 19:06:56,2019-02-22 09:41:41,2024-04-18 01:21:59,Standard,2441.76,3382,True
+sdv-id-benySZ,Kelly,Hill,houstoncynthia@example.com,821.315.2447x567,"999 Riverfront Dr, Jacksonville, FL 32202",1978-12-09 00:46:37,2018-06-09 08:22:02,2024-05-02 15:56:57,VIP,12452.98,7767,True
+sdv-id-qxvIyL,Amanda,Medina,jadkins@example.com,(351)919-2912x90331,"555 Aspen Dr, San Diego, CA 92101",1992-04-28 13:13:07,2020-07-05 18:32:15,2024-05-31 09:45:35,Standard,365.25,434,False
+sdv-id-VUNogI,Mark,Austin,wardgerald@example.org,342.576.9085,"666 Elm St, Dallas, TX 75201",1980-08-27 17:21:56,2018-12-06 04:36:00,2024-05-07 19:59:08,VIP,342.71,7771,False
+sdv-id-NANwCv,Samuel,Hernandez,mvelez@example.net,5333993999,"555 Las Vegas Blvd S, Las Vegas, NV 89109",2000-02-06 15:50:51,2022-04-24 05:50:22,2024-05-31 15:15:29,Premium,111.42,187,True
+sdv-id-qdmrgJ,Michael,Drake,kaylashelton@example.net,001-683-332-7141x664,"909 Pike Pl, Seattle, WA 98101",1999-10-06 13:39:34,2021-04-19 15:36:59,2024-06-02 06:33:50,Standard,111.35,190,True
+sdv-id-arflIM,Justin,Mckee,ytorres@example.com,216-923-8939x218,"777 E Pratt St, Baltimore, MD 21202",1995-01-23 20:01:47,2020-12-23 03:26:29,2024-05-28 20:29:14,Premium,259.18,928,False
+sdv-id-czqWGd,Emily,Wade,shawn92@example.com,(499)971-9983,"121 Market St, San Francisco, CA 94102",2001-01-14 08:58:26,2023-06-02 07:15:49,2024-05-28 16:51:09,Standard,111.51,262,True
+sdv-id-jvToIz,Ashley,Hogan,jeffrey19@example.org,583.773.6721,"789 Pine Ln, Los Angeles, CA 90001",1990-04-28 23:31:57,2021-11-09 14:42:32,2024-05-22 19:05:26,Premium,15112.45,3548,True
+sdv-id-WepjYv,Kenneth,Silva,townsendamber@example.com,001-638-920-9277,"456 Oak Ave, Chicago, IL 60601",1999-06-17 06:09:11,2022-02-28 14:45:44,2024-05-26 15:15:51,Standard,257.91,270,True
+sdv-id-XAhwbz,Jessica,Smith,karen41@example.org,+1-291-609-7720x420,"777 E Pratt St, Baltimore, MD 21202",1989-02-09 14:32:42,2021-09-17 02:34:10,2024-05-10 21:24:46,Standard,1012.3,5584,False
+sdv-id-TOmvYN,John,Mckinney,daniellesheppard@example.net,001-561-573-3904x9171,"666 SW Broadway, Portland, OR 97205",1993-03-03 16:47:18,2021-03-30 06:05:47,2024-05-26 02:46:52,Standard,6061.6,996,False
+sdv-id-miUiii,Steven,Sullivan,nicholasfletcher@example.com,(879)655-3867x04996,"333 Spruce Ct, Phoenix, AZ 85001",1986-12-03 11:46:02,2019-12-22 19:34:25,2024-05-03 23:29:05,Standard,438.14,2209,False
+sdv-id-yElDFH,Amber,Hendricks,wrich@example.net,(466)913-1997,"555 Aspen Dr, San Diego, CA 92101",1998-07-05 21:24:05,2021-05-22 02:02:59,2024-05-31 06:42:54,Standard,236.81,282,False
+sdv-id-KZVxVm,Jack,Snyder,shawnhardy@example.org,(596)376-9885x08018,"999 Riverfront Dr, Jacksonville, FL 32202",1982-01-16 13:44:17,2021-02-03 05:32:25,2024-04-24 12:26:50,Standard,12588.05,7831,False
+sdv-id-ttzIzi,Raymond,Nolan,willie33@example.net,+1-822-620-4637x5735,"555 Aspen Dr, San Diego, CA 92101",1991-10-10 09:52:44,2019-08-03 11:48:23,2024-05-15 02:15:50,VIP,286.08,2085,True
+sdv-id-pfZZDS,Karen,Flores,kelli38@example.org,368.320.5912,"333 Spruce Ct, Phoenix, AZ 85001",1987-06-15 20:17:01,2019-03-30 11:30:38,2024-05-22 22:25:31,VIP,621.72,4785,True
+sdv-id-Lkrkum,Steve,Rich,esparzaheather@example.com,(331)307-8527,"333 Spruce Ct, Phoenix, AZ 85001",1991-09-09 21:00:42,2022-05-12 13:02:07,2024-05-10 08:27:35,Standard,11516.65,888,True
+sdv-id-BYbMse,Brian,Baker,donaldwhite@example.net,+1-266-497-2452x34938,"789 Pine Ln, Los Angeles, CA 90001",1980-02-15 09:49:05,2018-03-30 17:11:45,2024-04-30 17:31:40,Premium,9434.75,2897,True
+sdv-id-ctkPpI,Alexis,Davis,amylee@example.net,440.234.8182x66732,"666 Elm St, Dallas, TX 75201",1999-02-05 00:40:27,2022-04-24 18:55:04,2024-05-30 12:39:34,Standard,115.25,456,False
+sdv-id-lvwwPJ,Erin,Mitchell,ueverett@example.net,(517)925-1771,"222 Beacon St, Boston, MA 02116",1993-04-28 22:48:18,2019-02-02 11:16:26,2024-06-01 20:41:13,Standard,254.79,5002,True
+sdv-id-gkzkEs,Christine,Klein,ghensley@example.org,001-342-259-9062,"101 Birch Blvd, Houston, TX 77001",2002-09-25 03:42:45,2023-06-23 17:26:51,2024-06-02 10:42:36,VIP,111.54,185,False
+sdv-id-iANSqZ,Brian,Mendoza,psmith@example.net,227-683-9675,"333 Pennsylvania Ave NW, Washington, DC 20004",1972-01-19 03:42:12,2019-08-07 04:03:33,2023-11-21 23:48:09,VIP,14790.46,4721,True
+sdv-id-RedPWR,Rachel,Mack,wardandrew@example.org,576-725-7701x876,"787 Trade St, Charlotte, NC 28202",1977-12-25 06:22:27,2020-05-11 07:04:06,2024-01-24 07:52:50,Standard,12830.27,4112,True
+sdv-id-GKuqZU,Jessica,Harris,anthonypugh@example.net,400-382-9145x7525,"999 Riverfront Dr, Jacksonville, FL 32202",1986-06-12 09:36:14,2022-12-24 02:38:36,2024-04-30 01:23:29,Standard,20865.18,2071,True
+sdv-id-qCfLcW,Barbara,Mooney,vincentandrea@example.net,768.595.1237x3278,"111 16th St Mall, Denver, CO 80202",1993-09-25 06:55:49,2020-11-14 06:57:24,2024-05-31 20:11:53,Premium,290.07,1566,True
+sdv-id-BDzDUB,James,Ellis,wwells@example.net,+1-619-285-5563x413,"333 Spruce Ct, Phoenix, AZ 85001",1994-10-26 11:09:51,2022-06-21 17:15:51,2024-06-02 05:50:22,Standard,722.83,4588,True
+sdv-id-CwLDpH,Cynthia,Jennings,abright@example.org,355-696-0064,"999 Riverfront Dr, Jacksonville, FL 32202",2001-03-26 04:31:31,2019-07-13 18:06:07,2024-06-01 01:29:45,Premium,203.38,710,True
+sdv-id-iJveiS,Aaron,Bishop,fmccoy@example.net,(310)697-1684x3111,"333 Pennsylvania Ave NW, Washington, DC 20004",1966-02-02 23:22:23,2018-02-11 22:53:01,2024-02-25 12:56:16,Premium,23937.08,22380,False
+sdv-id-mDfnQl,Robert,Lamb,davisjulia@example.org,899.257.4005x167,"121 Market St, San Francisco, CA 94102",1989-01-13 04:44:59,2022-12-27 11:09:21,2024-05-22 18:37:15,Premium,129.44,5781,False
+sdv-id-TXHxhr,Andrew,Steele,wagnercrystal@example.com,001-939-254-8620x83142,"333 Pennsylvania Ave NW, Washington, DC 20004",1974-02-19 08:25:03,2021-09-19 07:18:11,2024-01-15 23:47:45,Standard,18275.72,12472,True
+sdv-id-fKAXAn,Heather,Perry,figueroachristopher@example.net,001-650-596-9879x5997,"111 16th St Mall, Denver, CO 80202",1997-10-12 21:44:56,2020-04-11 00:16:57,2024-06-01 12:14:18,Standard,112.28,309,True
+sdv-id-IjcBaC,Laura,Johnson,ihopkins@example.com,001-929-306-4338x2115,"111 16th St Mall, Denver, CO 80202",1983-03-12 04:31:10,2018-10-28 06:43:48,2024-05-25 02:06:07,Standard,3170.79,3528,True
+sdv-id-jfJTrh,David,Ortiz,jerrywalker@example.net,727.845.5553,"666 Elm St, Dallas, TX 75201",1998-12-31 20:32:54,2023-08-24 10:25:48,2024-06-01 14:26:17,Standard,111.39,218,False
+sdv-id-fENoXA,Angela,Gross,robertedwards@example.com,+1-322-279-9985,"555 Aspen Dr, San Diego, CA 92101",1988-10-09 21:27:18,2020-02-19 06:56:24,2024-04-27 00:47:45,VIP,3434.6,7444,True
+sdv-id-XBgimv,Debra,Garcia,melissa22@example.org,+1-646-249-6864x5340,"999 Riverfront Dr, Jacksonville, FL 32202",1966-08-25 00:35:42,2018-02-12 01:30:59,2023-12-16 05:05:10,Standard,21409.46,13004,True
+sdv-id-Hlhnce,Dan,James,lopezdeborah@example.net,(936)483-4645,"111 16th St Mall, Denver, CO 80202",1985-03-07 16:28:14,2020-09-19 15:21:16,2024-04-26 16:50:51,Premium,10216.89,548,False
+sdv-id-YZTxWt,Bruce,Warren,dwong@example.com,001-276-959-1284x574,"909 Pike Pl, Seattle, WA 98101",1975-02-27 01:00:38,2019-02-04 01:13:59,2024-04-16 17:30:18,Standard,6778.02,12527,True
+sdv-id-eIEIxi,William,Schmidt,aprilrivera@example.net,759.769.2524,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1990-07-08 12:37:15,2020-03-16 07:03:43,2024-05-08 13:37:18,Standard,1118.12,3562,True
+sdv-id-ScRCYA,Aaron,Irwin,kimberly27@example.net,336-273-0282x77011,"999 Riverfront Dr, Jacksonville, FL 32202",1969-02-28 11:35:17,2018-07-04 05:32:54,2024-02-02 18:23:17,Premium,24510.26,24978,True
+sdv-id-MtZuHb,Amanda,Davis,howellmelissa@example.net,361-467-2796,"565 High St, Columbus, OH 43215",1998-09-03 06:44:03,2021-10-25 23:42:16,2024-06-02 05:36:15,Standard,125.25,4517,True
+sdv-id-EJNqEl,John,Walters,ambermcdaniel@example.net,3346891153,"666 Elm St, Dallas, TX 75201",2002-12-21 16:38:24,2023-06-12 10:15:48,2024-06-02 10:32:24,Premium,111.32,180,False
+sdv-id-YBvuSk,Patrick,Smith,garzaroger@example.com,001-644-964-4121x9175,"121 Market St, San Francisco, CA 94102",1969-05-04 13:28:14,2018-04-06 16:51:47,2023-12-26 10:51:06,Standard,13753.09,15332,False
+sdv-id-VITnif,Thomas,Adams,madison57@example.com,+1-307-446-4438x954,"666 SW Broadway, Portland, OR 97205",1970-08-31 13:28:14,2018-12-04 13:17:45,2023-11-01 11:03:06,Standard,22788.22,7069,True
+sdv-id-aueDMX,John,Howard,wayne34@example.org,4037792424,"212 Cedar Rd, Philadelphia, PA 19101",1981-06-28 01:17:38,2019-10-22 23:20:00,2024-04-08 11:00:05,Standard,2186.49,8406,True
+sdv-id-ZGIwqH,Dana,Sullivan,kathrynwright@example.com,001-552-586-7665x5609,"121 Market St, San Francisco, CA 94102",1996-11-10 05:26:02,2020-07-06 06:53:53,2024-05-24 22:26:09,Standard,200.25,1251,True
+sdv-id-wBwHml,Angela,Riggs,lisa56@example.com,+1-852-939-3430x468,"777 E Pratt St, Baltimore, MD 21202",1984-10-12 07:11:44,2019-04-28 14:56:28,2024-05-06 21:59:50,VIP,193.68,2620,True
+sdv-id-vrUKTS,Colton,Alexander,qbeck@example.net,001-835-926-5422,"101 Birch Blvd, Houston, TX 77001",1979-09-26 08:15:25,2018-07-04 15:12:59,2024-05-16 19:33:45,Premium,10635.62,12469,True
+sdv-id-ZEWBqS,Julie,Miranda,klawson@example.com,2477108909,"121 Market St, San Francisco, CA 94102",1987-05-22 04:15:29,2019-10-21 22:55:04,2024-05-25 09:54:20,VIP,3373.35,8926,True
+sdv-id-yjiWkT,Dawn,Ingram,gonzaleznicole@example.com,513.996.7307,"212 Cedar Rd, Philadelphia, PA 19101",1988-02-28 13:37:56,2018-07-19 15:08:59,2024-05-24 16:40:50,VIP,611.98,2458,True
+sdv-id-RWeCgo,Lindsey,Osborne,gregory83@example.org,(729)688-5945x257,Sample Data,2001-01-02 04:20:12,2020-07-22 09:38:11,2024-06-02 10:52:15,Premium,113.31,464,True
+sdv-id-fdjhzB,Michelle,Greene,mitchelldawn@example.net,+1-823-487-9849x400,"121 Market St, San Francisco, CA 94102",1988-04-27 10:28:50,2019-09-23 00:01:34,2024-05-22 07:26:39,Standard,14312.12,6148,False
+sdv-id-HRyyrc,Janet,Webb,elijah61@example.com,001-727-965-3326x9767,"343 Monument Cir, Indianapolis, IN 46204",1967-09-17 04:18:25,2018-02-12 10:03:09,2024-01-24 17:08:18,Standard,12641.11,16414,True
+sdv-id-ZRYBpr,Keith,Pearson,ncollins@example.net,577.396.2329,"333 Pennsylvania Ave NW, Washington, DC 20004",1965-04-14 15:00:00,2018-10-12 22:20:53,2023-11-11 23:39:38,VIP,25381.21,30000,True
+sdv-id-bOKqAZ,Tara,Williams,lawrencejulie@example.org,(682)697-1251,"343 Monument Cir, Indianapolis, IN 46204",1991-11-02 13:33:42,2023-07-10 15:45:53,2024-02-11 06:34:22,Premium,3102.31,7586,False
+sdv-id-SHSFTM,Christopher,Foster,cynthiawilson@example.org,+1-367-245-4741x03438,"999 Riverfront Dr, Jacksonville, FL 32202",1976-06-23 19:02:49,2018-06-27 23:12:05,2023-11-05 23:48:48,VIP,19893.36,2350,True
+sdv-id-wDqcbC,Scott,Jensen,tammyfuentes@example.com,473.526.9077x357,"666 Elm St, Dallas, TX 75201",2000-03-29 00:07:59,2022-03-11 09:41:15,2024-06-02 10:29:59,Standard,120.06,456,True
+sdv-id-znoWmb,Scott,Rogers,jenna62@example.com,001-571-476-3253x498,"212 Cedar Rd, Philadelphia, PA 19101",1987-01-23 00:10:42,2019-03-29 05:05:42,2024-05-17 10:41:21,Standard,144.1,3819,False
+sdv-id-KuzDKr,Tracy,Crosby,john54@example.net,+1-222-998-0266x6086,"121 Market St, San Francisco, CA 94102",1967-06-30 08:14:06,2018-02-23 02:57:19,2024-03-31 09:49:16,VIP,13117.52,18977,True
+sdv-id-FyYOTC,Jerry,Allen,michaelvelez@example.org,893.860.1171x4337,"789 Pine Ln, Los Angeles, CA 90001",1973-12-08 19:07:42,2019-01-20 15:35:21,2024-02-22 02:31:09,Premium,12756.82,11733,True
+sdv-id-ukDWvc,Hayden,Russell,ryanwatts@example.net,(972)694-1713x72150,"212 Cedar Rd, Philadelphia, PA 19101",1968-05-26 17:51:53,2018-02-25 12:22:22,2023-12-21 03:33:10,VIP,16498.41,20169,True
+sdv-id-YYEWUf,Alison,Graham,ronaldhernandez@example.org,+1-414-680-0338,"101 Birch Blvd, Houston, TX 77001",2000-04-09 16:47:03,2023-09-10 12:22:36,2024-05-26 00:55:11,Premium,1125.11,414,False
+sdv-id-YHpuUr,Kevin,Clark,angel56@example.net,753-263-4763x188,"789 Pine Ln, Los Angeles, CA 90001",1970-02-03 03:16:48,2018-02-23 21:55:53,2024-03-16 12:46:04,Standard,13487.29,14751,False
+sdv-id-PnZgdE,Rose,Patterson,candacejohnson@example.net,(804)862-6179x21778,"555 Aspen Dr, San Diego, CA 92101",1986-08-20 22:18:17,2018-09-02 02:00:12,2024-05-24 22:19:51,Premium,2038.99,6456,False
+sdv-id-TklxRw,Casey,Jordan,bbailey@example.net,001-431-411-0942x097,"101 Birch Blvd, Houston, TX 77001",1969-09-01 16:13:24,2018-11-11 19:46:11,2024-03-07 09:53:55,Standard,14280.98,18119,True
+sdv-id-iDiGwc,Christopher,Hall,murphyjesse@example.net,+1-864-538-3578x77403,"222 Beacon St, Boston, MA 02116",1975-11-03 04:18:28,2019-09-25 05:01:26,2024-03-06 06:03:36,Premium,6389.46,18926,True
+sdv-id-BmcqCE,James,Morris,xreed@example.com,736.978.2551x7370,"121 Market St, San Francisco, CA 94102",1995-04-17 23:46:28,2020-04-04 11:35:12,2024-05-26 23:45:58,Premium,579.13,2051,False
+sdv-id-TeaQMx,Rebecca,Harris,cookgregory@example.com,351.491.0083,"222 Beacon St, Boston, MA 02116",1993-05-18 19:45:55,2019-07-17 10:18:53,2024-05-14 13:33:03,Premium,168.11,1221,True
+sdv-id-HpVRXJ,Jennifer,Jarvis,rachel92@example.org,001-554-717-8815x2916,"565 High St, Columbus, OH 43215",2002-12-09 19:13:35,2023-10-01 02:50:25,2024-06-02 11:02:27,Premium,111.52,264,False
+sdv-id-zUiAnj,Jonathan,Morgan,valeriemaxwell@example.net,420.845.6814x602,"565 High St, Columbus, OH 43215",2001-11-19 17:41:42,2024-01-01 01:01:01,2024-05-21 22:17:24,Premium,117.25,309,False
+sdv-id-eZtGRA,Eric,Huerta,tammysnyder@example.org,(342)840-9019x62117,"789 Pine Ln, Los Angeles, CA 90001",1993-08-08 09:32:03,2020-03-07 23:28:16,2024-05-31 07:43:40,Premium,124.14,2186,True
+sdv-id-mQyAlk,Cassidy,Martinez,heather96@example.org,+1-368-326-8843x886,"777 Redwood Pkwy, San Jose, CA 95101",1999-01-29 20:12:25,2021-03-11 15:26:47,2024-06-02 08:19:03,Standard,120.27,245,True
+sdv-id-KOBWME,Crystal,Wilson,cprice@example.net,(808)486-2217,"333 Pennsylvania Ave NW, Washington, DC 20004",2000-05-05 00:07:20,2021-03-04 02:04:25,2024-06-02 08:00:53,Premium,111.8,1028,False
+sdv-id-ZmyHHQ,Andrew,Best,lopezalex@example.net,753-201-1052x7775,"444 Woodward Ave, Detroit, MI 48226",1997-10-23 10:33:46,2022-04-18 04:51:52,2024-05-24 11:31:34,Premium,874.76,4290,True
+sdv-id-YxhqQr,Jonathan,Perry,cburke@example.com,434-282-1424x437,"444 Willow Way, San Antonio, TX 78201",1976-11-20 09:47:00,2019-08-24 23:28:27,2024-04-30 14:55:42,Premium,18048.02,13232,False
+sdv-id-MUGBie,John,Jones,christopher14@example.org,001-391-531-7556,"121 Market St, San Francisco, CA 94102",1986-04-30 22:31:33,2021-05-23 16:32:53,2024-05-11 18:06:54,Standard,3738.47,7253,False
+sdv-id-mcLNZW,Timothy,Stevenson,olsonmichael@example.org,367-478-3122,"789 Pine Ln, Los Angeles, CA 90001",1986-10-19 01:58:42,2020-01-09 17:07:27,2024-05-21 08:24:09,Premium,2787.73,2484,True
+sdv-id-gLSnQW,Matthew,Thompson,kwilson@example.com,(327)698-4723x54859,"777 Redwood Pkwy, San Jose, CA 95101",1968-11-19 06:33:14,2019-01-05 23:24:26,2024-01-21 01:40:30,Standard,24430.87,19562,False
+sdv-id-Cpadxf,Jenna,Graves,zachary40@example.net,+1-672-536-8805x123,"444 Willow Way, San Antonio, TX 78201",1975-11-24 06:22:58,2020-08-07 04:23:24,2024-01-01 23:48:23,Standard,19754.87,8802,False
+sdv-id-WUBrls,Zachary,Walters,hollygarcia@example.org,380-369-8542,"777 E Pratt St, Baltimore, MD 21202",1975-08-07 19:06:00,2018-10-07 01:43:57,2024-02-22 10:39:19,Premium,22622.02,4957,False
+sdv-id-nKGPer,Mary,Pratt,hintonapril@example.com,401-290-5285x929,"444 Woodward Ave, Detroit, MI 48226",1999-01-31 02:56:13,2019-06-28 10:09:13,2024-06-02 11:06:38,Standard,111.32,455,False
+sdv-id-baPWTU,Kevin,Andersen,denise72@example.com,876.834.8984x1875,"212 Cedar Rd, Philadelphia, PA 19101",1986-03-13 04:04:35,2019-03-22 13:23:15,2024-01-23 11:30:08,Standard,3252.99,1588,True
+sdv-id-iVCQdE,Michelle,Chavez,gilmorejonathan@example.org,265.831.8240,"101 Birch Blvd, Houston, TX 77001",1994-10-21 09:33:02,2019-09-24 22:57:39,2024-05-31 17:35:08,Premium,3186.93,1808,True
+sdv-id-abRfMz,Jeffrey,Martinez,zmitchell@example.com,+1-478-274-4820x9883,"565 High St, Columbus, OH 43215",2000-02-18 04:58:11,2020-08-03 22:41:42,2024-05-27 06:07:03,Standard,111.39,360,True
+sdv-id-QVCxhX,Shawn,Mendoza,cstewart@example.net,480.416.8849x138,"456 Oak Ave, Chicago, IL 60601",1981-03-14 18:09:12,2021-11-20 16:18:35,2024-05-25 18:45:59,Standard,3424.64,4358,True
+sdv-id-hOEjul,Richard,Reeves,alvinpugh@example.com,+1-488-845-8389x95395,Sample Data,1986-11-08 12:33:15,2021-08-26 13:51:50,2024-06-01 06:32:59,VIP,2759.09,6812,True
+sdv-id-GlzoDM,Alexis,Lopez,qharrison@example.net,(542)745-0027x151,"789 Pine Ln, Los Angeles, CA 90001",1996-09-17 16:56:42,2020-11-10 22:43:46,2024-05-26 23:00:58,Premium,404.77,2426,False
+sdv-id-cqRjDE,Joshua,Diaz,castroalexander@example.net,4218672114,Sample Data,2000-05-23 21:37:25,2023-03-12 19:45:09,2024-06-02 10:32:05,Premium,115.45,956,True
+sdv-id-tHZATS,Edward,Martin,garybell@example.org,001-758-697-2558,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1991-04-07 22:07:28,2020-02-05 01:23:11,2024-05-29 06:50:18,Standard,161.43,2944,True
+sdv-id-ubzoHf,Paul,Diaz,victoriawatts@example.org,7234557003,"787 Trade St, Charlotte, NC 28202",1984-10-19 14:24:12,2018-05-22 22:22:18,2024-05-08 17:41:11,Premium,263.13,4892,True
+sdv-id-azgyCq,Alicia,Howe,julie89@example.com,001-620-933-5537,"222 Beacon St, Boston, MA 02116",1998-08-26 15:00:28,2022-12-13 07:19:32,2024-05-29 16:41:01,Standard,218.41,814,True
+sdv-id-CCACro,Michael,Nunez,fmiller@example.com,891.308.1579,"555 Aspen Dr, San Diego, CA 92101",1991-12-13 12:04:51,2021-07-14 03:43:45,2024-05-31 10:14:43,Standard,117.61,3408,False
+sdv-id-eWOpXK,Erik,Conley,tuckermatthew@example.com,943.952.0567x08176,"666 Elm St, Dallas, TX 75201",1989-04-04 02:44:04,2019-09-10 14:28:18,2024-05-27 00:43:35,Premium,131.82,3907,True
+sdv-id-yqQMWn,Sue,Wilson,pattersonnatalie@example.com,449-572-4931x7324,"777 E Pratt St, Baltimore, MD 21202",2001-12-12 15:55:21,2023-05-31 13:03:13,2024-05-29 22:08:13,Standard,122.42,181,True
+sdv-id-UOVSrx,Rick,Wilson,acostatamara@example.org,001-907-366-0437,"222 Beacon St, Boston, MA 02116",1980-02-24 02:20:15,2019-08-02 22:45:14,2024-01-14 23:23:25,Standard,15354.4,9464,True
+sdv-id-gKLEMX,Antonio,Walker,ahall@example.net,001-795-868-6900,"456 Oak Ave, Chicago, IL 60601",1977-04-08 05:50:30,2018-06-09 11:53:42,2024-03-27 06:23:45,Standard,4919.7,8308,True
+sdv-id-fdsbQH,Carl,Anderson,lee88@example.com,2847792493,"333 Pennsylvania Ave NW, Washington, DC 20004",1981-04-01 09:35:13,2019-12-03 16:35:45,2024-05-03 07:27:45,VIP,365.88,15377,True
+sdv-id-oMyRmB,Emily,Johnson,mcconnellemma@example.org,8946772818,"121 Market St, San Francisco, CA 94102",1993-05-23 21:30:37,2020-11-04 23:19:10,2024-05-07 11:57:43,Standard,723.93,1792,True
+sdv-id-FkKEkd,Jeffery,Levine,vperez@example.net,(960)642-1210x9201,"666 SW Broadway, Portland, OR 97205",1983-11-13 07:37:52,2018-07-07 03:51:08,2024-02-24 07:49:05,Standard,2037.25,2398,True
+sdv-id-GAORtO,Carrie,Martinez,anthonywoods@example.net,681.971.4515x101,Sample Data,1983-09-21 16:27:30,2019-06-24 22:18:35,2024-04-20 02:17:45,Standard,1239.36,1443,True
+sdv-id-TfDMcD,Ashley,Walker,wallskevin@example.net,001-891-425-1097x847,"666 SW Broadway, Portland, OR 97205",1994-07-21 05:33:59,2021-06-12 19:30:57,2024-05-31 04:27:49,Standard,300.59,2629,False
+sdv-id-QiyLKV,Daniel,Lee,johnsonisaiah@example.org,607-632-1208x10588,"212 Cedar Rd, Philadelphia, PA 19101",1992-06-24 13:04:20,2020-06-13 22:24:56,2024-05-13 01:41:30,Standard,3939.07,1204,True
+sdv-id-ihEaCm,Nicholas,Stewart,jenningstracy@example.org,(700)255-1710x34481,"343 Monument Cir, Indianapolis, IN 46204",1991-03-06 14:32:56,2019-06-08 08:45:26,2024-05-12 19:08:00,Standard,114.02,1874,True
+sdv-id-FyZBGO,Marilyn,Berry,monicagarza@example.com,001-507-670-8162,"333 Pennsylvania Ave NW, Washington, DC 20004",1994-07-30 23:59:48,2020-11-26 15:12:28,2024-06-01 21:13:19,VIP,591.71,2608,True
+sdv-id-uviSqS,Jessica,Kirk,fieldsashley@example.org,(473)639-5924x0193,"343 Monument Cir, Indianapolis, IN 46204",1991-04-28 08:38:50,2021-07-25 05:20:21,2024-04-13 11:39:29,VIP,8702.01,2333,True
+sdv-id-BJMmtB,Teresa,Rivera,lisa12@example.org,(476)355-4781x4563,"666 Elm St, Dallas, TX 75201",2002-08-26 03:57:58,2023-04-17 22:34:37,2024-06-01 04:00:53,Standard,111.34,185,False
+sdv-id-CVKjDG,Lisa,Rowe,kathryn36@example.org,252.758.7637,"555 Aspen Dr, San Diego, CA 92101",2001-12-16 16:15:00,2022-12-06 06:15:56,2024-06-01 19:03:17,Premium,113.15,216,False
+sdv-id-SBdGXk,Lucas,Kramer,kimberly46@example.com,(202)812-2101,"666 SW Broadway, Portland, OR 97205",2000-02-23 15:46:20,2021-12-10 20:32:56,2024-06-02 06:35:43,Premium,146.29,1332,True
+sdv-id-kWqjYY,Donald,Byrd,conniemartin@example.com,+1-645-352-0719x421,"212 Cedar Rd, Philadelphia, PA 19101",1973-11-17 01:39:15,2020-01-18 10:21:25,2024-04-15 01:49:03,Premium,19083.75,19064,True
+sdv-id-tPhIND,Nicole,Baker,smithvictor@example.net,683-535-8718x036,"565 High St, Columbus, OH 43215",1972-10-10 14:57:07,2018-05-11 06:09:40,2024-03-28 23:39:46,Standard,22215.25,16105,True
+sdv-id-PsDGTH,Jackson,Stewart,gwolfe@example.com,780-695-9743x90691,"222 Beacon St, Boston, MA 02116",1997-12-16 15:57:04,2022-12-15 03:25:31,2024-05-21 19:38:16,Standard,539.08,414,True
+sdv-id-CoaNET,Charles,Crawford,kennethreynolds@example.com,001-503-755-0582x68516,"666 Elm St, Dallas, TX 75201",2002-03-17 11:49:22,2022-11-04 01:31:26,2024-06-01 04:33:54,Standard,111.4,183,True
+sdv-id-XTJhim,Christian,Frazier,diana83@example.org,325-391-4229,"787 Trade St, Charlotte, NC 28202",1998-10-05 23:59:59,2021-06-17 17:02:32,2024-06-02 01:09:54,Standard,152.3,313,True
+sdv-id-RYFqIX,Scott,Dunlap,melissagregory@example.org,(548)762-9067,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1985-03-02 20:26:55,2019-11-08 11:29:18,2024-05-30 14:15:07,Standard,7732.74,7235,False
+sdv-id-mWrrXS,Victoria,Flores,kevin81@example.com,444.510.6922x7674,Sample Data,1991-11-01 21:35:01,2022-02-28 03:03:49,2024-05-25 02:28:42,Standard,8782.36,1942,False
+sdv-id-EFqySg,Sarah,Lewis,dennisalyssa@example.com,764.875.5928x1040,"787 Trade St, Charlotte, NC 28202",1979-08-31 22:00:18,2018-08-13 14:21:51,2024-04-10 09:25:57,Standard,2885.54,8417,True
+sdv-id-dcYxZE,John,Jenkins,aaronmckay@example.net,(912)959-5080x6603,"101 Birch Blvd, Houston, TX 77001",1991-07-01 11:58:36,2021-07-29 00:37:11,2024-05-25 16:34:30,Standard,291.67,1309,False
+sdv-id-tfuawk,Ryan,Lewis,andersonariel@example.net,642-324-5040x203,"101 Birch Blvd, Houston, TX 77001",1997-08-15 01:45:52,2021-02-19 08:02:33,2024-05-31 08:41:10,Standard,134.98,1128,True
+sdv-id-CuBnyJ,Lisa,Walton,thomas20@example.net,582.356.9745,"565 High St, Columbus, OH 43215",1981-06-21 04:25:52,2018-09-11 21:30:20,2024-04-28 15:01:29,Premium,892.25,2447,True
+sdv-id-AmvKXF,Lisa,Pitts,curtis13@example.com,578.228.8793,"333 Spruce Ct, Phoenix, AZ 85001",1966-10-31 04:15:58,2018-04-06 21:18:49,2023-12-26 10:42:38,Standard,25425.07,30000,True
+sdv-id-PQvrJU,Gavin,Fritz,sarahsmith@example.com,(659)506-6703x6534,"555 Las Vegas Blvd S, Las Vegas, NV 89109",1968-12-22 01:07:30,2018-04-20 18:31:39,2024-04-19 23:49:19,Standard,21873.23,14599,False
+sdv-id-nXOOti,Shawn,Lucero,benjamin71@example.net,001-458-826-3842x0939,"565 High St, Columbus, OH 43215",2001-12-23 16:29:50,2023-09-24 09:41:21,2024-06-01 21:41:59,Standard,117.54,204,True
+sdv-id-QPZDFV,Amy,Williams,johnhuang@example.org,001-635-301-1700,"909 Pike Pl, Seattle, WA 98101",1977-02-25 21:43:28,2019-04-27 07:32:40,2024-01-31 15:52:11,Standard,22496.27,8203,True
+sdv-id-opJtRr,Nicole,Edwards,kennethjones@example.org,+1-745-217-2937x66824,"333 Pennsylvania Ave NW, Washington, DC 20004",1994-01-11 20:19:03,2021-08-17 12:00:19,2024-06-01 08:33:48,Standard,113.63,2510,True
+sdv-id-nbXegj,Jennifer,Gutierrez,isaacjones@example.com,+1-293-897-6820x7608,"343 Monument Cir, Indianapolis, IN 46204",1969-05-06 09:33:51,2018-03-06 19:03:39,2023-12-05 12:20:17,Premium,15622.06,16569,False
+sdv-id-ArBFus,Alexis,Wheeler,mooneyjohn@example.com,434-604-0340,"787 Trade St, Charlotte, NC 28202",2001-04-25 11:51:51,2021-12-03 22:16:43,2024-05-31 23:09:08,VIP,114.48,289,True

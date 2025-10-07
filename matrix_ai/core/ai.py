@@ -6,7 +6,7 @@ from vertexai.generative_models import GenerativeModel
 import logging
 from .config import GCP_PROJECT_ID, GCP_LOCATION, GEMINI_MODEL
 from .google_auth import setup_google_auth
-from typing import Dict, Any
+from typing import Dict, Any, List
 
 logger = logging.getLogger(__name__)
 

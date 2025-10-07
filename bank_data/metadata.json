@@ -1,0 +1,72 @@
+{
+  "tables": {
+    "customers": {
+      "columns": {
+        "customer_id": {
+          "sdtype": "id"
+        },
+        "first_name": {
+          "sdtype": "categorical"
+        },
+        "last_name": {
+          "sdtype": "categorical"
+        },
+        "email": {
+          "sdtype": "categorical"
+        },
+        "phone_number": {
+          "sdtype": "categorical"
+        },
+        "address": {
+          "sdtype": "categorical"
+        },
+        "city": {
+          "sdtype": "categorical"
+        },
+        "state": {
+          "sdtype": "categorical"
+        },
+        "zip_code": {
+          "sdtype": "categorical"
+        },
+        "join_date": {
+          "sdtype": "datetime",
+          "datetime_format": "%Y-%m-%d %H:%M:%S"
+        }
+      },
+      "primary_key": "customer_id"
+    },
+    "transactions": {
+      "columns": {
+        "transaction_id": {
+          "sdtype": "id"
+        },
+        "customer_id": {
+          "sdtype": "id"
+        },
+        "transaction_date": {
+          "sdtype": "datetime",
+          "datetime_format": "%Y-%m-%d %H:%M:%S"
+        },
+        "amount": {
+          "sdtype": "numerical"
+        },
+        "payment_method": {
+          "sdtype": "categorical"
+        },
+        "product_category": {
+          "sdtype": "categorical"
+        }
+      },
+      "primary_key": "transaction_id"
+    }
+  },
+  "relationships": [
+    {
+      "parent_table_name": "customers",
+      "child_table_name": "transactions",
+      "parent_primary_key": "customer_id",
+      "child_foreign_key": "customer_id"
+    }
+  ]
+}
